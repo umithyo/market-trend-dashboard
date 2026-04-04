@@ -1,0 +1,302 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Market Trend Dashboard</title>
+<style>
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+  body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; background: #0d1117; color: #e6edf3; padding: 20px; }
+  h1 { text-align: center; margin-bottom: 8px; font-size: 1.6rem; }
+  .subtitle { text-align: center; color: #8b949e; font-size: 0.85rem; margin-bottom: 16px; }
+  .filters { max-width: 1100px; margin: 0 auto 8px; display: flex; gap: 8px; flex-wrap: wrap; justify-content: center; }
+  .filters button { background: #21262d; color: #8b949e; border: 1px solid #30363d; border-radius: 6px; padding: 6px 14px; font-size: 0.82rem; cursor: pointer; transition: all 0.15s; }
+  .filters button:hover { border-color: #58a6ff; color: #e6edf3; }
+  .filters button.active { background: #1f6feb; color: #fff; border-color: #1f6feb; }
+  .cat-filters { max-width: 1100px; margin: 0 auto 16px; display: flex; gap: 6px; flex-wrap: wrap; justify-content: center; }
+  .cat-filters button { background: #161b22; color: #8b949e; border: 1px solid #30363d; border-radius: 12px; padding: 4px 12px; font-size: 0.78rem; cursor: pointer; transition: all 0.15s; }
+  .cat-filters button:hover { border-color: #58a6ff; color: #e6edf3; }
+  .cat-filters button.active { background: #238636; color: #fff; border-color: #238636; }
+  .search-wrap { max-width: 1100px; margin: 0 auto 12px; display: flex; justify-content: center; }
+  .search-wrap input { background: #161b22; color: #e6edf3; border: 1px solid #30363d; border-radius: 6px; padding: 6px 14px; font-size: 0.85rem; width: 260px; outline: none; }
+  .search-wrap input:focus { border-color: #58a6ff; }
+  table { width: 100%; max-width: 1100px; margin: 0 auto; border-collapse: collapse; }
+  th, td { border: 1px solid #30363d; padding: 10px 12px; text-align: center; }
+  th { background: #161b22; font-weight: 600; font-size: 0.75rem; color: #8b949e; text-transform: uppercase; letter-spacing: 0.5px; cursor: pointer; user-select: none; white-space: nowrap; }
+  th:hover { color: #e6edf3; }
+  th .arrow { font-size: 0.6rem; margin-left: 3px; opacity: 0.4; }
+  th.active .arrow { opacity: 1; color: #58a6ff; }
+  td { font-size: 0.9rem; }
+  tr:hover td { background: #161b22; }
+  td.ticker { font-weight: 700; text-align: left; }
+  td.price { font-family: 'SF Mono', 'Courier New', monospace; }
+  td.cat { font-size: 0.75rem; color: #8b949e; }
+  td.gap { font-family: 'SF Mono', 'Courier New', monospace; font-size: 0.82rem; }
+  .dot { width: 24px; height: 24px; border-radius: 50%; display: inline-block; }
+  .gray { background: #30363d; }
+  .badge { display: inline-block; padding: 2px 8px; border-radius: 10px; font-size: 0.7rem; font-weight: 600; }
+  .badge-gold { background: #bb8a1a33; color: #f0c040; }
+  .badge-silver { background: #8b949e33; color: #c0c8d0; }
+  .badge-stock { background: #1f6feb22; color: #58a6ff; }
+  #status { text-align: center; padding: 40px; color: #8b949e; font-size: 0.95rem; }
+  .legend { max-width: 1100px; margin: 20px auto 0; color: #8b949e; font-size: 0.8rem; line-height: 1.6; }
+  .error { color: #f85149; }
+  .count { text-align: center; color: #8b949e; font-size: 0.8rem; margin-bottom: 8px; max-width: 1100px; margin-left: auto; margin-right: auto; }
+</style>
+</head>
+<body>
+
+<h1>Market Trend Dashboard</h1>
+<p class="subtitle">50-Day SMA Trend Signals &mdash; S&amp;P 500 + Gold &amp; Silver</p>
+
+<div class="filters">
+  <button data-filter="all" class="active">All</button>
+  <button data-filter="usdGreen">USD Green</button>
+  <button data-filter="spyGreen">vs SPY Green</button>
+  <button data-filter="bothGreen">Both Green</button>
+  <button data-filter="allRed">All Red</button>
+</div>
+
+<div class="cat-filters">
+  <button data-cat="all" class="active">All Assets</button>
+  <button data-cat="gold">Gold</button>
+  <button data-cat="silver">Silver</button>
+  <button data-cat="stock">Stocks</button>
+</div>
+
+<div class="search-wrap">
+  <input type="text" id="search" placeholder="Search ticker...">
+</div>
+
+<div class="count" id="count"></div>
+
+<table>
+  <thead>
+    <tr>
+      <th data-col="symbol">Ticker <span class="arrow"></span></th>
+      <th data-col="category">Type <span class="arrow"></span></th>
+      <th data-col="price">Price <span class="arrow"></span></th>
+      <th data-col="usdTrend">vs USD <span class="arrow"></span></th>
+      <th data-col="usdGapPct">USD Gap <span class="arrow"></span></th>
+      <th data-col="spyTrend">vs SPY <span class="arrow"></span></th>
+      <th data-col="spyGapPct">SPY Gap <span class="arrow"></span></th>
+    </tr>
+  </thead>
+  <tbody id="tbody"></tbody>
+</table>
+
+<div id="status">Loading...</div>
+
+<div class="legend">
+  <strong>How it works:</strong><br>
+  Dot color is a gradient based on distance from the 50-day SMA:
+  <span style="color:hsl(120,70%,45%);">Green</span> = far above,
+  <span style="color:hsl(60,70%,45%);">Yellow</span> = near the SMA,
+  <span style="color:hsl(0,70%,45%);">Red</span> = far below.<br>
+  <strong>vs SPY</strong> = performance relative to the S&amp;P 500 (SPY). Green means outperforming SPY over the SMA window.<br>
+  <strong>Gap</strong> = % distance from the 50-day SMA. Positive = above, negative = below.<br>
+  Data updated daily via GitHub Actions.
+</div>
+
+<script>
+let assets = [];
+let activeFilter = 'all';
+let activeCat = 'all';
+let searchQuery = '';
+
+function loadCookie(name, fallback) {
+  const m = document.cookie.match(new RegExp(`${name}=([^;]+)`));
+  return m ? m[1] : fallback;
+}
+function saveCookie(name, val) {
+  document.cookie = `${name}=${val};path=/;max-age=31536000`;
+}
+
+const savedSort = loadCookie('sort', 'default:desc').split(':');
+let sortCol = savedSort[0];
+let sortDir = savedSort[1] || 'desc';
+
+function formatPrice(p) {
+  if (p >= 1) return '$' + p.toLocaleString('en-US', { minimumFractionDigits: 2, maximumFractionDigits: 2 });
+  if (p >= 0.01) return '$' + p.toFixed(4);
+  return '$' + p.toFixed(6);
+}
+
+function gapColor(pct) {
+  if (pct === null) return null;
+  const clamped = Math.max(-30, Math.min(30, pct));
+  const hue = ((clamped + 30) / 60) * 120;
+  return `hsl(${hue}, 70%, 45%)`;
+}
+
+function dot(val, gapPct) {
+  if (val === null && gapPct === null) return '<span class="dot gray" title="No data"></span>';
+  const color = gapColor(gapPct);
+  if (!color) return '<span class="dot gray"></span>';
+  return `<span class="dot" style="background:${color};box-shadow:0 0 8px ${color}44" title="${gapPct > 0 ? '+' : ''}${(gapPct || 0).toFixed(1)}% from SMA"></span>`;
+}
+
+function formatGap(pct) {
+  if (pct === null) return '-';
+  const sign = pct >= 0 ? '+' : '';
+  const color = gapColor(pct);
+  return `<span style="color:${color}">${sign}${pct.toFixed(1)}%</span>`;
+}
+
+function badgeHtml(cat) {
+  const labels = { gold: 'Gold', silver: 'Silver', stock: 'Stock' };
+  return `<span class="badge badge-${cat}">${labels[cat] || cat}</span>`;
+}
+
+function defaultScore(c) {
+  return (c.usdTrend === true ? 1 : 0) + (c.spyTrend === true ? 1 : 0);
+}
+
+function trendVal(v) {
+  if (v === true) return 2;
+  if (v === false) return 1;
+  return 0;
+}
+
+function getFiltered() {
+  let arr = assets;
+  if (activeCat !== 'all') arr = arr.filter(a => a.category === activeCat);
+  if (searchQuery) {
+    const q = searchQuery.toUpperCase();
+    arr = arr.filter(a => a.symbol.includes(q));
+  }
+  switch (activeFilter) {
+    case 'usdGreen': return arr.filter(c => c.usdTrend === true);
+    case 'spyGreen': return arr.filter(c => c.spyTrend === true);
+    case 'bothGreen': return arr.filter(c => c.usdTrend === true && c.spyTrend === true);
+    case 'allRed': return arr.filter(c => c.usdTrend === false && c.spyTrend === false);
+    default: return arr;
+  }
+}
+
+function getSorted() {
+  const arr = [...getFiltered()];
+  const dir = sortDir === 'asc' ? 1 : -1;
+
+  if (sortCol === 'default' || sortCol === 'usdTrend' || sortCol === 'spyTrend') {
+    const key = sortCol === 'default' ? null : sortCol;
+    arr.sort((a, b) => {
+      if (key) {
+        const diff = trendVal(a[key]) - trendVal(b[key]);
+        if (diff !== 0) return diff * dir;
+      } else {
+        const diff = defaultScore(a) - defaultScore(b);
+        if (diff !== 0) return diff * dir;
+      }
+      return a.symbol.localeCompare(b.symbol);
+    });
+  } else if (sortCol === 'symbol') {
+    arr.sort((a, b) => a.symbol.localeCompare(b.symbol) * dir);
+  } else if (sortCol === 'category') {
+    arr.sort((a, b) => a.category.localeCompare(b.category) * dir);
+  } else if (sortCol === 'price') {
+    arr.sort((a, b) => ((a.price || 0) - (b.price || 0)) * dir);
+  } else if (sortCol === 'usdGapPct' || sortCol === 'spyGapPct') {
+    arr.sort((a, b) => ((a[sortCol] ?? -999) - (b[sortCol] ?? -999)) * dir);
+  }
+
+  return arr;
+}
+
+function render() {
+  const tbody = document.getElementById('tbody');
+  const sorted = getSorted();
+  tbody.innerHTML = '';
+
+  for (const a of sorted) {
+    const row = document.createElement('tr');
+    row.innerHTML = `
+      <td class="ticker">${a.symbol}</td>
+      <td class="cat">${badgeHtml(a.category)}</td>
+      <td class="price">${a.price !== null ? formatPrice(a.price) : '<span class="error">N/A</span>'}</td>
+      <td>${dot(a.usdTrend, a.usdGapPct)}</td>
+      <td class="gap">${formatGap(a.usdGapPct)}</td>
+      <td>${dot(a.spyTrend, a.spyGapPct)}</td>
+      <td class="gap">${formatGap(a.spyGapPct)}</td>
+    `;
+    tbody.appendChild(row);
+  }
+
+  document.getElementById('count').textContent = `Showing ${sorted.length} of ${assets.length} assets`;
+
+  document.querySelectorAll('th').forEach(th => {
+    const col = th.dataset.col;
+    const arrow = th.querySelector('.arrow');
+    if (col === sortCol || (sortCol === 'default' && col === 'usdTrend')) {
+      th.classList.add('active');
+      arrow.textContent = sortDir === 'desc' ? '\u25BC' : '\u25B2';
+    } else {
+      th.classList.remove('active');
+      arrow.textContent = '\u25BC';
+    }
+  });
+
+  document.querySelectorAll('.filters button').forEach(btn => {
+    btn.classList.toggle('active', btn.dataset.filter === activeFilter);
+  });
+  document.querySelectorAll('.cat-filters button').forEach(btn => {
+    btn.classList.toggle('active', btn.dataset.cat === activeCat);
+  });
+}
+
+document.querySelectorAll('th').forEach(th => {
+  th.addEventListener('click', () => {
+    const col = th.dataset.col;
+    if (sortCol === col) {
+      sortDir = sortDir === 'desc' ? 'asc' : 'desc';
+    } else {
+      sortCol = col;
+      sortDir = (col === 'symbol' || col === 'category') ? 'asc' : 'desc';
+    }
+    saveCookie('sort', `${sortCol}:${sortDir}`);
+    render();
+  });
+});
+
+document.querySelectorAll('.filters button').forEach(btn => {
+  btn.addEventListener('click', () => {
+    activeFilter = btn.dataset.filter;
+    saveCookie('filter', activeFilter);
+    render();
+  });
+});
+
+document.querySelectorAll('.cat-filters button').forEach(btn => {
+  btn.addEventListener('click', () => {
+    activeCat = btn.dataset.cat;
+    saveCookie('cat', activeCat);
+    render();
+  });
+});
+
+document.getElementById('search').addEventListener('input', (e) => {
+  searchQuery = e.target.value.trim();
+  render();
+});
+
+async function main() {
+  const status = document.getElementById('status');
+  try {
+    const r = await fetch('data.json');
+    if (!r.ok) throw new Error('data.json not found');
+    const data = await r.json();
+    assets = data.assets;
+    activeFilter = loadCookie('filter', 'all');
+    activeCat = loadCookie('cat', 'all');
+    render();
+    const updated = new Date(data.updated);
+    status.textContent = `Last updated: ${updated.toLocaleString()} | Benchmark: ${data.benchmark}`;
+  } catch (e) {
+    status.innerHTML = '<span class="error">Failed to load data. Run fetch-data.mjs first or trigger the workflow.</span>';
+  }
+}
+
+main();
+</script>
+</body>
+</html>
