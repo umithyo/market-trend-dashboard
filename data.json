@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-26T11:38:30.784Z",
+  "updated": "2026-10-27T11:09:11.269Z",
   "benchmark": "SPY",
   "assets": [
     {
@@ -3378,15 +3378,6 @@
       "spyGapPct": -3.8
     },
     {
-      "symbol": "PEG",
-      "category": "stock",
-      "price": 70.315,
-      "usdTrend": false,
-      "usdGapPct": -2.15,
-      "spyTrend": false,
-      "spyGapPct": -1.91
-    },
-    {
       "symbol": "PTC",
       "category": "stock",
       "price": 193.065,
@@ -3394,6 +3385,15 @@
       "usdGapPct": 25.32,
       "spyTrend": true,
       "spyGapPct": 25.71
+    },
+    {
+      "symbol": "PEG",
+      "category": "stock",
+      "price": 70.315,
+      "usdTrend": false,
+      "usdGapPct": -2.15,
+      "spyTrend": false,
+      "spyGapPct": -1.91
     },
     {
       "symbol": "PSA",
@@ -4307,11 +4307,11 @@
     {
       "symbol": "VYLR",
       "category": "stock",
-      "price": 74.585,
+      "price": 73.845,
       "usdTrend": true,
-      "usdGapPct": 2.53,
+      "usdGapPct": 1.36,
       "spyTrend": true,
-      "spyGapPct": 3.17
+      "spyGapPct": 1.96
     },
     {
       "symbol": "WRB",
