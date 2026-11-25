@@ -1,4533 +1,4533 @@
 {
-  "updated": "2026-11-24T16:34:15.669Z",
+  "updated": "2026-11-25T16:14:31.437Z",
   "benchmark": "SPY",
   "assets": [
     {
       "symbol": "GLD",
       "category": "gold",
-      "price": 352.94,
+      "price": 352.46,
       "usdTrend": false,
-      "usdGapPct": -7.34,
+      "usdGapPct": -7.2,
       "spyTrend": false,
-      "spyGapPct": -4.29
+      "spyGapPct": -3.22
     },
     {
       "symbol": "SLV",
       "category": "silver",
-      "price": 42.4,
+      "price": 42.645,
       "usdTrend": false,
-      "usdGapPct": -19.81,
+      "usdGapPct": -18.81,
       "spyTrend": false,
-      "spyGapPct": -17.13
+      "spyGapPct": -15.29
     },
     {
       "symbol": "MMM",
       "category": "stock",
-      "price": 181.82,
+      "price": 180.87,
       "usdTrend": true,
-      "usdGapPct": 6.54,
+      "usdGapPct": 5.82,
       "spyTrend": true,
-      "spyGapPct": 9.99
+      "spyGapPct": 10.29
     },
     {
       "symbol": "AOS",
       "category": "stock",
-      "price": 63.92,
+      "price": 63.39,
       "usdTrend": true,
-      "usdGapPct": 6.95,
+      "usdGapPct": 5.94,
       "spyTrend": true,
-      "spyGapPct": 10.41
+      "spyGapPct": 10.42
     },
     {
       "symbol": "ABT",
       "category": "stock",
-      "price": 107.52,
+      "price": 104.685,
       "usdTrend": true,
-      "usdGapPct": 3.46,
+      "usdGapPct": 0.74,
       "spyTrend": true,
-      "spyGapPct": 6.82
+      "spyGapPct": 5.01
     },
     {
       "symbol": "ABBV",
       "category": "stock",
-      "price": 294.545,
+      "price": 292.74,
       "usdTrend": true,
-      "usdGapPct": 6.91,
+      "usdGapPct": 5.96,
       "spyTrend": true,
-      "spyGapPct": 10.4
+      "spyGapPct": 10.47
     },
     {
       "symbol": "ACN",
       "category": "stock",
-      "price": 247.675,
+      "price": 239.33,
       "usdTrend": true,
-      "usdGapPct": 14.29,
+      "usdGapPct": 9.82,
       "spyTrend": true,
-      "spyGapPct": 17.94
+      "spyGapPct": 14.41
     },
     {
       "symbol": "ADBE",
       "category": "stock",
-      "price": 246.03,
+      "price": 235.365,
       "usdTrend": false,
-      "usdGapPct": -0.14,
-      "spyTrend": true,
-      "spyGapPct": 3.13
+      "usdGapPct": -4.31,
+      "spyTrend": false,
+      "spyGapPct": -0.22
     },
     {
       "symbol": "AMD",
       "category": "stock",
-      "price": 504.12,
+      "price": 503.305,
       "usdTrend": false,
-      "usdGapPct": -9.09,
+      "usdGapPct": -9.32,
       "spyTrend": false,
-      "spyGapPct": -6.01
+      "spyGapPct": -5.35
     },
     {
       "symbol": "AES",
       "category": "stock",
-      "price": 14.94,
+      "price": 14.96,
       "usdTrend": true,
-      "usdGapPct": 0.25,
+      "usdGapPct": 0.37,
       "spyTrend": true,
-      "spyGapPct": 3.55
+      "spyGapPct": 4.66
     },
     {
       "symbol": "AFL",
       "category": "stock",
-      "price": 128.095,
+      "price": 127.7,
       "usdTrend": true,
-      "usdGapPct": 8.11,
+      "usdGapPct": 7.58,
       "spyTrend": true,
-      "spyGapPct": 11.62
+      "spyGapPct": 12.14
     },
     {
       "symbol": "A",
       "category": "stock",
-      "price": 172.88,
+      "price": 172.18,
       "usdTrend": true,
-      "usdGapPct": 2.67,
+      "usdGapPct": 1.99,
       "spyTrend": true,
-      "spyGapPct": 6.04
+      "spyGapPct": 6.35
     },
     {
       "symbol": "APD",
       "category": "stock",
-      "price": 313.975,
+      "price": 306.87,
       "usdTrend": true,
-      "usdGapPct": 6.2,
+      "usdGapPct": 3.71,
       "spyTrend": true,
-      "spyGapPct": 9.66
+      "spyGapPct": 8.11
     },
     {
       "symbol": "ABNB",
       "category": "stock",
-      "price": 186.21,
+      "price": 180.89,
       "usdTrend": true,
-      "usdGapPct": 10.11,
+      "usdGapPct": 6.91,
       "spyTrend": true,
-      "spyGapPct": 13.69
+      "spyGapPct": 11.44
     },
     {
       "symbol": "AKAM",
       "category": "stock",
-      "price": 84.19,
+      "price": 84.67,
       "usdTrend": false,
-      "usdGapPct": -15.23,
+      "usdGapPct": -14.39,
       "spyTrend": false,
-      "spyGapPct": -12.39
+      "spyGapPct": -10.65
     },
     {
       "symbol": "ALB",
       "category": "stock",
-      "price": 88.15,
+      "price": 87.685,
       "usdTrend": false,
-      "usdGapPct": -14.88,
+      "usdGapPct": -14.7,
       "spyTrend": false,
-      "spyGapPct": -12.08
+      "spyGapPct": -11.04
     },
     {
       "symbol": "ARE",
       "category": "stock",
-      "price": 43.55,
+      "price": 42.39,
       "usdTrend": false,
-      "usdGapPct": -6.29,
+      "usdGapPct": -8.43,
       "spyTrend": false,
-      "spyGapPct": -3.21
+      "spyGapPct": -4.51
     },
     {
       "symbol": "ALGN",
       "category": "stock",
-      "price": 166,
+      "price": 163.425,
       "usdTrend": true,
-      "usdGapPct": 9.43,
+      "usdGapPct": 7.62,
       "spyTrend": true,
-      "spyGapPct": 12.96
+      "spyGapPct": 12.16
     },
     {
       "symbol": "ALLE",
       "category": "stock",
-      "price": 190.85,
+      "price": 186.78,
       "usdTrend": true,
-      "usdGapPct": 15.78,
+      "usdGapPct": 12.85,
       "spyTrend": true,
-      "spyGapPct": 19.49
+      "spyGapPct": 17.57
     },
     {
       "symbol": "LNT",
       "category": "stock",
-      "price": 72.94,
+      "price": 71.305,
       "usdTrend": true,
-      "usdGapPct": 7.31,
+      "usdGapPct": 4.75,
       "spyTrend": true,
-      "spyGapPct": 10.78
+      "spyGapPct": 9.18
     },
     {
       "symbol": "ALL",
       "category": "stock",
-      "price": 270.47,
+      "price": 270.37,
       "usdTrend": true,
-      "usdGapPct": 9.88,
+      "usdGapPct": 9.75,
       "spyTrend": true,
-      "spyGapPct": 13.44
+      "spyGapPct": 14.38
     },
     {
       "symbol": "GOOGL",
       "category": "stock",
-      "price": 283.795,
+      "price": 280.15,
       "usdTrend": false,
-      "usdGapPct": -13.53,
+      "usdGapPct": -14.35,
       "spyTrend": false,
       "spyGapPct": -10.63
     },
     {
       "symbol": "GOOG",
       "category": "stock",
-      "price": 281.28,
+      "price": 277.58,
       "usdTrend": false,
-      "usdGapPct": -13.48,
+      "usdGapPct": -14.33,
       "spyTrend": false,
-      "spyGapPct": -10.58
+      "spyGapPct": -10.61
     },
     {
       "symbol": "MO",
       "category": "stock",
-      "price": 78.9,
+      "price": 77.48,
       "usdTrend": true,
-      "usdGapPct": 9.29,
+      "usdGapPct": 7.03,
       "spyTrend": true,
-      "spyGapPct": 12.84
+      "spyGapPct": 11.56
     },
     {
       "symbol": "AMZN",
       "category": "stock",
-      "price": 257.8,
+      "price": 257.9,
       "usdTrend": true,
-      "usdGapPct": 1.16,
+      "usdGapPct": 1.21,
       "spyTrend": true,
-      "spyGapPct": 4.48
+      "spyGapPct": 5.53
     },
     {
       "symbol": "AMCR",
       "category": "stock",
-      "price": 43.82,
-      "usdTrend": true,
-      "usdGapPct": 0.02,
+      "price": 43.46,
+      "usdTrend": false,
+      "usdGapPct": -0.75,
       "spyTrend": true,
-      "spyGapPct": 3.27
+      "spyGapPct": 3.47
     },
     {
       "symbol": "AEE",
       "category": "stock",
-      "price": 114.24,
+      "price": 111.96,
       "usdTrend": true,
-      "usdGapPct": 8.1,
+      "usdGapPct": 5.79,
       "spyTrend": true,
-      "spyGapPct": 11.61
+      "spyGapPct": 10.27
     },
     {
       "symbol": "AEP",
       "category": "stock",
-      "price": 129.38,
+      "price": 125.96,
       "usdTrend": true,
-      "usdGapPct": 3.9,
+      "usdGapPct": 1.08,
       "spyTrend": true,
-      "spyGapPct": 7.3
+      "spyGapPct": 5.38
     },
     {
       "symbol": "AXP",
       "category": "stock",
-      "price": 319.02,
+      "price": 315.775,
       "usdTrend": true,
-      "usdGapPct": 1.11,
-      "spyTrend": true,
-      "spyGapPct": 4.41
-    },
-    {
-      "symbol": "AIG",
-      "category": "stock",
-      "price": 82.76,
-      "usdTrend": true,
-      "usdGapPct": 6.07,
-      "spyTrend": true,
-      "spyGapPct": 9.53
-    },
-    {
-      "symbol": "AMT",
-      "category": "stock",
-      "price": 190.65,
-      "usdTrend": true,
-      "usdGapPct": 6.65,
-      "spyTrend": true,
-      "spyGapPct": 10.12
-    },
-    {
-      "symbol": "AWK",
-      "category": "stock",
-      "price": 151.36,
-      "usdTrend": true,
-      "usdGapPct": 9.85,
-      "spyTrend": true,
-      "spyGapPct": 13.39
-    },
-    {
-      "symbol": "AMP",
-      "category": "stock",
-      "price": 514.295,
-      "usdTrend": true,
-      "usdGapPct": 0.63,
-      "spyTrend": true,
-      "spyGapPct": 3.91
-    },
-    {
-      "symbol": "AME",
-      "category": "stock",
-      "price": 235.83,
-      "usdTrend": false,
-      "usdGapPct": -3.11,
-      "spyTrend": true,
-      "spyGapPct": 0.09
-    },
-    {
-      "symbol": "AMGN",
-      "category": "stock",
-      "price": 462.35,
-      "usdTrend": true,
-      "usdGapPct": 8.71,
-      "spyTrend": true,
-      "spyGapPct": 12.24
-    },
-    {
-      "symbol": "APH",
-      "category": "stock",
-      "price": 75.47,
-      "usdTrend": false,
-      "usdGapPct": -7.04,
-      "spyTrend": false,
-      "spyGapPct": -3.95
-    },
-    {
-      "symbol": "ADI",
-      "category": "stock",
-      "price": 383.14,
-      "usdTrend": false,
-      "usdGapPct": -2.95,
-      "spyTrend": true,
-      "spyGapPct": 0.26
-    },
-    {
-      "symbol": "AON",
-      "category": "stock",
-      "price": 343.19,
-      "usdTrend": true,
-      "usdGapPct": 14.1,
-      "spyTrend": true,
-      "spyGapPct": 17.76
-    },
-    {
-      "symbol": "APA",
-      "category": "stock",
-      "price": 47.3,
-      "usdTrend": true,
-      "usdGapPct": 2.41,
-      "spyTrend": true,
-      "spyGapPct": 5.77
-    },
-    {
-      "symbol": "APO",
-      "category": "stock",
-      "price": 119.97,
-      "usdTrend": true,
-      "usdGapPct": 0.32,
-      "spyTrend": true,
-      "spyGapPct": 3.61
-    },
-    {
-      "symbol": "AAPL",
-      "category": "stock",
-      "price": 352.78,
-      "usdTrend": true,
-      "usdGapPct": 4.04,
-      "spyTrend": true,
-      "spyGapPct": 7.45
-    },
-    {
-      "symbol": "AMAT",
-      "category": "stock",
-      "price": 350.28,
-      "usdTrend": false,
-      "usdGapPct": -20.01,
-      "spyTrend": false,
-      "spyGapPct": -17.29
-    },
-    {
-      "symbol": "APP",
-      "category": "stock",
-      "price": 415.195,
-      "usdTrend": true,
-      "usdGapPct": 37.43,
-      "spyTrend": true,
-      "spyGapPct": 41.8
-    },
-    {
-      "symbol": "APTV",
-      "category": "stock",
-      "price": 37.81,
-      "usdTrend": false,
-      "usdGapPct": -13.12,
-      "spyTrend": false,
-      "spyGapPct": -10.24
-    },
-    {
-      "symbol": "ACGL",
-      "category": "stock",
-      "price": 110.9,
-      "usdTrend": true,
-      "usdGapPct": 11.04,
-      "spyTrend": true,
-      "spyGapPct": 14.63
-    },
-    {
-      "symbol": "ADM",
-      "category": "stock",
-      "price": 70.64,
-      "usdTrend": false,
-      "usdGapPct": -11.52,
-      "spyTrend": false,
-      "spyGapPct": -8.58
-    },
-    {
-      "symbol": "ARES",
-      "category": "stock",
-      "price": 130.25,
-      "usdTrend": true,
-      "usdGapPct": 4.42,
-      "spyTrend": true,
-      "spyGapPct": 7.8
-    },
-    {
-      "symbol": "ANET",
-      "category": "stock",
-      "price": 187.17,
-      "usdTrend": false,
-      "usdGapPct": -2.99,
-      "spyTrend": true,
-      "spyGapPct": 0.26
-    },
-    {
-      "symbol": "AJG",
-      "category": "stock",
-      "price": 287.11,
-      "usdTrend": true,
-      "usdGapPct": 14.07,
-      "spyTrend": true,
-      "spyGapPct": 17.73
-    },
-    {
-      "symbol": "AIZ",
-      "category": "stock",
-      "price": 324,
-      "usdTrend": true,
-      "usdGapPct": 14.02,
-      "spyTrend": true,
-      "spyGapPct": 17.7
-    },
-    {
-      "symbol": "T",
-      "category": "stock",
-      "price": 22.38,
-      "usdTrend": false,
-      "usdGapPct": -5.05,
-      "spyTrend": false,
-      "spyGapPct": -1.91
-    },
-    {
-      "symbol": "ATO",
-      "category": "stock",
-      "price": 176.14,
-      "usdTrend": true,
-      "usdGapPct": 6.35,
-      "spyTrend": true,
-      "spyGapPct": 9.81
-    },
-    {
-      "symbol": "ADSK",
-      "category": "stock",
-      "price": 265.6,
-      "usdTrend": true,
-      "usdGapPct": 13.4,
-      "spyTrend": true,
-      "spyGapPct": 17.06
-    },
-    {
-      "symbol": "ADP",
-      "category": "stock",
-      "price": 313.46,
-      "usdTrend": true,
-      "usdGapPct": 11.41,
-      "spyTrend": true,
-      "spyGapPct": 15.02
-    },
-    {
-      "symbol": "AZO",
-      "category": "stock",
-      "price": 3269.92,
-      "usdTrend": true,
-      "usdGapPct": 8.25,
-      "spyTrend": true,
-      "spyGapPct": 11.76
-    },
-    {
-      "symbol": "AVY",
-      "category": "stock",
-      "price": 187.44,
-      "usdTrend": true,
-      "usdGapPct": 6.38,
-      "spyTrend": true,
-      "spyGapPct": 9.83
-    },
-    {
-      "symbol": "AXON",
-      "category": "stock",
-      "price": 306.61,
-      "usdTrend": false,
-      "usdGapPct": -26.62,
-      "spyTrend": false,
-      "spyGapPct": -24.17
-    },
-    {
-      "symbol": "BKR",
-      "category": "stock",
-      "price": 47.95,
-      "usdTrend": false,
-      "usdGapPct": -13.51,
-      "spyTrend": false,
-      "spyGapPct": -10.63
-    },
-    {
-      "symbol": "BALL",
-      "category": "stock",
-      "price": 65.38,
-      "usdTrend": true,
-      "usdGapPct": 6.03,
-      "spyTrend": true,
-      "spyGapPct": 9.46
-    },
-    {
-      "symbol": "BAC",
-      "category": "stock",
-      "price": 50.105,
-      "usdTrend": false,
-      "usdGapPct": -7.34,
-      "spyTrend": false,
-      "spyGapPct": -4.28
-    },
-    {
-      "symbol": "BAX",
-      "category": "stock",
-      "price": 25.55,
-      "usdTrend": true,
-      "usdGapPct": 4.12,
-      "spyTrend": true,
-      "spyGapPct": 7.52
-    },
-    {
-      "symbol": "BDX",
-      "category": "stock",
-      "price": 216.34,
-      "usdTrend": true,
-      "usdGapPct": 13.31,
-      "spyTrend": true,
-      "spyGapPct": 16.98
-    },
-    {
-      "symbol": "BBY",
-      "category": "stock",
-      "price": 103.32,
-      "usdTrend": true,
-      "usdGapPct": 10.34,
-      "spyTrend": true,
-      "spyGapPct": 13.91
-    },
-    {
-      "symbol": "TECH",
-      "category": "stock",
-      "price": 72.81,
-      "usdTrend": true,
-      "usdGapPct": 0.37,
-      "spyTrend": true,
-      "spyGapPct": 3.66
-    },
-    {
-      "symbol": "BIIB",
-      "category": "stock",
-      "price": 251.76,
-      "usdTrend": true,
-      "usdGapPct": 7.87,
-      "spyTrend": true,
-      "spyGapPct": 11.38
-    },
-    {
-      "symbol": "BLK",
-      "category": "stock",
-      "price": 1199.45,
-      "usdTrend": true,
-      "usdGapPct": 7.73,
-      "spyTrend": true,
-      "spyGapPct": 11.23
-    },
-    {
-      "symbol": "BX",
-      "category": "stock",
-      "price": 117.065,
-      "usdTrend": false,
-      "usdGapPct": -1.28,
-      "spyTrend": true,
-      "spyGapPct": 1.94
-    },
-    {
-      "symbol": "XYZ",
-      "category": "stock",
-      "price": 83.04,
-      "usdTrend": true,
-      "usdGapPct": 6.11,
-      "spyTrend": true,
-      "spyGapPct": 9.55
-    },
-    {
-      "symbol": "BE",
-      "category": "stock",
-      "price": 177.345,
-      "usdTrend": false,
-      "usdGapPct": -27.32,
-      "spyTrend": false,
-      "spyGapPct": -24.84
-    },
-    {
-      "symbol": "BNY",
-      "category": "stock",
-      "price": 151.705,
-      "usdTrend": true,
-      "usdGapPct": 1.62,
-      "spyTrend": true,
-      "spyGapPct": 4.94
-    },
-    {
-      "symbol": "BA",
-      "category": "stock",
-      "price": 165.21,
-      "usdTrend": false,
-      "usdGapPct": -12.5,
-      "spyTrend": false,
-      "spyGapPct": -9.6
-    },
-    {
-      "symbol": "BKNG",
-      "category": "stock",
-      "price": 157.56,
-      "usdTrend": false,
-      "usdGapPct": -3.16,
-      "spyTrend": true,
-      "spyGapPct": 0.01
-    },
-    {
-      "symbol": "BSX",
-      "category": "stock",
-      "price": 43.705,
-      "usdTrend": false,
-      "usdGapPct": -0.71,
-      "spyTrend": true,
-      "spyGapPct": 2.55
-    },
-    {
-      "symbol": "BMY",
-      "category": "stock",
-      "price": 62.95,
-      "usdTrend": true,
-      "usdGapPct": 1.69,
-      "spyTrend": true,
-      "spyGapPct": 5
-    },
-    {
-      "symbol": "AVGO",
-      "category": "stock",
-      "price": 333.75,
-      "usdTrend": false,
-      "usdGapPct": -3.37,
-      "spyTrend": false,
-      "spyGapPct": -0.16
-    },
-    {
-      "symbol": "BR",
-      "category": "stock",
-      "price": 195.22,
-      "usdTrend": true,
-      "usdGapPct": 12.65,
-      "spyTrend": true,
-      "spyGapPct": 16.28
-    },
-    {
-      "symbol": "BRO",
-      "category": "stock",
-      "price": 73.51,
-      "usdTrend": true,
-      "usdGapPct": 9.92,
-      "spyTrend": true,
-      "spyGapPct": 13.48
-    },
-    {
-      "symbol": "BG",
-      "category": "stock",
-      "price": 98.97,
-      "usdTrend": false,
-      "usdGapPct": -7.72,
-      "spyTrend": false,
-      "spyGapPct": -4.68
-    },
-    {
-      "symbol": "BXP",
-      "category": "stock",
-      "price": 63.89,
-      "usdTrend": true,
-      "usdGapPct": 2.61,
-      "spyTrend": true,
-      "spyGapPct": 5.95
-    },
-    {
-      "symbol": "CHRW",
-      "category": "stock",
-      "price": 134.67,
-      "usdTrend": false,
-      "usdGapPct": -5.2,
-      "spyTrend": false,
-      "spyGapPct": -2.07
-    },
-    {
-      "symbol": "CDNS",
-      "category": "stock",
-      "price": 309.34,
-      "usdTrend": false,
-      "usdGapPct": -3.58,
-      "spyTrend": false,
-      "spyGapPct": -0.39
-    },
-    {
-      "symbol": "CPT",
-      "category": "stock",
-      "price": 99.145,
-      "usdTrend": false,
-      "usdGapPct": -0.75,
-      "spyTrend": true,
-      "spyGapPct": 2.5
-    },
-    {
-      "symbol": "COF",
-      "category": "stock",
-      "price": 193.2,
-      "usdTrend": false,
-      "usdGapPct": -4.2,
-      "spyTrend": false,
-      "spyGapPct": -1.06
-    },
-    {
-      "symbol": "CAH",
-      "category": "stock",
-      "price": 283.89,
-      "usdTrend": true,
-      "usdGapPct": 16.25,
-      "spyTrend": true,
-      "spyGapPct": 20.01
-    },
-    {
-      "symbol": "CCL",
-      "category": "stock",
-      "price": 29.03,
-      "usdTrend": true,
-      "usdGapPct": 11.99,
-      "spyTrend": true,
-      "spyGapPct": 15.61
-    },
-    {
-      "symbol": "CARR",
-      "category": "stock",
-      "price": 51.68,
-      "usdTrend": false,
-      "usdGapPct": -6.82,
-      "spyTrend": false,
-      "spyGapPct": -3.75
-    },
-    {
-      "symbol": "CVNA",
-      "category": "stock",
-      "price": 70.755,
-      "usdTrend": true,
-      "usdGapPct": 7.57,
-      "spyTrend": true,
-      "spyGapPct": 11.04
-    },
-    {
-      "symbol": "CASY",
-      "category": "stock",
-      "price": 705.76,
-      "usdTrend": true,
-      "usdGapPct": 8,
-      "spyTrend": true,
-      "spyGapPct": 11.51
-    },
-    {
-      "symbol": "CAT",
-      "category": "stock",
-      "price": 570.475,
-      "usdTrend": false,
-      "usdGapPct": -22.98,
-      "spyTrend": false,
-      "spyGapPct": -20.38
-    },
-    {
-      "symbol": "CBOE",
-      "category": "stock",
-      "price": 377.11,
-      "usdTrend": true,
-      "usdGapPct": 23.57,
-      "spyTrend": true,
-      "spyGapPct": 27.53
-    },
-    {
-      "symbol": "CBRE",
-      "category": "stock",
-      "price": 133.2,
-      "usdTrend": false,
-      "usdGapPct": -0.51,
-      "spyTrend": true,
-      "spyGapPct": 2.74
-    },
-    {
-      "symbol": "CDW",
-      "category": "stock",
-      "price": 165.79,
-      "usdTrend": true,
-      "usdGapPct": 10.01,
-      "spyTrend": true,
-      "spyGapPct": 13.57
-    },
-    {
-      "symbol": "COR",
-      "category": "stock",
-      "price": 357.02,
-      "usdTrend": true,
-      "usdGapPct": 9.12,
-      "spyTrend": true,
-      "spyGapPct": 12.67
-    },
-    {
-      "symbol": "CNC",
-      "category": "stock",
-      "price": 74.78,
-      "usdTrend": true,
-      "usdGapPct": 11.48,
-      "spyTrend": true,
-      "spyGapPct": 15.11
-    },
-    {
-      "symbol": "CNP",
-      "category": "stock",
-      "price": 40.68,
-      "usdTrend": true,
-      "usdGapPct": 2.94,
-      "spyTrend": true,
-      "spyGapPct": 6.29
-    },
-    {
-      "symbol": "CF",
-      "category": "stock",
-      "price": 119.88,
-      "usdTrend": false,
-      "usdGapPct": -1.21,
-      "spyTrend": true,
-      "spyGapPct": 2.01
-    },
-    {
-      "symbol": "CRL",
-      "category": "stock",
-      "price": 335.31,
-      "usdTrend": true,
-      "usdGapPct": 7.78,
-      "spyTrend": true,
-      "spyGapPct": 11.29
-    },
-    {
-      "symbol": "SCHW",
-      "category": "stock",
-      "price": 92.915,
-      "usdTrend": false,
-      "usdGapPct": -4.03,
-      "spyTrend": false,
-      "spyGapPct": -0.87
-    },
-    {
-      "symbol": "CHTR",
-      "category": "stock",
-      "price": 138.99,
-      "usdTrend": true,
-      "usdGapPct": 16.87,
-      "spyTrend": true,
-      "spyGapPct": 20.63
-    },
-    {
-      "symbol": "CVX",
-      "category": "stock",
-      "price": 217.15,
-      "usdTrend": true,
-      "usdGapPct": 0.76,
-      "spyTrend": true,
-      "spyGapPct": 4.06
-    },
-    {
-      "symbol": "CMG",
-      "category": "stock",
-      "price": 35.96,
-      "usdTrend": true,
-      "usdGapPct": 10.51,
-      "spyTrend": true,
-      "spyGapPct": 14.08
-    },
-    {
-      "symbol": "CB",
-      "category": "stock",
-      "price": 381.355,
-      "usdTrend": true,
-      "usdGapPct": 9.29,
-      "spyTrend": true,
-      "spyGapPct": 12.85
-    },
-    {
-      "symbol": "CHD",
-      "category": "stock",
-      "price": 114.77,
-      "usdTrend": true,
-      "usdGapPct": 13.19,
-      "spyTrend": true,
-      "spyGapPct": 16.86
-    },
-    {
-      "symbol": "CIEN",
-      "category": "stock",
-      "price": 257.435,
-      "usdTrend": false,
-      "usdGapPct": -24.99,
-      "spyTrend": false,
-      "spyGapPct": -22.42
-    },
-    {
-      "symbol": "CI",
-      "category": "stock",
-      "price": 299.99,
-      "usdTrend": true,
-      "usdGapPct": 4.33,
-      "spyTrend": true,
-      "spyGapPct": 7.73
-    },
-    {
-      "symbol": "CINF",
-      "category": "stock",
-      "price": 191.25,
-      "usdTrend": true,
-      "usdGapPct": 10.79,
-      "spyTrend": true,
-      "spyGapPct": 14.37
-    },
-    {
-      "symbol": "CTAS",
-      "category": "stock",
-      "price": 224.2,
-      "usdTrend": true,
-      "usdGapPct": 7.3,
-      "spyTrend": true,
-      "spyGapPct": 10.78
-    },
-    {
-      "symbol": "CSCO",
-      "category": "stock",
-      "price": 94.585,
-      "usdTrend": false,
-      "usdGapPct": -12.22,
-      "spyTrend": false,
-      "spyGapPct": -9.29
-    },
-    {
-      "symbol": "C",
-      "category": "stock",
-      "price": 121.35,
-      "usdTrend": false,
-      "usdGapPct": -5.09,
-      "spyTrend": false,
-      "spyGapPct": -1.96
-    },
-    {
-      "symbol": "CFG",
-      "category": "stock",
-      "price": 64.45,
-      "usdTrend": false,
-      "usdGapPct": -1.5,
-      "spyTrend": true,
-      "spyGapPct": 1.73
-    },
-    {
-      "symbol": "CLX",
-      "category": "stock",
-      "price": 110.175,
-      "usdTrend": true,
-      "usdGapPct": 24.11,
-      "spyTrend": true,
-      "spyGapPct": 28.09
-    },
-    {
-      "symbol": "CME",
-      "category": "stock",
-      "price": 319.36,
-      "usdTrend": true,
-      "usdGapPct": 11.66,
-      "spyTrend": true,
-      "spyGapPct": 15.28
-    },
-    {
-      "symbol": "CMS",
-      "category": "stock",
-      "price": 70.81,
-      "usdTrend": true,
-      "usdGapPct": 5.53,
-      "spyTrend": true,
-      "spyGapPct": 8.96
-    },
-    {
-      "symbol": "KO",
-      "category": "stock",
-      "price": 99.605,
-      "usdTrend": true,
-      "usdGapPct": 9.67,
-      "spyTrend": true,
-      "spyGapPct": 13.23
-    },
-    {
-      "symbol": "CTSH",
-      "category": "stock",
-      "price": 62.34,
-      "usdTrend": false,
-      "usdGapPct": -0.2,
-      "spyTrend": true,
-      "spyGapPct": 3.05
-    },
-    {
-      "symbol": "COHR",
-      "category": "stock",
-      "price": 203.41,
-      "usdTrend": false,
-      "usdGapPct": -23.31,
-      "spyTrend": false,
-      "spyGapPct": -20.69
-    },
-    {
-      "symbol": "COIN",
-      "category": "stock",
-      "price": 119.8,
-      "usdTrend": false,
-      "usdGapPct": -29.68,
-      "spyTrend": false,
-      "spyGapPct": -27.3
-    },
-    {
-      "symbol": "CL",
-      "category": "stock",
-      "price": 100.985,
-      "usdTrend": true,
-      "usdGapPct": 11.02,
-      "spyTrend": true,
-      "spyGapPct": 14.63
-    },
-    {
-      "symbol": "CMCSA",
-      "category": "stock",
-      "price": 25.61,
-      "usdTrend": true,
-      "usdGapPct": 11.54,
-      "spyTrend": true,
-      "spyGapPct": 15.14
-    },
-    {
-      "symbol": "FIX",
-      "category": "stock",
-      "price": 1057.215,
-      "usdTrend": false,
-      "usdGapPct": -28.01,
-      "spyTrend": false,
-      "spyGapPct": -25.55
-    },
-    {
-      "symbol": "COP",
-      "category": "stock",
-      "price": 140.52,
-      "usdTrend": true,
-      "usdGapPct": 2.34,
-      "spyTrend": true,
-      "spyGapPct": 5.69
-    },
-    {
-      "symbol": "ED",
-      "category": "stock",
-      "price": 121.86,
-      "usdTrend": true,
-      "usdGapPct": 10.69,
-      "spyTrend": true,
-      "spyGapPct": 14.28
-    },
-    {
-      "symbol": "STZ",
-      "category": "stock",
-      "price": 146.69,
-      "usdTrend": true,
-      "usdGapPct": 14.92,
-      "spyTrend": true,
-      "spyGapPct": 18.62
-    },
-    {
-      "symbol": "CEG",
-      "category": "stock",
-      "price": 277.75,
-      "usdTrend": true,
-      "usdGapPct": 3.06,
-      "spyTrend": true,
-      "spyGapPct": 6.48
-    },
-    {
-      "symbol": "COO",
-      "category": "stock",
-      "price": 61.905,
-      "usdTrend": true,
-      "usdGapPct": 5.84,
-      "spyTrend": true,
-      "spyGapPct": 9.27
-    },
-    {
-      "symbol": "CPRT",
-      "category": "stock",
-      "price": 32.095,
-      "usdTrend": true,
-      "usdGapPct": 9.23,
-      "spyTrend": true,
-      "spyGapPct": 12.74
-    },
-    {
-      "symbol": "GLW",
-      "category": "stock",
-      "price": 106.22,
-      "usdTrend": false,
-      "usdGapPct": -24.92,
-      "spyTrend": false,
-      "spyGapPct": -22.38
-    },
-    {
-      "symbol": "CPAY",
-      "category": "stock",
-      "price": 461.54,
-      "usdTrend": true,
-      "usdGapPct": 12.62,
-      "spyTrend": true,
-      "spyGapPct": 16.27
-    },
-    {
-      "symbol": "CSGP",
-      "category": "stock",
-      "price": 31.25,
-      "usdTrend": true,
-      "usdGapPct": 3.68,
-      "spyTrend": true,
-      "spyGapPct": 7.06
-    },
-    {
-      "symbol": "COST",
-      "category": "stock",
-      "price": 1114.02,
-      "usdTrend": true,
-      "usdGapPct": 15.19,
-      "spyTrend": true,
-      "spyGapPct": 18.92
-    },
-    {
-      "symbol": "CRH",
-      "category": "stock",
-      "price": 92.385,
-      "usdTrend": true,
-      "usdGapPct": 5.7,
-      "spyTrend": true,
-      "spyGapPct": 9.11
-    },
-    {
-      "symbol": "CRWD",
-      "category": "stock",
-      "price": 223.16,
-      "usdTrend": false,
-      "usdGapPct": -8.88,
-      "spyTrend": false,
-      "spyGapPct": -5.84
-    },
-    {
-      "symbol": "CCI",
-      "category": "stock",
-      "price": 89.4,
-      "usdTrend": true,
-      "usdGapPct": 13.95,
-      "spyTrend": true,
-      "spyGapPct": 17.61
-    },
-    {
-      "symbol": "CSX",
-      "category": "stock",
-      "price": 52.055,
-      "usdTrend": true,
-      "usdGapPct": 6.26,
-      "spyTrend": true,
-      "spyGapPct": 9.72
-    },
-    {
-      "symbol": "CMI",
-      "category": "stock",
-      "price": 432.73,
-      "usdTrend": false,
-      "usdGapPct": -16.29,
-      "spyTrend": false,
-      "spyGapPct": -13.5
-    },
-    {
-      "symbol": "CVS",
-      "category": "stock",
-      "price": 88.595,
-      "usdTrend": false,
-      "usdGapPct": -1.18,
-      "spyTrend": true,
-      "spyGapPct": 2.06
-    },
-    {
-      "symbol": "DHR",
-      "category": "stock",
-      "price": 230.02,
-      "usdTrend": true,
-      "usdGapPct": 3.37,
-      "spyTrend": true,
-      "spyGapPct": 6.75
-    },
-    {
-      "symbol": "DRI",
-      "category": "stock",
-      "price": 230.89,
-      "usdTrend": true,
-      "usdGapPct": 8.7,
-      "spyTrend": true,
-      "spyGapPct": 12.23
-    },
-    {
-      "symbol": "DDOG",
-      "category": "stock",
-      "price": 172.795,
-      "usdTrend": false,
-      "usdGapPct": -29.04,
-      "spyTrend": false,
-      "spyGapPct": -26.62
-    },
-    {
-      "symbol": "DVA",
-      "category": "stock",
-      "price": 174.06,
-      "usdTrend": false,
-      "usdGapPct": -4.7,
-      "spyTrend": false,
-      "spyGapPct": -1.59
-    },
-    {
-      "symbol": "DECK",
-      "category": "stock",
-      "price": 83.55,
-      "usdTrend": true,
-      "usdGapPct": 1.16,
-      "spyTrend": true,
-      "spyGapPct": 4.46
-    },
-    {
-      "symbol": "DE",
-      "category": "stock",
-      "price": 654.24,
-      "usdTrend": false,
-      "usdGapPct": -2.12,
-      "spyTrend": true,
-      "spyGapPct": 1.08
-    },
-    {
-      "symbol": "DELL",
-      "category": "stock",
-      "price": 320.565,
-      "usdTrend": false,
-      "usdGapPct": -35.04,
-      "spyTrend": false,
-      "spyGapPct": -32.81
-    },
-    {
-      "symbol": "DAL",
-      "category": "stock",
-      "price": 86.605,
-      "usdTrend": true,
-      "usdGapPct": 5.71,
-      "spyTrend": true,
-      "spyGapPct": 9.15
-    },
-    {
-      "symbol": "DVN",
-      "category": "stock",
-      "price": 44.27,
-      "usdTrend": false,
-      "usdGapPct": -8.3,
-      "spyTrend": false,
-      "spyGapPct": -5.26
-    },
-    {
-      "symbol": "DXCM",
-      "category": "stock",
-      "price": 81.66,
-      "usdTrend": false,
-      "usdGapPct": -3.13,
-      "spyTrend": true,
-      "spyGapPct": 0.06
-    },
-    {
-      "symbol": "FANG",
-      "category": "stock",
-      "price": 177.365,
-      "usdTrend": false,
-      "usdGapPct": -8.4,
-      "spyTrend": false,
-      "spyGapPct": -5.39
-    },
-    {
-      "symbol": "DLR",
-      "category": "stock",
-      "price": 178.74,
-      "usdTrend": false,
-      "usdGapPct": -0.55,
-      "spyTrend": true,
-      "spyGapPct": 2.71
-    },
-    {
-      "symbol": "DG",
-      "category": "stock",
-      "price": 136.18,
-      "usdTrend": true,
-      "usdGapPct": 6.14,
-      "spyTrend": true,
-      "spyGapPct": 9.59
-    },
-    {
-      "symbol": "DLTR",
-      "category": "stock",
-      "price": 138.67,
-      "usdTrend": true,
-      "usdGapPct": 12.42,
-      "spyTrend": true,
-      "spyGapPct": 16.05
-    },
-    {
-      "symbol": "D",
-      "category": "stock",
-      "price": 67.79,
-      "usdTrend": true,
-      "usdGapPct": 5.71,
-      "spyTrend": true,
-      "spyGapPct": 9.14
-    },
-    {
-      "symbol": "DPZ",
-      "category": "stock",
-      "price": 346.595,
-      "usdTrend": true,
-      "usdGapPct": 11.05,
-      "spyTrend": true,
-      "spyGapPct": 14.65
-    },
-    {
-      "symbol": "DASH",
-      "category": "stock",
-      "price": 169.775,
-      "usdTrend": false,
-      "usdGapPct": -9.76,
-      "spyTrend": false,
-      "spyGapPct": -6.78
-    },
-    {
-      "symbol": "DOV",
-      "category": "stock",
-      "price": 205.975,
-      "usdTrend": true,
-      "usdGapPct": 4.78,
-      "spyTrend": true,
-      "spyGapPct": 8.19
-    },
-    {
-      "symbol": "DOW",
-      "category": "stock",
-      "price": 31.96,
-      "usdTrend": true,
-      "usdGapPct": 5.66,
-      "spyTrend": true,
-      "spyGapPct": 9.08
-    },
-    {
-      "symbol": "DHI",
-      "category": "stock",
-      "price": 144.735,
-      "usdTrend": true,
-      "usdGapPct": 2.14,
-      "spyTrend": true,
-      "spyGapPct": 5.46
-    },
-    {
-      "symbol": "DTE",
-      "category": "stock",
-      "price": 139.895,
-      "usdTrend": true,
-      "usdGapPct": 7.2,
-      "spyTrend": true,
-      "spyGapPct": 10.69
-    },
-    {
-      "symbol": "DUK",
-      "category": "stock",
-      "price": 130.58,
-      "usdTrend": true,
-      "usdGapPct": 8.22,
-      "spyTrend": true,
-      "spyGapPct": 11.73
-    },
-    {
-      "symbol": "DD",
-      "category": "stock",
-      "price": 149.98,
-      "usdTrend": true,
-      "usdGapPct": 10.8,
-      "spyTrend": true,
-      "spyGapPct": 14.38
-    },
-    {
-      "symbol": "ETN",
-      "category": "stock",
-      "price": 336.94,
-      "usdTrend": false,
-      "usdGapPct": -16.04,
-      "spyTrend": false,
-      "spyGapPct": -13.22
-    },
-    {
-      "symbol": "EBAY",
-      "category": "stock",
-      "price": 120.885,
-      "usdTrend": true,
-      "usdGapPct": 5.87,
-      "spyTrend": true,
-      "spyGapPct": 9.31
-    },
-    {
-      "symbol": "ECHO",
-      "category": "stock",
-      "price": 99.44,
-      "usdTrend": true,
-      "usdGapPct": 6.46,
-      "spyTrend": true,
-      "spyGapPct": 9.94
-    },
-    {
-      "symbol": "ECL",
-      "category": "stock",
-      "price": 308.3,
-      "usdTrend": true,
-      "usdGapPct": 7.61,
-      "spyTrend": true,
-      "spyGapPct": 11.12
-    },
-    {
-      "symbol": "EIX",
-      "category": "stock",
-      "price": 61.985,
-      "usdTrend": true,
-      "usdGapPct": 9.61,
-      "spyTrend": true,
-      "spyGapPct": 13.17
-    },
-    {
-      "symbol": "EW",
-      "category": "stock",
-      "price": 107.12,
-      "usdTrend": true,
-      "usdGapPct": 18.46,
-      "spyTrend": true,
-      "spyGapPct": 22.28
-    },
-    {
-      "symbol": "ELV",
-      "category": "stock",
-      "price": 446.47,
-      "usdTrend": true,
-      "usdGapPct": 7.48,
-      "spyTrend": true,
-      "spyGapPct": 10.99
-    },
-    {
-      "symbol": "EME",
-      "category": "stock",
-      "price": 638.575,
-      "usdTrend": false,
-      "usdGapPct": -11.69,
-      "spyTrend": false,
-      "spyGapPct": -8.74
-    },
-    {
-      "symbol": "EMR",
-      "category": "stock",
-      "price": 160.63,
-      "usdTrend": true,
-      "usdGapPct": 0.67,
-      "spyTrend": true,
-      "spyGapPct": 3.97
-    },
-    {
-      "symbol": "ETR",
-      "category": "stock",
-      "price": 110.23,
-      "usdTrend": true,
-      "usdGapPct": 4.69,
-      "spyTrend": true,
-      "spyGapPct": 8.09
-    },
-    {
-      "symbol": "EOG",
-      "category": "stock",
-      "price": 155.53,
-      "usdTrend": true,
-      "usdGapPct": 3.66,
-      "spyTrend": true,
-      "spyGapPct": 7.06
-    },
-    {
-      "symbol": "EQT",
-      "category": "stock",
-      "price": 51.245,
-      "usdTrend": false,
-      "usdGapPct": -2.75,
-      "spyTrend": true,
-      "spyGapPct": 0.45
-    },
-    {
-      "symbol": "EFX",
-      "category": "stock",
-      "price": 189.465,
-      "usdTrend": true,
-      "usdGapPct": 13.99,
-      "spyTrend": true,
-      "spyGapPct": 17.63
-    },
-    {
-      "symbol": "EQIX",
-      "category": "stock",
-      "price": 1043.23,
-      "usdTrend": true,
-      "usdGapPct": 2.36,
-      "spyTrend": true,
-      "spyGapPct": 5.72
-    },
-    {
-      "symbol": "ERIE",
-      "category": "stock",
-      "price": 275.67,
-      "usdTrend": true,
-      "usdGapPct": 12.76,
-      "spyTrend": true,
-      "spyGapPct": 16.37
-    },
-    {
-      "symbol": "ESS",
-      "category": "stock",
-      "price": 273.58,
-      "usdTrend": true,
-      "usdGapPct": 0.64,
-      "spyTrend": true,
-      "spyGapPct": 3.94
-    },
-    {
-      "symbol": "EL",
-      "category": "stock",
-      "price": 108.56,
-      "usdTrend": true,
-      "usdGapPct": 6.65,
-      "spyTrend": true,
-      "spyGapPct": 10.11
-    },
-    {
-      "symbol": "EG",
-      "category": "stock",
-      "price": 432.94,
-      "usdTrend": true,
-      "usdGapPct": 11.95,
-      "spyTrend": true,
-      "spyGapPct": 15.57
-    },
-    {
-      "symbol": "EVRG",
-      "category": "stock",
-      "price": 88.39,
-      "usdTrend": true,
-      "usdGapPct": 7.13,
-      "spyTrend": true,
-      "spyGapPct": 10.61
-    },
-    {
-      "symbol": "P",
-      "category": "stock",
-      "price": 103.745,
-      "usdTrend": false,
-      "usdGapPct": -14.37,
-      "spyTrend": false,
-      "spyGapPct": -11.44
-    },
-    {
-      "symbol": "ES",
-      "category": "stock",
-      "price": 72.85,
-      "usdTrend": true,
-      "usdGapPct": 8.18,
-      "spyTrend": true,
-      "spyGapPct": 11.7
-    },
-    {
-      "symbol": "EXC",
-      "category": "stock",
-      "price": 46.475,
-      "usdTrend": true,
-      "usdGapPct": 7.54,
-      "spyTrend": true,
-      "spyGapPct": 11.03
-    },
-    {
-      "symbol": "EXE",
-      "category": "stock",
-      "price": 86.31,
-      "usdTrend": false,
-      "usdGapPct": -4.03,
-      "spyTrend": false,
-      "spyGapPct": -0.87
-    },
-    {
-      "symbol": "EXPE",
-      "category": "stock",
-      "price": 252.61,
-      "usdTrend": false,
-      "usdGapPct": -8.61,
-      "spyTrend": false,
-      "spyGapPct": -5.61
-    },
-    {
-      "symbol": "EXPD",
-      "category": "stock",
-      "price": 195.21,
-      "usdTrend": true,
-      "usdGapPct": 1.26,
-      "spyTrend": true,
-      "spyGapPct": 4.59
-    },
-    {
-      "symbol": "EXR",
-      "category": "stock",
-      "price": 158.3,
-      "usdTrend": true,
-      "usdGapPct": 11.72,
-      "spyTrend": true,
-      "spyGapPct": 15.32
-    },
-    {
-      "symbol": "XOM",
-      "category": "stock",
-      "price": 166.98,
-      "usdTrend": false,
-      "usdGapPct": -1.42,
-      "spyTrend": true,
-      "spyGapPct": 1.82
-    },
-    {
-      "symbol": "FFIV",
-      "category": "stock",
-      "price": 304.625,
-      "usdTrend": false,
-      "usdGapPct": -26.37,
-      "spyTrend": false,
-      "spyGapPct": -23.85
-    },
-    {
-      "symbol": "FDS",
-      "category": "stock",
-      "price": 331.68,
-      "usdTrend": true,
-      "usdGapPct": 11.16,
-      "spyTrend": true,
-      "spyGapPct": 14.74
-    },
-    {
-      "symbol": "FICO",
-      "category": "stock",
-      "price": 718.985,
-      "usdTrend": false,
-      "usdGapPct": -8.72,
-      "spyTrend": false,
-      "spyGapPct": -5.73
-    },
-    {
-      "symbol": "FAST",
-      "category": "stock",
-      "price": 55.15,
-      "usdTrend": true,
-      "usdGapPct": 7.56,
-      "spyTrend": true,
-      "spyGapPct": 11.08
-    },
-    {
-      "symbol": "FRT",
-      "category": "stock",
-      "price": 113.93,
-      "usdTrend": true,
-      "usdGapPct": 3.44,
-      "spyTrend": true,
-      "spyGapPct": 6.81
-    },
-    {
-      "symbol": "FDX",
-      "category": "stock",
-      "price": 327.73,
-      "usdTrend": true,
-      "usdGapPct": 8.34,
-      "spyTrend": true,
-      "spyGapPct": 11.86
-    },
-    {
-      "symbol": "FDXF",
-      "category": "stock",
-      "price": 133.135,
-      "usdTrend": true,
-      "usdGapPct": 12.29,
-      "spyTrend": true,
-      "spyGapPct": 15.92
-    },
-    {
-      "symbol": "FERG",
-      "category": "stock",
-      "price": 253.12,
-      "usdTrend": true,
-      "usdGapPct": 10.54,
-      "spyTrend": true,
-      "spyGapPct": 14.13
-    },
-    {
-      "symbol": "FIS",
-      "category": "stock",
-      "price": 28.33,
-      "usdTrend": false,
-      "usdGapPct": -19.02,
-      "spyTrend": false,
-      "spyGapPct": -16.34
-    },
-    {
-      "symbol": "FITB",
-      "category": "stock",
-      "price": 53.65,
-      "usdTrend": true,
-      "usdGapPct": 1.88,
-      "spyTrend": true,
-      "spyGapPct": 5.2
-    },
-    {
-      "symbol": "FSLR",
-      "category": "stock",
-      "price": 162.4,
-      "usdTrend": false,
-      "usdGapPct": -12.01,
-      "spyTrend": false,
-      "spyGapPct": -9.14
-    },
-    {
-      "symbol": "FE",
-      "category": "stock",
-      "price": 47.565,
-      "usdTrend": true,
-      "usdGapPct": 4.47,
-      "spyTrend": true,
-      "spyGapPct": 7.88
-    },
-    {
-      "symbol": "FISV",
-      "category": "stock",
-      "price": 63.33,
-      "usdTrend": true,
-      "usdGapPct": 25.64,
-      "spyTrend": true,
-      "spyGapPct": 29.62
-    },
-    {
-      "symbol": "FLEX",
-      "category": "stock",
-      "price": 74.81,
-      "usdTrend": false,
-      "usdGapPct": -24.63,
-      "spyTrend": false,
-      "spyGapPct": -22.06
-    },
-    {
-      "symbol": "F",
-      "category": "stock",
-      "price": 11.58,
-      "usdTrend": false,
-      "usdGapPct": -7.81,
-      "spyTrend": false,
-      "spyGapPct": -4.79
-    },
-    {
-      "symbol": "FTNT",
-      "category": "stock",
-      "price": 123.32,
-      "usdTrend": false,
-      "usdGapPct": -25.02,
-      "spyTrend": false,
-      "spyGapPct": -22.46
-    },
-    {
-      "symbol": "FTV",
-      "category": "stock",
-      "price": 67.525,
-      "usdTrend": true,
-      "usdGapPct": 13.64,
-      "spyTrend": true,
-      "spyGapPct": 17.31
-    },
-    {
-      "symbol": "FOXA",
-      "category": "stock",
-      "price": 67.96,
-      "usdTrend": true,
-      "usdGapPct": 4.76,
-      "spyTrend": true,
-      "spyGapPct": 8.17
-    },
-    {
-      "symbol": "FOX",
-      "category": "stock",
-      "price": 60.75,
-      "usdTrend": true,
-      "usdGapPct": 4.91,
-      "spyTrend": true,
-      "spyGapPct": 8.32
-    },
-    {
-      "symbol": "BEN",
-      "category": "stock",
-      "price": 35.03,
-      "usdTrend": true,
-      "usdGapPct": 6.74,
-      "spyTrend": true,
-      "spyGapPct": 10.22
-    },
-    {
-      "symbol": "FCX",
-      "category": "stock",
-      "price": 55.21,
-      "usdTrend": false,
-      "usdGapPct": -19.41,
-      "spyTrend": false,
-      "spyGapPct": -16.71
-    },
-    {
-      "symbol": "GRMN",
-      "category": "stock",
-      "price": 279.6,
-      "usdTrend": false,
-      "usdGapPct": -1.05,
-      "spyTrend": true,
-      "spyGapPct": 2.19
-    },
-    {
-      "symbol": "IT",
-      "category": "stock",
-      "price": 187.52,
-      "usdTrend": false,
-      "usdGapPct": -4.81,
-      "spyTrend": false,
-      "spyGapPct": -1.7
-    },
-    {
-      "symbol": "GE",
-      "category": "stock",
-      "price": 325.29,
-      "usdTrend": true,
-      "usdGapPct": 3.33,
-      "spyTrend": true,
-      "spyGapPct": 6.71
-    },
-    {
-      "symbol": "GEHC",
-      "category": "stock",
-      "price": 82.99,
-      "usdTrend": true,
-      "usdGapPct": 17.62,
-      "spyTrend": true,
-      "spyGapPct": 21.39
-    },
-    {
-      "symbol": "GEV",
-      "category": "stock",
-      "price": 763.46,
-      "usdTrend": false,
-      "usdGapPct": -16.39,
-      "spyTrend": false,
-      "spyGapPct": -13.59
-    },
-    {
-      "symbol": "GEN",
-      "category": "stock",
-      "price": 30.41,
-      "usdTrend": true,
-      "usdGapPct": 14.75,
-      "spyTrend": true,
-      "spyGapPct": 18.39
-    },
-    {
-      "symbol": "GNRC",
-      "category": "stock",
-      "price": 185.69,
-      "usdTrend": false,
-      "usdGapPct": -6.41,
-      "spyTrend": false,
-      "spyGapPct": -3.29
-    },
-    {
-      "symbol": "GD",
-      "category": "stock",
-      "price": 359.565,
-      "usdTrend": true,
-      "usdGapPct": 2.97,
-      "spyTrend": true,
-      "spyGapPct": 6.32
-    },
-    {
-      "symbol": "GIS",
-      "category": "stock",
-      "price": 35.25,
-      "usdTrend": true,
-      "usdGapPct": 2.86,
-      "spyTrend": true,
-      "spyGapPct": 6.2
-    },
-    {
-      "symbol": "GM",
-      "category": "stock",
-      "price": 83.68,
-      "usdTrend": true,
-      "usdGapPct": 0.16,
-      "spyTrend": true,
-      "spyGapPct": 3.42
-    },
-    {
-      "symbol": "GPC",
-      "category": "stock",
-      "price": 122.105,
-      "usdTrend": false,
-      "usdGapPct": -4.32,
-      "spyTrend": false,
-      "spyGapPct": -1.17
-    },
-    {
-      "symbol": "GILD",
-      "category": "stock",
-      "price": 167.61,
-      "usdTrend": true,
-      "usdGapPct": 8.06,
-      "spyTrend": true,
-      "spyGapPct": 11.57
-    },
-    {
-      "symbol": "GPN",
-      "category": "stock",
-      "price": 89.885,
-      "usdTrend": true,
-      "usdGapPct": 3.17,
-      "spyTrend": true,
-      "spyGapPct": 6.48
-    },
-    {
-      "symbol": "GL",
-      "category": "stock",
-      "price": 159.36,
-      "usdTrend": false,
-      "usdGapPct": -3.81,
-      "spyTrend": false,
-      "spyGapPct": -0.64
-    },
-    {
-      "symbol": "GDDY",
-      "category": "stock",
-      "price": 112.26,
-      "usdTrend": true,
-      "usdGapPct": 7.35,
-      "spyTrend": true,
-      "spyGapPct": 10.82
-    },
-    {
-      "symbol": "GS",
-      "category": "stock",
-      "price": 891.615,
-      "usdTrend": false,
-      "usdGapPct": -3.28,
-      "spyTrend": false,
-      "spyGapPct": -0.11
-    },
-    {
-      "symbol": "HAL",
-      "category": "stock",
-      "price": 32.53,
-      "usdTrend": false,
-      "usdGapPct": -3.38,
-      "spyTrend": false,
-      "spyGapPct": -0.21
-    },
-    {
-      "symbol": "HIG",
-      "category": "stock",
-      "price": 137.82,
-      "usdTrend": true,
-      "usdGapPct": 3.93,
-      "spyTrend": true,
-      "spyGapPct": 7.32
-    },
-    {
-      "symbol": "HAS",
-      "category": "stock",
-      "price": 121.01,
-      "usdTrend": true,
-      "usdGapPct": 19.12,
-      "spyTrend": true,
-      "spyGapPct": 22.92
-    },
-    {
-      "symbol": "HCA",
-      "category": "stock",
-      "price": 511.85,
-      "usdTrend": true,
-      "usdGapPct": 13.05,
-      "spyTrend": true,
-      "spyGapPct": 16.72
-    },
-    {
-      "symbol": "DOC",
-      "category": "stock",
-      "price": 19.85,
-      "usdTrend": true,
-      "usdGapPct": 0.85,
-      "spyTrend": true,
-      "spyGapPct": 4.13
-    },
-    {
-      "symbol": "HSIC",
-      "category": "stock",
-      "price": 84.89,
-      "usdTrend": false,
-      "usdGapPct": -1.18,
-      "spyTrend": true,
-      "spyGapPct": 2.06
-    },
-    {
-      "symbol": "HSY",
-      "category": "stock",
-      "price": 174.86,
-      "usdTrend": true,
-      "usdGapPct": 3.96,
-      "spyTrend": true,
-      "spyGapPct": 7.34
-    },
-    {
-      "symbol": "HPE",
-      "category": "stock",
-      "price": 46.59,
-      "usdTrend": false,
-      "usdGapPct": -20.84,
-      "spyTrend": false,
-      "spyGapPct": -18.14
-    },
-    {
-      "symbol": "HLT",
-      "category": "stock",
-      "price": 373.93,
-      "usdTrend": true,
-      "usdGapPct": 11.61,
-      "spyTrend": true,
-      "spyGapPct": 15.22
-    },
-    {
-      "symbol": "HD",
-      "category": "stock",
-      "price": 347.65,
-      "usdTrend": true,
-      "usdGapPct": 11.37,
-      "spyTrend": true,
-      "spyGapPct": 14.95
-    },
-    {
-      "symbol": "HONA",
-      "category": "stock",
-      "price": 163.47,
-      "usdTrend": true,
-      "usdGapPct": 2.01,
-      "spyTrend": true,
-      "spyGapPct": 5.36
-    },
-    {
-      "symbol": "HON",
-      "category": "stock",
-      "price": 217.875,
-      "usdTrend": true,
-      "usdGapPct": 1.98,
-      "spyTrend": true,
-      "spyGapPct": 5.31
-    },
-    {
-      "symbol": "HRL",
-      "category": "stock",
-      "price": 22.71,
-      "usdTrend": true,
-      "usdGapPct": 9.68,
-      "spyTrend": true,
-      "spyGapPct": 13.23
-    },
-    {
-      "symbol": "HST",
-      "category": "stock",
-      "price": 25.715,
-      "usdTrend": true,
-      "usdGapPct": 9.08,
-      "spyTrend": true,
-      "spyGapPct": 12.63
-    },
-    {
-      "symbol": "HWM",
-      "category": "stock",
-      "price": 212.91,
-      "usdTrend": false,
-      "usdGapPct": -3.2,
-      "spyTrend": false,
-      "spyGapPct": -0.01
-    },
-    {
-      "symbol": "HPQ",
-      "category": "stock",
-      "price": 28.54,
-      "usdTrend": false,
-      "usdGapPct": -9.15,
-      "spyTrend": false,
-      "spyGapPct": -6.14
-    },
-    {
-      "symbol": "HUBB",
-      "category": "stock",
-      "price": 424.205,
-      "usdTrend": false,
-      "usdGapPct": -6.63,
-      "spyTrend": false,
-      "spyGapPct": -3.54
-    },
-    {
-      "symbol": "HUM",
-      "category": "stock",
-      "price": 461.03,
-      "usdTrend": true,
-      "usdGapPct": 12.81,
-      "spyTrend": true,
-      "spyGapPct": 16.5
-    },
-    {
-      "symbol": "HBAN",
-      "category": "stock",
-      "price": 15.62,
-      "usdTrend": false,
-      "usdGapPct": -0.82,
-      "spyTrend": true,
-      "spyGapPct": 2.42
-    },
-    {
-      "symbol": "HII",
-      "category": "stock",
-      "price": 302.39,
-      "usdTrend": true,
-      "usdGapPct": 7.78,
-      "spyTrend": true,
-      "spyGapPct": 11.27
-    },
-    {
-      "symbol": "IBM",
-      "category": "stock",
-      "price": 242.41,
-      "usdTrend": true,
-      "usdGapPct": 1.85,
-      "spyTrend": true,
-      "spyGapPct": 5.16
-    },
-    {
-      "symbol": "IEX",
-      "category": "stock",
-      "price": 233.56,
-      "usdTrend": true,
-      "usdGapPct": 1.06,
+      "usdGapPct": 0.13,
       "spyTrend": true,
       "spyGapPct": 4.39
     },
     {
+      "symbol": "AIG",
+      "category": "stock",
+      "price": 81.24,
+      "usdTrend": true,
+      "usdGapPct": 3.94,
+      "spyTrend": true,
+      "spyGapPct": 8.36
+    },
+    {
+      "symbol": "AMT",
+      "category": "stock",
+      "price": 183.12,
+      "usdTrend": true,
+      "usdGapPct": 2.27,
+      "spyTrend": true,
+      "spyGapPct": 6.6
+    },
+    {
+      "symbol": "AWK",
+      "category": "stock",
+      "price": 148.095,
+      "usdTrend": true,
+      "usdGapPct": 7.31,
+      "spyTrend": true,
+      "spyGapPct": 11.83
+    },
+    {
+      "symbol": "AMP",
+      "category": "stock",
+      "price": 504.98,
+      "usdTrend": false,
+      "usdGapPct": -1.02,
+      "spyTrend": true,
+      "spyGapPct": 3.19
+    },
+    {
+      "symbol": "AME",
+      "category": "stock",
+      "price": 234.77,
+      "usdTrend": false,
+      "usdGapPct": -3.53,
+      "spyTrend": true,
+      "spyGapPct": 0.62
+    },
+    {
+      "symbol": "AMGN",
+      "category": "stock",
+      "price": 457.81,
+      "usdTrend": true,
+      "usdGapPct": 7.51,
+      "spyTrend": true,
+      "spyGapPct": 12.07
+    },
+    {
+      "symbol": "APH",
+      "category": "stock",
+      "price": 76.35,
+      "usdTrend": false,
+      "usdGapPct": -5.79,
+      "spyTrend": false,
+      "spyGapPct": -1.72
+    },
+    {
+      "symbol": "ADI",
+      "category": "stock",
+      "price": 383.535,
+      "usdTrend": false,
+      "usdGapPct": -2.96,
+      "spyTrend": true,
+      "spyGapPct": 1.22
+    },
+    {
+      "symbol": "AON",
+      "category": "stock",
+      "price": 334.65,
+      "usdTrend": true,
+      "usdGapPct": 11.11,
+      "spyTrend": true,
+      "spyGapPct": 15.76
+    },
+    {
+      "symbol": "APA",
+      "category": "stock",
+      "price": 46.88,
+      "usdTrend": true,
+      "usdGapPct": 1.31,
+      "spyTrend": true,
+      "spyGapPct": 5.63
+    },
+    {
+      "symbol": "APO",
+      "category": "stock",
+      "price": 117.905,
+      "usdTrend": false,
+      "usdGapPct": -1.18,
+      "spyTrend": true,
+      "spyGapPct": 3.03
+    },
+    {
+      "symbol": "AAPL",
+      "category": "stock",
+      "price": 351.92,
+      "usdTrend": true,
+      "usdGapPct": 3.59,
+      "spyTrend": true,
+      "spyGapPct": 8.01
+    },
+    {
+      "symbol": "AMAT",
+      "category": "stock",
+      "price": 349.18,
+      "usdTrend": false,
+      "usdGapPct": -19.88,
+      "spyTrend": false,
+      "spyGapPct": -16.35
+    },
+    {
+      "symbol": "APP",
+      "category": "stock",
+      "price": 398.765,
+      "usdTrend": true,
+      "usdGapPct": 31.17,
+      "spyTrend": true,
+      "spyGapPct": 36.61
+    },
+    {
+      "symbol": "APTV",
+      "category": "stock",
+      "price": 37.89,
+      "usdTrend": false,
+      "usdGapPct": -12.53,
+      "spyTrend": false,
+      "spyGapPct": -8.75
+    },
+    {
+      "symbol": "ACGL",
+      "category": "stock",
+      "price": 109.21,
+      "usdTrend": true,
+      "usdGapPct": 9.07,
+      "spyTrend": true,
+      "spyGapPct": 13.67
+    },
+    {
+      "symbol": "ADM",
+      "category": "stock",
+      "price": 69.47,
+      "usdTrend": false,
+      "usdGapPct": -12.68,
+      "spyTrend": false,
+      "spyGapPct": -8.9
+    },
+    {
+      "symbol": "ARES",
+      "category": "stock",
+      "price": 127.57,
+      "usdTrend": true,
+      "usdGapPct": 2.44,
+      "spyTrend": true,
+      "spyGapPct": 6.76
+    },
+    {
+      "symbol": "ANET",
+      "category": "stock",
+      "price": 186.41,
+      "usdTrend": false,
+      "usdGapPct": -3.31,
+      "spyTrend": true,
+      "spyGapPct": 0.88
+    },
+    {
+      "symbol": "AJG",
+      "category": "stock",
+      "price": 282.83,
+      "usdTrend": true,
+      "usdGapPct": 12.15,
+      "spyTrend": true,
+      "spyGapPct": 16.85
+    },
+    {
+      "symbol": "AIZ",
+      "category": "stock",
+      "price": 321.91,
+      "usdTrend": true,
+      "usdGapPct": 12.98,
+      "spyTrend": true,
+      "spyGapPct": 17.73
+    },
+    {
+      "symbol": "T",
+      "category": "stock",
+      "price": 22.32,
+      "usdTrend": false,
+      "usdGapPct": -5.04,
+      "spyTrend": false,
+      "spyGapPct": -0.96
+    },
+    {
+      "symbol": "ATO",
+      "category": "stock",
+      "price": 171.92,
+      "usdTrend": true,
+      "usdGapPct": 3.7,
+      "spyTrend": true,
+      "spyGapPct": 8.09
+    },
+    {
+      "symbol": "ADSK",
+      "category": "stock",
+      "price": 255.21,
+      "usdTrend": true,
+      "usdGapPct": 8.52,
+      "spyTrend": true,
+      "spyGapPct": 13.1
+    },
+    {
+      "symbol": "ADP",
+      "category": "stock",
+      "price": 308.18,
+      "usdTrend": true,
+      "usdGapPct": 9.25,
+      "spyTrend": true,
+      "spyGapPct": 13.86
+    },
+    {
+      "symbol": "AZO",
+      "category": "stock",
+      "price": 3280.69,
+      "usdTrend": true,
+      "usdGapPct": 8.4,
+      "spyTrend": true,
+      "spyGapPct": 12.98
+    },
+    {
+      "symbol": "AVY",
+      "category": "stock",
+      "price": 185.54,
+      "usdTrend": true,
+      "usdGapPct": 5.15,
+      "spyTrend": true,
+      "spyGapPct": 9.61
+    },
+    {
+      "symbol": "AXON",
+      "category": "stock",
+      "price": 298.37,
+      "usdTrend": false,
+      "usdGapPct": -27.87,
+      "spyTrend": false,
+      "spyGapPct": -24.73
+    },
+    {
+      "symbol": "BKR",
+      "category": "stock",
+      "price": 47.48,
+      "usdTrend": false,
+      "usdGapPct": -13.88,
+      "spyTrend": false,
+      "spyGapPct": -10.15
+    },
+    {
+      "symbol": "BALL",
+      "category": "stock",
+      "price": 64.87,
+      "usdTrend": true,
+      "usdGapPct": 5.11,
+      "spyTrend": true,
+      "spyGapPct": 9.55
+    },
+    {
+      "symbol": "BAC",
+      "category": "stock",
+      "price": 49.45,
+      "usdTrend": false,
+      "usdGapPct": -8.13,
+      "spyTrend": false,
+      "spyGapPct": -4.18
+    },
+    {
+      "symbol": "BAX",
+      "category": "stock",
+      "price": 25.77,
+      "usdTrend": true,
+      "usdGapPct": 5.04,
+      "spyTrend": true,
+      "spyGapPct": 9.5
+    },
+    {
+      "symbol": "BDX",
+      "category": "stock",
+      "price": 215.4,
+      "usdTrend": true,
+      "usdGapPct": 12.45,
+      "spyTrend": true,
+      "spyGapPct": 17.19
+    },
+    {
+      "symbol": "BBY",
+      "category": "stock",
+      "price": 98.385,
+      "usdTrend": true,
+      "usdGapPct": 4.77,
+      "spyTrend": true,
+      "spyGapPct": 9.2
+    },
+    {
+      "symbol": "TECH",
+      "category": "stock",
+      "price": 72.65,
+      "usdTrend": true,
+      "usdGapPct": 0.14,
+      "spyTrend": true,
+      "spyGapPct": 4.42
+    },
+    {
+      "symbol": "BIIB",
+      "category": "stock",
+      "price": 250.82,
+      "usdTrend": true,
+      "usdGapPct": 7.18,
+      "spyTrend": true,
+      "spyGapPct": 11.73
+    },
+    {
+      "symbol": "BLK",
+      "category": "stock",
+      "price": 1180.56,
+      "usdTrend": true,
+      "usdGapPct": 5.89,
+      "spyTrend": true,
+      "spyGapPct": 10.37
+    },
+    {
+      "symbol": "BX",
+      "category": "stock",
+      "price": 116.47,
+      "usdTrend": false,
+      "usdGapPct": -1.46,
+      "spyTrend": true,
+      "spyGapPct": 2.72
+    },
+    {
+      "symbol": "XYZ",
+      "category": "stock",
+      "price": 79.32,
+      "usdTrend": true,
+      "usdGapPct": 1.35,
+      "spyTrend": true,
+      "spyGapPct": 5.64
+    },
+    {
+      "symbol": "BE",
+      "category": "stock",
+      "price": 173.41,
+      "usdTrend": false,
+      "usdGapPct": -28.49,
+      "spyTrend": false,
+      "spyGapPct": -25.33
+    },
+    {
+      "symbol": "BNY",
+      "category": "stock",
+      "price": 149.805,
+      "usdTrend": true,
+      "usdGapPct": 0.53,
+      "spyTrend": true,
+      "spyGapPct": 4.81
+    },
+    {
+      "symbol": "BA",
+      "category": "stock",
+      "price": 163.94,
+      "usdTrend": false,
+      "usdGapPct": -12.74,
+      "spyTrend": false,
+      "spyGapPct": -8.98
+    },
+    {
+      "symbol": "BKNG",
+      "category": "stock",
+      "price": 154.46,
+      "usdTrend": false,
+      "usdGapPct": -4.64,
+      "spyTrend": false,
+      "spyGapPct": -0.58
+    },
+    {
+      "symbol": "BSX",
+      "category": "stock",
+      "price": 43.05,
+      "usdTrend": false,
+      "usdGapPct": -2.01,
+      "spyTrend": true,
+      "spyGapPct": 2.17
+    },
+    {
+      "symbol": "BMY",
+      "category": "stock",
+      "price": 61.36,
+      "usdTrend": false,
+      "usdGapPct": -0.76,
+      "spyTrend": true,
+      "spyGapPct": 3.46
+    },
+    {
+      "symbol": "AVGO",
+      "category": "stock",
+      "price": 341.72,
+      "usdTrend": false,
+      "usdGapPct": -0.93,
+      "spyTrend": true,
+      "spyGapPct": 3.36
+    },
+    {
+      "symbol": "BR",
+      "category": "stock",
+      "price": 188.59,
+      "usdTrend": true,
+      "usdGapPct": 8.54,
+      "spyTrend": true,
+      "spyGapPct": 13.11
+    },
+    {
+      "symbol": "BRO",
+      "category": "stock",
+      "price": 72.245,
+      "usdTrend": true,
+      "usdGapPct": 7.96,
+      "spyTrend": true,
+      "spyGapPct": 12.51
+    },
+    {
+      "symbol": "BG",
+      "category": "stock",
+      "price": 95.66,
+      "usdTrend": false,
+      "usdGapPct": -10.48,
+      "spyTrend": false,
+      "spyGapPct": -6.64
+    },
+    {
+      "symbol": "BXP",
+      "category": "stock",
+      "price": 62.78,
+      "usdTrend": true,
+      "usdGapPct": 0.96,
+      "spyTrend": true,
+      "spyGapPct": 5.24
+    },
+    {
+      "symbol": "CHRW",
+      "category": "stock",
+      "price": 137.84,
+      "usdTrend": false,
+      "usdGapPct": -2.79,
+      "spyTrend": true,
+      "spyGapPct": 1.39
+    },
+    {
+      "symbol": "CDNS",
+      "category": "stock",
+      "price": 306.75,
+      "usdTrend": false,
+      "usdGapPct": -4.49,
+      "spyTrend": false,
+      "spyGapPct": -0.38
+    },
+    {
+      "symbol": "CPT",
+      "category": "stock",
+      "price": 98.025,
+      "usdTrend": false,
+      "usdGapPct": -1.74,
+      "spyTrend": true,
+      "spyGapPct": 2.44
+    },
+    {
+      "symbol": "COF",
+      "category": "stock",
+      "price": 186.74,
+      "usdTrend": false,
+      "usdGapPct": -7.16,
+      "spyTrend": false,
+      "spyGapPct": -3.19
+    },
+    {
+      "symbol": "CAH",
+      "category": "stock",
+      "price": 279.26,
+      "usdTrend": true,
+      "usdGapPct": 14.01,
+      "spyTrend": true,
+      "spyGapPct": 18.82
+    },
+    {
+      "symbol": "CCL",
+      "category": "stock",
+      "price": 28.17,
+      "usdTrend": true,
+      "usdGapPct": 8.21,
+      "spyTrend": true,
+      "spyGapPct": 12.78
+    },
+    {
+      "symbol": "CARR",
+      "category": "stock",
+      "price": 51.31,
+      "usdTrend": false,
+      "usdGapPct": -7.21,
+      "spyTrend": false,
+      "spyGapPct": -3.23
+    },
+    {
+      "symbol": "CVNA",
+      "category": "stock",
+      "price": 71.09,
+      "usdTrend": true,
+      "usdGapPct": 8.21,
+      "spyTrend": true,
+      "spyGapPct": 12.76
+    },
+    {
+      "symbol": "CASY",
+      "category": "stock",
+      "price": 713.45,
+      "usdTrend": true,
+      "usdGapPct": 9.34,
+      "spyTrend": true,
+      "spyGapPct": 13.98
+    },
+    {
+      "symbol": "CAT",
+      "category": "stock",
+      "price": 570.84,
+      "usdTrend": false,
+      "usdGapPct": -22.43,
+      "spyTrend": false,
+      "spyGapPct": -19.02
+    },
+    {
+      "symbol": "CBOE",
+      "category": "stock",
+      "price": 370.29,
+      "usdTrend": true,
+      "usdGapPct": 20.72,
+      "spyTrend": true,
+      "spyGapPct": 25.76
+    },
+    {
+      "symbol": "CBRE",
+      "category": "stock",
+      "price": 130.68,
+      "usdTrend": false,
+      "usdGapPct": -2.18,
+      "spyTrend": true,
+      "spyGapPct": 1.98
+    },
+    {
+      "symbol": "CDW",
+      "category": "stock",
+      "price": 163.115,
+      "usdTrend": true,
+      "usdGapPct": 8.04,
+      "spyTrend": true,
+      "spyGapPct": 12.61
+    },
+    {
+      "symbol": "COR",
+      "category": "stock",
+      "price": 350.34,
+      "usdTrend": true,
+      "usdGapPct": 6.91,
+      "spyTrend": true,
+      "spyGapPct": 11.44
+    },
+    {
+      "symbol": "CNC",
+      "category": "stock",
+      "price": 72.64,
+      "usdTrend": true,
+      "usdGapPct": 8.04,
+      "spyTrend": true,
+      "spyGapPct": 12.62
+    },
+    {
+      "symbol": "CNP",
+      "category": "stock",
+      "price": 39.8,
+      "usdTrend": true,
+      "usdGapPct": 0.66,
+      "spyTrend": true,
+      "spyGapPct": 4.94
+    },
+    {
+      "symbol": "CF",
+      "category": "stock",
+      "price": 119.27,
+      "usdTrend": false,
+      "usdGapPct": -1.5,
+      "spyTrend": true,
+      "spyGapPct": 2.69
+    },
+    {
+      "symbol": "CRL",
+      "category": "stock",
+      "price": 332.12,
+      "usdTrend": true,
+      "usdGapPct": 6.44,
+      "spyTrend": true,
+      "spyGapPct": 10.95
+    },
+    {
+      "symbol": "SCHW",
+      "category": "stock",
+      "price": 91.81,
+      "usdTrend": false,
+      "usdGapPct": -4.85,
+      "spyTrend": false,
+      "spyGapPct": -0.77
+    },
+    {
+      "symbol": "CHTR",
+      "category": "stock",
+      "price": 138.56,
+      "usdTrend": true,
+      "usdGapPct": 16.76,
+      "spyTrend": true,
+      "spyGapPct": 21.66
+    },
+    {
+      "symbol": "CVX",
+      "category": "stock",
+      "price": 216.155,
+      "usdTrend": true,
+      "usdGapPct": 0.22,
+      "spyTrend": true,
+      "spyGapPct": 4.5
+    },
+    {
+      "symbol": "CMG",
+      "category": "stock",
+      "price": 35.82,
+      "usdTrend": true,
+      "usdGapPct": 10.15,
+      "spyTrend": true,
+      "spyGapPct": 14.79
+    },
+    {
+      "symbol": "CB",
+      "category": "stock",
+      "price": 375.445,
+      "usdTrend": true,
+      "usdGapPct": 7.36,
+      "spyTrend": true,
+      "spyGapPct": 11.91
+    },
+    {
+      "symbol": "CHD",
+      "category": "stock",
+      "price": 112.45,
+      "usdTrend": true,
+      "usdGapPct": 10.55,
+      "spyTrend": true,
+      "spyGapPct": 15.22
+    },
+    {
+      "symbol": "CIEN",
+      "category": "stock",
+      "price": 264.44,
+      "usdTrend": false,
+      "usdGapPct": -22.67,
+      "spyTrend": false,
+      "spyGapPct": -19.23
+    },
+    {
+      "symbol": "CI",
+      "category": "stock",
+      "price": 294.06,
+      "usdTrend": true,
+      "usdGapPct": 2.14,
+      "spyTrend": true,
+      "spyGapPct": 6.48
+    },
+    {
+      "symbol": "CINF",
+      "category": "stock",
+      "price": 188.91,
+      "usdTrend": true,
+      "usdGapPct": 9.18,
+      "spyTrend": true,
+      "spyGapPct": 13.78
+    },
+    {
+      "symbol": "CTAS",
+      "category": "stock",
+      "price": 222.18,
+      "usdTrend": true,
+      "usdGapPct": 6.09,
+      "spyTrend": true,
+      "spyGapPct": 10.58
+    },
+    {
+      "symbol": "CSCO",
+      "category": "stock",
+      "price": 95.12,
+      "usdTrend": false,
+      "usdGapPct": -11.49,
+      "spyTrend": false,
+      "spyGapPct": -7.65
+    },
+    {
+      "symbol": "C",
+      "category": "stock",
+      "price": 119.89,
+      "usdTrend": false,
+      "usdGapPct": -5.99,
+      "spyTrend": false,
+      "spyGapPct": -1.95
+    },
+    {
+      "symbol": "CFG",
+      "category": "stock",
+      "price": 63.06,
+      "usdTrend": false,
+      "usdGapPct": -3.44,
+      "spyTrend": true,
+      "spyGapPct": 0.68
+    },
+    {
+      "symbol": "CLX",
+      "category": "stock",
+      "price": 106.675,
+      "usdTrend": true,
+      "usdGapPct": 19.7,
+      "spyTrend": true,
+      "spyGapPct": 24.71
+    },
+    {
+      "symbol": "CME",
+      "category": "stock",
+      "price": 311.52,
+      "usdTrend": true,
+      "usdGapPct": 8.63,
+      "spyTrend": true,
+      "spyGapPct": 13.22
+    },
+    {
+      "symbol": "CMS",
+      "category": "stock",
+      "price": 69.4,
+      "usdTrend": true,
+      "usdGapPct": 3.35,
+      "spyTrend": true,
+      "spyGapPct": 7.74
+    },
+    {
+      "symbol": "KO",
+      "category": "stock",
+      "price": 98.8,
+      "usdTrend": true,
+      "usdGapPct": 8.51,
+      "spyTrend": true,
+      "spyGapPct": 13.1
+    },
+    {
+      "symbol": "CTSH",
+      "category": "stock",
+      "price": 60,
+      "usdTrend": false,
+      "usdGapPct": -3.94,
+      "spyTrend": true,
+      "spyGapPct": 0.13
+    },
+    {
+      "symbol": "COHR",
+      "category": "stock",
+      "price": 210.85,
+      "usdTrend": false,
+      "usdGapPct": -20.03,
+      "spyTrend": false,
+      "spyGapPct": -16.49
+    },
+    {
+      "symbol": "COIN",
+      "category": "stock",
+      "price": 115.06,
+      "usdTrend": false,
+      "usdGapPct": -31.94,
+      "spyTrend": false,
+      "spyGapPct": -28.95
+    },
+    {
+      "symbol": "CL",
+      "category": "stock",
+      "price": 99.63,
+      "usdTrend": true,
+      "usdGapPct": 9.24,
+      "spyTrend": true,
+      "spyGapPct": 13.86
+    },
+    {
+      "symbol": "CMCSA",
+      "category": "stock",
+      "price": 25.33,
+      "usdTrend": true,
+      "usdGapPct": 10.4,
+      "spyTrend": true,
+      "spyGapPct": 15.05
+    },
+    {
+      "symbol": "FIX",
+      "category": "stock",
+      "price": 1099.75,
+      "usdTrend": false,
+      "usdGapPct": -24.55,
+      "spyTrend": false,
+      "spyGapPct": -21.21
+    },
+    {
+      "symbol": "COP",
+      "category": "stock",
+      "price": 139.53,
+      "usdTrend": true,
+      "usdGapPct": 1.53,
+      "spyTrend": true,
+      "spyGapPct": 5.85
+    },
+    {
+      "symbol": "ED",
+      "category": "stock",
+      "price": 119.3,
+      "usdTrend": true,
+      "usdGapPct": 8.08,
+      "spyTrend": true,
+      "spyGapPct": 12.64
+    },
+    {
+      "symbol": "STZ",
+      "category": "stock",
+      "price": 144.1,
+      "usdTrend": true,
+      "usdGapPct": 12.57,
+      "spyTrend": true,
+      "spyGapPct": 17.3
+    },
+    {
+      "symbol": "CEG",
+      "category": "stock",
+      "price": 268.1,
+      "usdTrend": false,
+      "usdGapPct": -0.36,
+      "spyTrend": true,
+      "spyGapPct": 3.93
+    },
+    {
+      "symbol": "COO",
+      "category": "stock",
+      "price": 60.72,
+      "usdTrend": true,
+      "usdGapPct": 4.08,
+      "spyTrend": true,
+      "spyGapPct": 8.49
+    },
+    {
+      "symbol": "CPRT",
+      "category": "stock",
+      "price": 31.46,
+      "usdTrend": true,
+      "usdGapPct": 7.18,
+      "spyTrend": true,
+      "spyGapPct": 11.68
+    },
+    {
+      "symbol": "GLW",
+      "category": "stock",
+      "price": 108.44,
+      "usdTrend": false,
+      "usdGapPct": -22.83,
+      "spyTrend": false,
+      "spyGapPct": -19.44
+    },
+    {
+      "symbol": "CPAY",
+      "category": "stock",
+      "price": 452.45,
+      "usdTrend": true,
+      "usdGapPct": 10.16,
+      "spyTrend": true,
+      "spyGapPct": 14.81
+    },
+    {
+      "symbol": "CSGP",
+      "category": "stock",
+      "price": 30.61,
+      "usdTrend": true,
+      "usdGapPct": 1.54,
+      "spyTrend": true,
+      "spyGapPct": 5.85
+    },
+    {
+      "symbol": "COST",
+      "category": "stock",
+      "price": 1109.82,
+      "usdTrend": true,
+      "usdGapPct": 14.28,
+      "spyTrend": true,
+      "spyGapPct": 19.11
+    },
+    {
+      "symbol": "CRH",
+      "category": "stock",
+      "price": 90.61,
+      "usdTrend": true,
+      "usdGapPct": 3.71,
+      "spyTrend": true,
+      "spyGapPct": 8.08
+    },
+    {
+      "symbol": "CRWD",
+      "category": "stock",
+      "price": 219.49,
+      "usdTrend": false,
+      "usdGapPct": -10.46,
+      "spyTrend": false,
+      "spyGapPct": -6.57
+    },
+    {
+      "symbol": "CCI",
+      "category": "stock",
+      "price": 84.13,
+      "usdTrend": true,
+      "usdGapPct": 6.86,
+      "spyTrend": true,
+      "spyGapPct": 11.35
+    },
+    {
+      "symbol": "CSX",
+      "category": "stock",
+      "price": 51.14,
+      "usdTrend": true,
+      "usdGapPct": 4.28,
+      "spyTrend": true,
+      "spyGapPct": 8.71
+    },
+    {
+      "symbol": "CMI",
+      "category": "stock",
+      "price": 433.83,
+      "usdTrend": false,
+      "usdGapPct": -15.66,
+      "spyTrend": false,
+      "spyGapPct": -12.01
+    },
+    {
+      "symbol": "CVS",
+      "category": "stock",
+      "price": 85.76,
+      "usdTrend": false,
+      "usdGapPct": -4.17,
+      "spyTrend": false,
+      "spyGapPct": -0.07
+    },
+    {
+      "symbol": "DHR",
+      "category": "stock",
+      "price": 225.7,
+      "usdTrend": true,
+      "usdGapPct": 1.23,
+      "spyTrend": true,
+      "spyGapPct": 5.54
+    },
+    {
+      "symbol": "DRI",
+      "category": "stock",
+      "price": 231.96,
+      "usdTrend": true,
+      "usdGapPct": 9.06,
+      "spyTrend": true,
+      "spyGapPct": 13.68
+    },
+    {
+      "symbol": "DDOG",
+      "category": "stock",
+      "price": 165.105,
+      "usdTrend": false,
+      "usdGapPct": -31.98,
+      "spyTrend": false,
+      "spyGapPct": -28.96
+    },
+    {
+      "symbol": "DVA",
+      "category": "stock",
+      "price": 173.085,
+      "usdTrend": false,
+      "usdGapPct": -5.14,
+      "spyTrend": false,
+      "spyGapPct": -1.1
+    },
+    {
+      "symbol": "DECK",
+      "category": "stock",
+      "price": 81.495,
+      "usdTrend": false,
+      "usdGapPct": -1.28,
+      "spyTrend": true,
+      "spyGapPct": 2.92
+    },
+    {
+      "symbol": "DE",
+      "category": "stock",
+      "price": 648.795,
+      "usdTrend": false,
+      "usdGapPct": -2.82,
+      "spyTrend": true,
+      "spyGapPct": 1.32
+    },
+    {
+      "symbol": "DELL",
+      "category": "stock",
+      "price": 322.85,
+      "usdTrend": false,
+      "usdGapPct": -34.03,
+      "spyTrend": false,
+      "spyGapPct": -31.1
+    },
+    {
+      "symbol": "DAL",
+      "category": "stock",
+      "price": 84.33,
+      "usdTrend": true,
+      "usdGapPct": 2.77,
+      "spyTrend": true,
+      "spyGapPct": 7.14
+    },
+    {
+      "symbol": "DVN",
+      "category": "stock",
+      "price": 43.46,
+      "usdTrend": false,
+      "usdGapPct": -9.83,
+      "spyTrend": false,
+      "spyGapPct": -5.95
+    },
+    {
+      "symbol": "DXCM",
+      "category": "stock",
+      "price": 82.06,
+      "usdTrend": false,
+      "usdGapPct": -2.51,
+      "spyTrend": true,
+      "spyGapPct": 1.67
+    },
+    {
+      "symbol": "FANG",
+      "category": "stock",
+      "price": 177.04,
+      "usdTrend": false,
+      "usdGapPct": -8.36,
+      "spyTrend": false,
+      "spyGapPct": -4.43
+    },
+    {
+      "symbol": "DLR",
+      "category": "stock",
+      "price": 176.525,
+      "usdTrend": false,
+      "usdGapPct": -1.68,
+      "spyTrend": true,
+      "spyGapPct": 2.53
+    },
+    {
+      "symbol": "DG",
+      "category": "stock",
+      "price": 133.495,
+      "usdTrend": true,
+      "usdGapPct": 4,
+      "spyTrend": true,
+      "spyGapPct": 8.41
+    },
+    {
+      "symbol": "DLTR",
+      "category": "stock",
+      "price": 139.675,
+      "usdTrend": true,
+      "usdGapPct": 13.1,
+      "spyTrend": true,
+      "spyGapPct": 17.87
+    },
+    {
+      "symbol": "D",
+      "category": "stock",
+      "price": 67.3,
+      "usdTrend": true,
+      "usdGapPct": 4.88,
+      "spyTrend": true,
+      "spyGapPct": 9.32
+    },
+    {
+      "symbol": "DPZ",
+      "category": "stock",
+      "price": 349.88,
+      "usdTrend": true,
+      "usdGapPct": 12.06,
+      "spyTrend": true,
+      "spyGapPct": 16.8
+    },
+    {
+      "symbol": "DASH",
+      "category": "stock",
+      "price": 164.76,
+      "usdTrend": false,
+      "usdGapPct": -12.03,
+      "spyTrend": false,
+      "spyGapPct": -8.25
+    },
+    {
+      "symbol": "DOV",
+      "category": "stock",
+      "price": 203.07,
+      "usdTrend": true,
+      "usdGapPct": 3.16,
+      "spyTrend": true,
+      "spyGapPct": 7.54
+    },
+    {
+      "symbol": "DOW",
+      "category": "stock",
+      "price": 31.37,
+      "usdTrend": true,
+      "usdGapPct": 3.54,
+      "spyTrend": true,
+      "spyGapPct": 7.91
+    },
+    {
+      "symbol": "DHI",
+      "category": "stock",
+      "price": 143.525,
+      "usdTrend": true,
+      "usdGapPct": 1.26,
+      "spyTrend": true,
+      "spyGapPct": 5.55
+    },
+    {
+      "symbol": "DTE",
+      "category": "stock",
+      "price": 136.415,
+      "usdTrend": true,
+      "usdGapPct": 4.47,
+      "spyTrend": true,
+      "spyGapPct": 8.9
+    },
+    {
+      "symbol": "DUK",
+      "category": "stock",
+      "price": 129.785,
+      "usdTrend": true,
+      "usdGapPct": 7.38,
+      "spyTrend": true,
+      "spyGapPct": 11.92
+    },
+    {
+      "symbol": "DD",
+      "category": "stock",
+      "price": 150.095,
+      "usdTrend": true,
+      "usdGapPct": 10.58,
+      "spyTrend": true,
+      "spyGapPct": 15.25
+    },
+    {
+      "symbol": "ETN",
+      "category": "stock",
+      "price": 337.01,
+      "usdTrend": false,
+      "usdGapPct": -15.71,
+      "spyTrend": false,
+      "spyGapPct": -12.04
+    },
+    {
+      "symbol": "EBAY",
+      "category": "stock",
+      "price": 118.59,
+      "usdTrend": true,
+      "usdGapPct": 3.54,
+      "spyTrend": true,
+      "spyGapPct": 7.93
+    },
+    {
+      "symbol": "ECHO",
+      "category": "stock",
+      "price": 99.19,
+      "usdTrend": true,
+      "usdGapPct": 5.98,
+      "spyTrend": true,
+      "spyGapPct": 10.49
+    },
+    {
+      "symbol": "ECL",
+      "category": "stock",
+      "price": 302.545,
+      "usdTrend": true,
+      "usdGapPct": 5.39,
+      "spyTrend": true,
+      "spyGapPct": 9.86
+    },
+    {
+      "symbol": "EIX",
+      "category": "stock",
+      "price": 62.38,
+      "usdTrend": true,
+      "usdGapPct": 10.11,
+      "spyTrend": true,
+      "spyGapPct": 14.77
+    },
+    {
+      "symbol": "EW",
+      "category": "stock",
+      "price": 105.4,
+      "usdTrend": true,
+      "usdGapPct": 16.12,
+      "spyTrend": true,
+      "spyGapPct": 21
+    },
+    {
+      "symbol": "ELV",
+      "category": "stock",
+      "price": 433.98,
+      "usdTrend": true,
+      "usdGapPct": 4.28,
+      "spyTrend": true,
+      "spyGapPct": 8.71
+    },
+    {
+      "symbol": "EME",
+      "category": "stock",
+      "price": 646.32,
+      "usdTrend": false,
+      "usdGapPct": -10.34,
+      "spyTrend": false,
+      "spyGapPct": -6.44
+    },
+    {
+      "symbol": "EMR",
+      "category": "stock",
+      "price": 159.08,
+      "usdTrend": false,
+      "usdGapPct": -0.4,
+      "spyTrend": true,
+      "spyGapPct": 3.85
+    },
+    {
+      "symbol": "ETR",
+      "category": "stock",
+      "price": 107.58,
+      "usdTrend": true,
+      "usdGapPct": 2.11,
+      "spyTrend": true,
+      "spyGapPct": 6.44
+    },
+    {
+      "symbol": "EOG",
+      "category": "stock",
+      "price": 154.84,
+      "usdTrend": true,
+      "usdGapPct": 3.06,
+      "spyTrend": true,
+      "spyGapPct": 7.46
+    },
+    {
+      "symbol": "EQT",
+      "category": "stock",
+      "price": 50.37,
+      "usdTrend": false,
+      "usdGapPct": -4.27,
+      "spyTrend": false,
+      "spyGapPct": -0.17
+    },
+    {
+      "symbol": "EFX",
+      "category": "stock",
+      "price": 180.19,
+      "usdTrend": true,
+      "usdGapPct": 8.25,
+      "spyTrend": true,
+      "spyGapPct": 12.77
+    },
+    {
+      "symbol": "EQIX",
+      "category": "stock",
+      "price": 1034.97,
+      "usdTrend": true,
+      "usdGapPct": 1.53,
+      "spyTrend": true,
+      "spyGapPct": 5.87
+    },
+    {
+      "symbol": "ERIE",
+      "category": "stock",
+      "price": 273.13,
+      "usdTrend": true,
+      "usdGapPct": 11.53,
+      "spyTrend": true,
+      "spyGapPct": 16.2
+    },
+    {
+      "symbol": "ESS",
+      "category": "stock",
+      "price": 271.09,
+      "usdTrend": false,
+      "usdGapPct": -0.25,
+      "spyTrend": true,
+      "spyGapPct": 4.01
+    },
+    {
+      "symbol": "EL",
+      "category": "stock",
+      "price": 104.51,
+      "usdTrend": true,
+      "usdGapPct": 2.57,
+      "spyTrend": true,
+      "spyGapPct": 6.91
+    },
+    {
+      "symbol": "EG",
+      "category": "stock",
+      "price": 424.41,
+      "usdTrend": true,
+      "usdGapPct": 9.45,
+      "spyTrend": true,
+      "spyGapPct": 14.07
+    },
+    {
+      "symbol": "EVRG",
+      "category": "stock",
+      "price": 87.04,
+      "usdTrend": true,
+      "usdGapPct": 5.31,
+      "spyTrend": true,
+      "spyGapPct": 9.78
+    },
+    {
+      "symbol": "P",
+      "category": "stock",
+      "price": 101.78,
+      "usdTrend": false,
+      "usdGapPct": -16.05,
+      "spyTrend": false,
+      "spyGapPct": -12.34
+    },
+    {
+      "symbol": "ES",
+      "category": "stock",
+      "price": 71.545,
+      "usdTrend": true,
+      "usdGapPct": 6.18,
+      "spyTrend": true,
+      "spyGapPct": 10.68
+    },
+    {
+      "symbol": "EXC",
+      "category": "stock",
+      "price": 45.86,
+      "usdTrend": true,
+      "usdGapPct": 5.98,
+      "spyTrend": true,
+      "spyGapPct": 10.46
+    },
+    {
+      "symbol": "EXE",
+      "category": "stock",
+      "price": 84.74,
+      "usdTrend": false,
+      "usdGapPct": -5.53,
+      "spyTrend": false,
+      "spyGapPct": -1.48
+    },
+    {
+      "symbol": "EXPE",
+      "category": "stock",
+      "price": 243.21,
+      "usdTrend": false,
+      "usdGapPct": -11.72,
+      "spyTrend": false,
+      "spyGapPct": -7.95
+    },
+    {
+      "symbol": "EXPD",
+      "category": "stock",
+      "price": 190.7,
+      "usdTrend": false,
+      "usdGapPct": -1.15,
+      "spyTrend": true,
+      "spyGapPct": 3.08
+    },
+    {
+      "symbol": "EXR",
+      "category": "stock",
+      "price": 156.52,
+      "usdTrend": true,
+      "usdGapPct": 10.17,
+      "spyTrend": true,
+      "spyGapPct": 14.8
+    },
+    {
+      "symbol": "XOM",
+      "category": "stock",
+      "price": 167.22,
+      "usdTrend": false,
+      "usdGapPct": -1.36,
+      "spyTrend": true,
+      "spyGapPct": 2.85
+    },
+    {
+      "symbol": "FFIV",
+      "category": "stock",
+      "price": 305.17,
+      "usdTrend": false,
+      "usdGapPct": -25.93,
+      "spyTrend": false,
+      "spyGapPct": -22.65
+    },
+    {
+      "symbol": "FDS",
+      "category": "stock",
+      "price": 315.855,
+      "usdTrend": true,
+      "usdGapPct": 5.64,
+      "spyTrend": true,
+      "spyGapPct": 10.09
+    },
+    {
+      "symbol": "FICO",
+      "category": "stock",
+      "price": 677.095,
+      "usdTrend": false,
+      "usdGapPct": -13.56,
+      "spyTrend": false,
+      "spyGapPct": -9.87
+    },
+    {
+      "symbol": "FAST",
+      "category": "stock",
+      "price": 54.34,
+      "usdTrend": true,
+      "usdGapPct": 5.76,
+      "spyTrend": true,
+      "spyGapPct": 10.25
+    },
+    {
+      "symbol": "FRT",
+      "category": "stock",
+      "price": 112.355,
+      "usdTrend": true,
+      "usdGapPct": 2.07,
+      "spyTrend": true,
+      "spyGapPct": 6.4
+    },
+    {
+      "symbol": "FDX",
+      "category": "stock",
+      "price": 319.865,
+      "usdTrend": true,
+      "usdGapPct": 5.7,
+      "spyTrend": true,
+      "spyGapPct": 10.18
+    },
+    {
+      "symbol": "FDXF",
+      "category": "stock",
+      "price": 132.02,
+      "usdTrend": true,
+      "usdGapPct": 11.28,
+      "spyTrend": true,
+      "spyGapPct": 15.97
+    },
+    {
+      "symbol": "FERG",
+      "category": "stock",
+      "price": 249.14,
+      "usdTrend": true,
+      "usdGapPct": 8.57,
+      "spyTrend": true,
+      "spyGapPct": 13.16
+    },
+    {
+      "symbol": "FIS",
+      "category": "stock",
+      "price": 27.465,
+      "usdTrend": false,
+      "usdGapPct": -20.88,
+      "spyTrend": false,
+      "spyGapPct": -17.47
+    },
+    {
+      "symbol": "FITB",
+      "category": "stock",
+      "price": 52.265,
+      "usdTrend": false,
+      "usdGapPct": -0.71,
+      "spyTrend": true,
+      "spyGapPct": 3.51
+    },
+    {
+      "symbol": "FSLR",
+      "category": "stock",
+      "price": 152.99,
+      "usdTrend": false,
+      "usdGapPct": -16.73,
+      "spyTrend": false,
+      "spyGapPct": -13.19
+    },
+    {
+      "symbol": "FE",
+      "category": "stock",
+      "price": 47.07,
+      "usdTrend": true,
+      "usdGapPct": 3.35,
+      "spyTrend": true,
+      "spyGapPct": 7.74
+    },
+    {
+      "symbol": "FISV",
+      "category": "stock",
+      "price": 62.32,
+      "usdTrend": true,
+      "usdGapPct": 23.13,
+      "spyTrend": true,
+      "spyGapPct": 28.23
+    },
+    {
+      "symbol": "FLEX",
+      "category": "stock",
+      "price": 73.085,
+      "usdTrend": false,
+      "usdGapPct": -25.85,
+      "spyTrend": false,
+      "spyGapPct": -22.57
+    },
+    {
+      "symbol": "F",
+      "category": "stock",
+      "price": 11.34,
+      "usdTrend": false,
+      "usdGapPct": -9.28,
+      "spyTrend": false,
+      "spyGapPct": -5.41
+    },
+    {
+      "symbol": "FTNT",
+      "category": "stock",
+      "price": 124.49,
+      "usdTrend": false,
+      "usdGapPct": -24,
+      "spyTrend": false,
+      "spyGapPct": -20.64
+    },
+    {
+      "symbol": "FTV",
+      "category": "stock",
+      "price": 66.06,
+      "usdTrend": true,
+      "usdGapPct": 10.78,
+      "spyTrend": true,
+      "spyGapPct": 15.44
+    },
+    {
+      "symbol": "FOXA",
+      "category": "stock",
+      "price": 66.705,
+      "usdTrend": true,
+      "usdGapPct": 2.74,
+      "spyTrend": true,
+      "spyGapPct": 7.11
+    },
+    {
+      "symbol": "FOX",
+      "category": "stock",
+      "price": 59.71,
+      "usdTrend": true,
+      "usdGapPct": 3.03,
+      "spyTrend": true,
+      "spyGapPct": 7.4
+    },
+    {
+      "symbol": "BEN",
+      "category": "stock",
+      "price": 34.405,
+      "usdTrend": true,
+      "usdGapPct": 4.82,
+      "spyTrend": true,
+      "spyGapPct": 9.27
+    },
+    {
+      "symbol": "FCX",
+      "category": "stock",
+      "price": 55.33,
+      "usdTrend": false,
+      "usdGapPct": -18.82,
+      "spyTrend": false,
+      "spyGapPct": -15.28
+    },
+    {
+      "symbol": "GRMN",
+      "category": "stock",
+      "price": 277.2,
+      "usdTrend": false,
+      "usdGapPct": -1.92,
+      "spyTrend": true,
+      "spyGapPct": 2.27
+    },
+    {
+      "symbol": "IT",
+      "category": "stock",
+      "price": 183.52,
+      "usdTrend": false,
+      "usdGapPct": -6.85,
+      "spyTrend": false,
+      "spyGapPct": -2.88
+    },
+    {
+      "symbol": "GE",
+      "category": "stock",
+      "price": 326.3,
+      "usdTrend": true,
+      "usdGapPct": 3.73,
+      "spyTrend": true,
+      "spyGapPct": 8.14
+    },
+    {
+      "symbol": "GEHC",
+      "category": "stock",
+      "price": 81.85,
+      "usdTrend": true,
+      "usdGapPct": 15.54,
+      "spyTrend": true,
+      "spyGapPct": 20.38
+    },
+    {
+      "symbol": "GEV",
+      "category": "stock",
+      "price": 779.98,
+      "usdTrend": false,
+      "usdGapPct": -14.24,
+      "spyTrend": false,
+      "spyGapPct": -10.51
+    },
+    {
+      "symbol": "GEN",
+      "category": "stock",
+      "price": 29.53,
+      "usdTrend": true,
+      "usdGapPct": 11.45,
+      "spyTrend": true,
+      "spyGapPct": 16.08
+    },
+    {
+      "symbol": "GNRC",
+      "category": "stock",
+      "price": 186.95,
+      "usdTrend": false,
+      "usdGapPct": -5.76,
+      "spyTrend": false,
+      "spyGapPct": -1.67
+    },
+    {
+      "symbol": "GD",
+      "category": "stock",
+      "price": 355.54,
+      "usdTrend": true,
+      "usdGapPct": 1.82,
+      "spyTrend": true,
+      "spyGapPct": 6.13
+    },
+    {
+      "symbol": "GIS",
+      "category": "stock",
+      "price": 34.68,
+      "usdTrend": true,
+      "usdGapPct": 1.37,
+      "spyTrend": true,
+      "spyGapPct": 5.67
+    },
+    {
+      "symbol": "GM",
+      "category": "stock",
+      "price": 84.03,
+      "usdTrend": true,
+      "usdGapPct": 0.68,
+      "spyTrend": true,
+      "spyGapPct": 4.95
+    },
+    {
+      "symbol": "GPC",
+      "category": "stock",
+      "price": 120.605,
+      "usdTrend": false,
+      "usdGapPct": -5.26,
+      "spyTrend": false,
+      "spyGapPct": -1.2
+    },
+    {
+      "symbol": "GILD",
+      "category": "stock",
+      "price": 170.25,
+      "usdTrend": true,
+      "usdGapPct": 9.53,
+      "spyTrend": true,
+      "spyGapPct": 14.16
+    },
+    {
+      "symbol": "GPN",
+      "category": "stock",
+      "price": 85.3,
+      "usdTrend": false,
+      "usdGapPct": -2.04,
+      "spyTrend": true,
+      "spyGapPct": 2.08
+    },
+    {
+      "symbol": "GL",
+      "category": "stock",
+      "price": 158.005,
+      "usdTrend": false,
+      "usdGapPct": -4.46,
+      "spyTrend": false,
+      "spyGapPct": -0.36
+    },
+    {
+      "symbol": "GDDY",
+      "category": "stock",
+      "price": 106.77,
+      "usdTrend": true,
+      "usdGapPct": 1.89,
+      "spyTrend": true,
+      "spyGapPct": 6.19
+    },
+    {
+      "symbol": "GS",
+      "category": "stock",
+      "price": 876.395,
+      "usdTrend": false,
+      "usdGapPct": -4.63,
+      "spyTrend": false,
+      "spyGapPct": -0.55
+    },
+    {
+      "symbol": "HAL",
+      "category": "stock",
+      "price": 31.98,
+      "usdTrend": false,
+      "usdGapPct": -4.76,
+      "spyTrend": false,
+      "spyGapPct": -0.69
+    },
+    {
+      "symbol": "HIG",
+      "category": "stock",
+      "price": 136.24,
+      "usdTrend": true,
+      "usdGapPct": 2.75,
+      "spyTrend": true,
+      "spyGapPct": 7.11
+    },
+    {
+      "symbol": "HAS",
+      "category": "stock",
+      "price": 118.33,
+      "usdTrend": true,
+      "usdGapPct": 15.83,
+      "spyTrend": true,
+      "spyGapPct": 20.67
+    },
+    {
+      "symbol": "HCA",
+      "category": "stock",
+      "price": 500.96,
+      "usdTrend": true,
+      "usdGapPct": 10.13,
+      "spyTrend": true,
+      "spyGapPct": 14.78
+    },
+    {
+      "symbol": "DOC",
+      "category": "stock",
+      "price": 19.46,
+      "usdTrend": false,
+      "usdGapPct": -1.06,
+      "spyTrend": true,
+      "spyGapPct": 3.15
+    },
+    {
+      "symbol": "HSIC",
+      "category": "stock",
+      "price": 82.92,
+      "usdTrend": false,
+      "usdGapPct": -3.36,
+      "spyTrend": true,
+      "spyGapPct": 0.76
+    },
+    {
+      "symbol": "HSY",
+      "category": "stock",
+      "price": 173.7,
+      "usdTrend": true,
+      "usdGapPct": 3.25,
+      "spyTrend": true,
+      "spyGapPct": 7.63
+    },
+    {
+      "symbol": "HPE",
+      "category": "stock",
+      "price": 46.09,
+      "usdTrend": false,
+      "usdGapPct": -21.54,
+      "spyTrend": false,
+      "spyGapPct": -18.07
+    },
+    {
+      "symbol": "HLT",
+      "category": "stock",
+      "price": 370.36,
+      "usdTrend": true,
+      "usdGapPct": 10.13,
+      "spyTrend": true,
+      "spyGapPct": 14.78
+    },
+    {
+      "symbol": "HD",
+      "category": "stock",
+      "price": 339.02,
+      "usdTrend": true,
+      "usdGapPct": 8.42,
+      "spyTrend": true,
+      "spyGapPct": 12.98
+    },
+    {
+      "symbol": "HONA",
+      "category": "stock",
+      "price": 160.62,
+      "usdTrend": true,
+      "usdGapPct": 0.2,
+      "spyTrend": true,
+      "spyGapPct": 4.48
+    },
+    {
+      "symbol": "HON",
+      "category": "stock",
+      "price": 218.94,
+      "usdTrend": true,
+      "usdGapPct": 2.4,
+      "spyTrend": true,
+      "spyGapPct": 6.76
+    },
+    {
+      "symbol": "HRL",
+      "category": "stock",
+      "price": 22.59,
+      "usdTrend": true,
+      "usdGapPct": 8.98,
+      "spyTrend": true,
+      "spyGapPct": 13.58
+    },
+    {
+      "symbol": "HST",
+      "category": "stock",
+      "price": 25.63,
+      "usdTrend": true,
+      "usdGapPct": 8.38,
+      "spyTrend": true,
+      "spyGapPct": 12.97
+    },
+    {
+      "symbol": "HWM",
+      "category": "stock",
+      "price": 215.26,
+      "usdTrend": false,
+      "usdGapPct": -1.72,
+      "spyTrend": true,
+      "spyGapPct": 2.5
+    },
+    {
+      "symbol": "HPQ",
+      "category": "stock",
+      "price": 28.73,
+      "usdTrend": false,
+      "usdGapPct": -8.3,
+      "spyTrend": false,
+      "spyGapPct": -4.35
+    },
+    {
+      "symbol": "HUBB",
+      "category": "stock",
+      "price": 424.85,
+      "usdTrend": false,
+      "usdGapPct": -6.34,
+      "spyTrend": false,
+      "spyGapPct": -2.3
+    },
+    {
+      "symbol": "HUM",
+      "category": "stock",
+      "price": 443.32,
+      "usdTrend": true,
+      "usdGapPct": 8.16,
+      "spyTrend": true,
+      "spyGapPct": 12.76
+    },
+    {
+      "symbol": "HBAN",
+      "category": "stock",
+      "price": 15.2,
+      "usdTrend": false,
+      "usdGapPct": -3.31,
+      "spyTrend": true,
+      "spyGapPct": 0.81
+    },
+    {
+      "symbol": "HII",
+      "category": "stock",
+      "price": 297.53,
+      "usdTrend": true,
+      "usdGapPct": 5.93,
+      "spyTrend": true,
+      "spyGapPct": 10.39
+    },
+    {
+      "symbol": "IBM",
+      "category": "stock",
+      "price": 230.98,
+      "usdTrend": false,
+      "usdGapPct": -3.02,
+      "spyTrend": true,
+      "spyGapPct": 1.1
+    },
+    {
+      "symbol": "IEX",
+      "category": "stock",
+      "price": 232.42,
+      "usdTrend": true,
+      "usdGapPct": 0.49,
+      "spyTrend": true,
+      "spyGapPct": 4.79
+    },
+    {
       "symbol": "IDXX",
       "category": "stock",
-      "price": 700.58,
+      "price": 690.155,
       "usdTrend": true,
-      "usdGapPct": 24.56,
+      "usdGapPct": 21.99,
       "spyTrend": true,
-      "spyGapPct": 28.52
+      "spyGapPct": 27.06
     },
     {
       "symbol": "ITW",
       "category": "stock",
-      "price": 284.58,
+      "price": 281.61,
       "usdTrend": true,
-      "usdGapPct": 4.14,
+      "usdGapPct": 2.95,
       "spyTrend": true,
-      "spyGapPct": 7.53
+      "spyGapPct": 7.32
     },
     {
       "symbol": "ILMN",
       "category": "stock",
-      "price": 197.835,
+      "price": 202.765,
       "usdTrend": false,
-      "usdGapPct": -20.56,
+      "usdGapPct": -18.44,
       "spyTrend": false,
-      "spyGapPct": -17.87
+      "spyGapPct": -14.87
     },
     {
       "symbol": "INCY",
       "category": "stock",
-      "price": 120.195,
+      "price": 119.12,
       "usdTrend": true,
-      "usdGapPct": 0.86,
+      "usdGapPct": 0.06,
       "spyTrend": true,
-      "spyGapPct": 4.15
+      "spyGapPct": 4.32
     },
     {
       "symbol": "IR",
       "category": "stock",
-      "price": 83.46,
+      "price": 82.08,
       "usdTrend": true,
-      "usdGapPct": 7.54,
+      "usdGapPct": 5.57,
       "spyTrend": true,
-      "spyGapPct": 11.04
+      "spyGapPct": 10.05
     },
     {
       "symbol": "PODD",
       "category": "stock",
       "price": 145.34,
       "usdTrend": true,
-      "usdGapPct": 2.25,
+      "usdGapPct": 2.28,
       "spyTrend": true,
-      "spyGapPct": 5.57
+      "spyGapPct": 6.61
     },
     {
       "symbol": "INTC",
       "category": "stock",
-      "price": 55.45,
+      "price": 55.17,
       "usdTrend": false,
-      "usdGapPct": -41.61,
+      "usdGapPct": -41.41,
       "spyTrend": false,
-      "spyGapPct": -39.58
+      "spyGapPct": -38.77
     },
     {
       "symbol": "IBKR",
       "category": "stock",
-      "price": 78.45,
+      "price": 76.49,
       "usdTrend": false,
-      "usdGapPct": -7.82,
+      "usdGapPct": -9.83,
       "spyTrend": false,
-      "spyGapPct": -4.75
+      "spyGapPct": -5.92
     },
     {
       "symbol": "ICE",
       "category": "stock",
-      "price": 178.2,
+      "price": 172.22,
       "usdTrend": true,
-      "usdGapPct": 11.15,
+      "usdGapPct": 7.2,
       "spyTrend": true,
-      "spyGapPct": 14.75
+      "spyGapPct": 11.72
     },
     {
       "symbol": "IFF",
       "category": "stock",
-      "price": 79.95,
+      "price": 79.47,
       "usdTrend": false,
-      "usdGapPct": -7.74,
+      "usdGapPct": -8.16,
       "spyTrend": false,
-      "spyGapPct": -4.71
+      "spyGapPct": -4.23
     },
     {
       "symbol": "IP",
       "category": "stock",
-      "price": 33.24,
+      "price": 32.18,
       "usdTrend": false,
-      "usdGapPct": -2.59,
-      "spyTrend": true,
-      "spyGapPct": 0.58
+      "usdGapPct": -5.48,
+      "spyTrend": false,
+      "spyGapPct": -1.46
     },
     {
       "symbol": "INTU",
       "category": "stock",
-      "price": 345.43,
+      "price": 320.64,
       "usdTrend": true,
-      "usdGapPct": 8.74,
+      "usdGapPct": 0.85,
       "spyTrend": true,
-      "spyGapPct": 12.25
+      "spyGapPct": 5.1
     },
     {
       "symbol": "ISRG",
       "category": "stock",
-      "price": 437.77,
+      "price": 430.34,
       "usdTrend": true,
-      "usdGapPct": 4.83,
+      "usdGapPct": 2.7,
       "spyTrend": true,
-      "spyGapPct": 8.24
+      "spyGapPct": 7.06
     },
     {
       "symbol": "IVZ",
       "category": "stock",
-      "price": 28.51,
+      "price": 28.96,
       "usdTrend": false,
-      "usdGapPct": -3.99,
-      "spyTrend": false,
-      "spyGapPct": -0.81
-    },
-    {
-      "symbol": "INVH",
-      "category": "stock",
-      "price": 27.1,
-      "usdTrend": true,
-      "usdGapPct": 0.48,
-      "spyTrend": true,
-      "spyGapPct": 3.77
-    },
-    {
-      "symbol": "IQV",
-      "category": "stock",
-      "price": 264.8,
-      "usdTrend": false,
-      "usdGapPct": -0.97,
-      "spyTrend": true,
-      "spyGapPct": 2.27
-    },
-    {
-      "symbol": "IRM",
-      "category": "stock",
-      "price": 112.45,
-      "usdTrend": false,
-      "usdGapPct": -0.96,
-      "spyTrend": true,
-      "spyGapPct": 2.31
-    },
-    {
-      "symbol": "JBHT",
-      "category": "stock",
-      "price": 232.2,
-      "usdTrend": false,
-      "usdGapPct": -0.87,
-      "spyTrend": true,
-      "spyGapPct": 2.39
-    },
-    {
-      "symbol": "JBL",
-      "category": "stock",
-      "price": 246.9,
-      "usdTrend": false,
-      "usdGapPct": -14.65,
-      "spyTrend": false,
-      "spyGapPct": -11.79
-    },
-    {
-      "symbol": "JKHY",
-      "category": "stock",
-      "price": 178.885,
-      "usdTrend": true,
-      "usdGapPct": 13.47,
-      "spyTrend": true,
-      "spyGapPct": 17.13
-    },
-    {
-      "symbol": "J",
-      "category": "stock",
-      "price": 159.86,
-      "usdTrend": true,
-      "usdGapPct": 10.23,
-      "spyTrend": true,
-      "spyGapPct": 13.81
-    },
-    {
-      "symbol": "JNJ",
-      "category": "stock",
-      "price": 282.62,
-      "usdTrend": true,
-      "usdGapPct": 5.89,
-      "spyTrend": true,
-      "spyGapPct": 9.34
-    },
-    {
-      "symbol": "JCI",
-      "category": "stock",
-      "price": 136.905,
-      "usdTrend": false,
-      "usdGapPct": -7.1,
-      "spyTrend": false,
-      "spyGapPct": -4.01
-    },
-    {
-      "symbol": "JPM",
-      "category": "stock",
-      "price": 338.26,
-      "usdTrend": false,
-      "usdGapPct": -0.64,
-      "spyTrend": true,
-      "spyGapPct": 2.61
-    },
-    {
-      "symbol": "KDP",
-      "category": "stock",
-      "price": 35.6,
-      "usdTrend": true,
-      "usdGapPct": 6.78,
-      "spyTrend": true,
-      "spyGapPct": 10.24
-    },
-    {
-      "symbol": "KEY",
-      "category": "stock",
-      "price": 21.24,
-      "usdTrend": true,
-      "usdGapPct": 1.95,
-      "spyTrend": true,
-      "spyGapPct": 5.28
-    },
-    {
-      "symbol": "KEYS",
-      "category": "stock",
-      "price": 285.31,
-      "usdTrend": false,
-      "usdGapPct": -14.84,
-      "spyTrend": false,
-      "spyGapPct": -11.96
-    },
-    {
-      "symbol": "KMB",
-      "category": "stock",
-      "price": 111.32,
-      "usdTrend": true,
-      "usdGapPct": 8.37,
-      "spyTrend": true,
-      "spyGapPct": 11.89
-    },
-    {
-      "symbol": "KIM",
-      "category": "stock",
-      "price": 25.74,
-      "usdTrend": true,
-      "usdGapPct": 10.15,
-      "spyTrend": true,
-      "spyGapPct": 13.71
-    },
-    {
-      "symbol": "KMI",
-      "category": "stock",
-      "price": 31.44,
-      "usdTrend": false,
-      "usdGapPct": -1.85,
-      "spyTrend": true,
-      "spyGapPct": 1.39
-    },
-    {
-      "symbol": "KKR",
-      "category": "stock",
-      "price": 95.52,
-      "usdTrend": true,
-      "usdGapPct": 0.46,
-      "spyTrend": true,
-      "spyGapPct": 3.73
-    },
-    {
-      "symbol": "KLAC",
-      "category": "stock",
-      "price": 144.03,
-      "usdTrend": false,
-      "usdGapPct": -16.73,
-      "spyTrend": false,
-      "spyGapPct": -13.92
-    },
-    {
-      "symbol": "KHC",
-      "category": "stock",
-      "price": 25.08,
-      "usdTrend": true,
-      "usdGapPct": 5.01,
-      "spyTrend": true,
-      "spyGapPct": 8.42
-    },
-    {
-      "symbol": "KR",
-      "category": "stock",
-      "price": 70.72,
-      "usdTrend": true,
-      "usdGapPct": 12.64,
-      "spyTrend": true,
-      "spyGapPct": 16.28
-    },
-    {
-      "symbol": "LHX",
-      "category": "stock",
-      "price": 261.57,
-      "usdTrend": true,
-      "usdGapPct": 4.12,
-      "spyTrend": true,
-      "spyGapPct": 7.5
-    },
-    {
-      "symbol": "LH",
-      "category": "stock",
-      "price": 372.45,
-      "usdTrend": true,
-      "usdGapPct": 12.98,
-      "spyTrend": true,
-      "spyGapPct": 16.62
-    },
-    {
-      "symbol": "LRCX",
-      "category": "stock",
-      "price": 210.94,
-      "usdTrend": false,
-      "usdGapPct": -24.03,
-      "spyTrend": false,
-      "spyGapPct": -21.43
-    },
-    {
-      "symbol": "LVS",
-      "category": "stock",
-      "price": 39.83,
-      "usdTrend": true,
-      "usdGapPct": 2.49,
-      "spyTrend": true,
-      "spyGapPct": 5.82
-    },
-    {
-      "symbol": "LDOS",
-      "category": "stock",
-      "price": 130.055,
-      "usdTrend": true,
-      "usdGapPct": 1.01,
-      "spyTrend": true,
-      "spyGapPct": 4.29
-    },
-    {
-      "symbol": "LEN",
-      "category": "stock",
-      "price": 83.79,
-      "usdTrend": true,
-      "usdGapPct": 2.7,
-      "spyTrend": true,
-      "spyGapPct": 6.02
-    },
-    {
-      "symbol": "LII",
-      "category": "stock",
-      "price": 335.4,
-      "usdTrend": false,
-      "usdGapPct": -6.97,
-      "spyTrend": false,
-      "spyGapPct": -3.9
-    },
-    {
-      "symbol": "LLY",
-      "category": "stock",
-      "price": 1434.09,
-      "usdTrend": true,
-      "usdGapPct": 15.51,
-      "spyTrend": true,
-      "spyGapPct": 19.23
-    },
-    {
-      "symbol": "LIN",
-      "category": "stock",
-      "price": 523.61,
-      "usdTrend": true,
-      "usdGapPct": 6.82,
-      "spyTrend": true,
-      "spyGapPct": 10.3
-    },
-    {
-      "symbol": "LYV",
-      "category": "stock",
-      "price": 177.925,
-      "usdTrend": true,
-      "usdGapPct": 2.97,
-      "spyTrend": true,
-      "spyGapPct": 6.33
-    },
-    {
-      "symbol": "LMT",
-      "category": "stock",
-      "price": 585.47,
-      "usdTrend": true,
-      "usdGapPct": 5.75,
-      "spyTrend": true,
-      "spyGapPct": 9.17
-    },
-    {
-      "symbol": "L",
-      "category": "stock",
-      "price": 111.85,
-      "usdTrend": true,
-      "usdGapPct": 2.77,
-      "spyTrend": true,
-      "spyGapPct": 6.13
-    },
-    {
-      "symbol": "LOW",
-      "category": "stock",
-      "price": 224.93,
-      "usdTrend": true,
-      "usdGapPct": 12.54,
-      "spyTrend": true,
-      "spyGapPct": 16.15
-    },
-    {
-      "symbol": "LULU",
-      "category": "stock",
-      "price": 105.44,
-      "usdTrend": true,
-      "usdGapPct": 4.42,
-      "spyTrend": true,
-      "spyGapPct": 7.8
-    },
-    {
-      "symbol": "LITE",
-      "category": "stock",
-      "price": 545.78,
-      "usdTrend": false,
-      "usdGapPct": -37.07,
-      "spyTrend": false,
-      "spyGapPct": -34.88
-    },
-    {
-      "symbol": "LYB",
-      "category": "stock",
-      "price": 61.67,
-      "usdTrend": false,
-      "usdGapPct": -1.18,
-      "spyTrend": true,
-      "spyGapPct": 2.04
-    },
-    {
-      "symbol": "MTB",
-      "category": "stock",
-      "price": 219.785,
-      "usdTrend": false,
-      "usdGapPct": -1.39,
-      "spyTrend": true,
-      "spyGapPct": 1.84
-    },
-    {
-      "symbol": "MPC",
-      "category": "stock",
-      "price": 402.15,
-      "usdTrend": false,
-      "usdGapPct": -5.15,
-      "spyTrend": false,
-      "spyGapPct": -2
-    },
-    {
-      "symbol": "MAR",
-      "category": "stock",
-      "price": 425.8,
-      "usdTrend": true,
-      "usdGapPct": 13.59,
-      "spyTrend": true,
-      "spyGapPct": 17.27
-    },
-    {
-      "symbol": "MRSH",
-      "category": "stock",
-      "price": 209.92,
-      "usdTrend": true,
-      "usdGapPct": 13.17,
-      "spyTrend": true,
-      "spyGapPct": 16.82
-    },
-    {
-      "symbol": "MLM",
-      "category": "stock",
-      "price": 510.53,
-      "usdTrend": true,
-      "usdGapPct": 1.4,
-      "spyTrend": true,
-      "spyGapPct": 4.69
-    },
-    {
-      "symbol": "MRVL",
-      "category": "stock",
-      "price": 145.415,
-      "usdTrend": false,
-      "usdGapPct": -36.55,
-      "spyTrend": false,
-      "spyGapPct": -34.35
-    },
-    {
-      "symbol": "MAS",
-      "category": "stock",
-      "price": 84.61,
-      "usdTrend": true,
-      "usdGapPct": 14.92,
-      "spyTrend": true,
-      "spyGapPct": 18.62
-    },
-    {
-      "symbol": "MA",
-      "category": "stock",
-      "price": 662.01,
-      "usdTrend": true,
-      "usdGapPct": 10.32,
-      "spyTrend": true,
-      "spyGapPct": 13.9
-    },
-    {
-      "symbol": "MKC",
-      "category": "stock",
-      "price": 47.11,
-      "usdTrend": false,
-      "usdGapPct": -1.39,
-      "spyTrend": true,
-      "spyGapPct": 1.82
-    },
-    {
-      "symbol": "MCD",
-      "category": "stock",
-      "price": 274.64,
-      "usdTrend": true,
-      "usdGapPct": 9.74,
-      "spyTrend": true,
-      "spyGapPct": 13.28
-    },
-    {
-      "symbol": "MCK",
-      "category": "stock",
-      "price": 1106.24,
-      "usdTrend": true,
-      "usdGapPct": 15.8,
-      "spyTrend": true,
-      "spyGapPct": 19.55
-    },
-    {
-      "symbol": "MDT",
-      "category": "stock",
-      "price": 102.9,
-      "usdTrend": true,
-      "usdGapPct": 9.79,
-      "spyTrend": true,
-      "spyGapPct": 13.34
-    },
-    {
-      "symbol": "MRK",
-      "category": "stock",
-      "price": 144.54,
-      "usdTrend": false,
-      "usdGapPct": -1.09,
-      "spyTrend": true,
-      "spyGapPct": 2.14
-    },
-    {
-      "symbol": "META",
-      "category": "stock",
-      "price": 626.69,
-      "usdTrend": false,
-      "usdGapPct": -7.81,
-      "spyTrend": false,
-      "spyGapPct": -4.73
-    },
-    {
-      "symbol": "MET",
-      "category": "stock",
-      "price": 101.445,
-      "usdTrend": true,
-      "usdGapPct": 2.74,
-      "spyTrend": true,
-      "spyGapPct": 6.1
-    },
-    {
-      "symbol": "MTD",
-      "category": "stock",
-      "price": 1728,
-      "usdTrend": true,
-      "usdGapPct": 10.71,
-      "spyTrend": true,
-      "spyGapPct": 14.32
-    },
-    {
-      "symbol": "MGM",
-      "category": "stock",
-      "price": 33.25,
-      "usdTrend": true,
-      "usdGapPct": 1.3,
-      "spyTrend": true,
-      "spyGapPct": 4.59
-    },
-    {
-      "symbol": "MCHP",
-      "category": "stock",
-      "price": 58.65,
-      "usdTrend": false,
-      "usdGapPct": -20.45,
-      "spyTrend": false,
-      "spyGapPct": -17.78
-    },
-    {
-      "symbol": "MU",
-      "category": "stock",
-      "price": 719.275,
-      "usdTrend": false,
-      "usdGapPct": -23.79,
-      "spyTrend": false,
-      "spyGapPct": -21.2
-    },
-    {
-      "symbol": "MSFT",
-      "category": "stock",
-      "price": 518.23,
-      "usdTrend": false,
-      "usdGapPct": -0.15,
-      "spyTrend": true,
-      "spyGapPct": 3.12
-    },
-    {
-      "symbol": "MAA",
-      "category": "stock",
-      "price": 117.84,
-      "usdTrend": false,
-      "usdGapPct": -1.08,
-      "spyTrend": true,
-      "spyGapPct": 2.15
-    },
-    {
-      "symbol": "MRNA",
-      "category": "stock",
-      "price": 215.35,
-      "usdTrend": true,
-      "usdGapPct": 6.81,
-      "spyTrend": true,
-      "spyGapPct": 10.27
-    },
-    {
-      "symbol": "MDLZ",
-      "category": "stock",
-      "price": 67.555,
-      "usdTrend": true,
-      "usdGapPct": 8,
-      "spyTrend": true,
-      "spyGapPct": 11.5
-    },
-    {
-      "symbol": "MPWR",
-      "category": "stock",
-      "price": 1313.94,
-      "usdTrend": true,
-      "usdGapPct": 2.26,
-      "spyTrend": true,
-      "spyGapPct": 5.65
-    },
-    {
-      "symbol": "MNST",
-      "category": "stock",
-      "price": 45.81,
-      "usdTrend": true,
-      "usdGapPct": 2.36,
-      "spyTrend": true,
-      "spyGapPct": 5.7
-    },
-    {
-      "symbol": "MCO",
-      "category": "stock",
-      "price": 506.4,
-      "usdTrend": true,
-      "usdGapPct": 5.87,
-      "spyTrend": true,
-      "spyGapPct": 9.31
-    },
-    {
-      "symbol": "MS",
-      "category": "stock",
-      "price": 185.56,
-      "usdTrend": false,
-      "usdGapPct": -3.72,
-      "spyTrend": false,
-      "spyGapPct": -0.56
-    },
-    {
-      "symbol": "MOS",
-      "category": "stock",
-      "price": 21.24,
-      "usdTrend": false,
-      "usdGapPct": -1.17,
+      "usdGapPct": -2.17,
       "spyTrend": true,
       "spyGapPct": 2.03
     },
     {
+      "symbol": "INVH",
+      "category": "stock",
+      "price": 26.72,
+      "usdTrend": false,
+      "usdGapPct": -0.83,
+      "spyTrend": true,
+      "spyGapPct": 3.39
+    },
+    {
+      "symbol": "IQV",
+      "category": "stock",
+      "price": 257.65,
+      "usdTrend": false,
+      "usdGapPct": -3.63,
+      "spyTrend": true,
+      "spyGapPct": 0.48
+    },
+    {
+      "symbol": "IRM",
+      "category": "stock",
+      "price": 111.775,
+      "usdTrend": false,
+      "usdGapPct": -1.47,
+      "spyTrend": true,
+      "spyGapPct": 2.75
+    },
+    {
+      "symbol": "JBHT",
+      "category": "stock",
+      "price": 224.11,
+      "usdTrend": false,
+      "usdGapPct": -3.98,
+      "spyTrend": true,
+      "spyGapPct": 0.12
+    },
+    {
+      "symbol": "JBL",
+      "category": "stock",
+      "price": 243.62,
+      "usdTrend": false,
+      "usdGapPct": -15.41,
+      "spyTrend": false,
+      "spyGapPct": -11.73
+    },
+    {
+      "symbol": "JKHY",
+      "category": "stock",
+      "price": 175.64,
+      "usdTrend": true,
+      "usdGapPct": 11.22,
+      "spyTrend": true,
+      "spyGapPct": 15.9
+    },
+    {
+      "symbol": "J",
+      "category": "stock",
+      "price": 158.16,
+      "usdTrend": true,
+      "usdGapPct": 8.85,
+      "spyTrend": true,
+      "spyGapPct": 13.46
+    },
+    {
+      "symbol": "JNJ",
+      "category": "stock",
+      "price": 278.71,
+      "usdTrend": true,
+      "usdGapPct": 4.36,
+      "spyTrend": true,
+      "spyGapPct": 8.79
+    },
+    {
+      "symbol": "JCI",
+      "category": "stock",
+      "price": 136.3,
+      "usdTrend": false,
+      "usdGapPct": -7.41,
+      "spyTrend": false,
+      "spyGapPct": -3.41
+    },
+    {
+      "symbol": "JPM",
+      "category": "stock",
+      "price": 329.87,
+      "usdTrend": false,
+      "usdGapPct": -2.99,
+      "spyTrend": true,
+      "spyGapPct": 1.15
+    },
+    {
+      "symbol": "KDP",
+      "category": "stock",
+      "price": 34.78,
+      "usdTrend": true,
+      "usdGapPct": 4.14,
+      "spyTrend": true,
+      "spyGapPct": 8.53
+    },
+    {
+      "symbol": "KEY",
+      "category": "stock",
+      "price": 20.735,
+      "usdTrend": false,
+      "usdGapPct": -0.38,
+      "spyTrend": true,
+      "spyGapPct": 3.85
+    },
+    {
+      "symbol": "KEYS",
+      "category": "stock",
+      "price": 284.31,
+      "usdTrend": false,
+      "usdGapPct": -14.93,
+      "spyTrend": false,
+      "spyGapPct": -11.2
+    },
+    {
+      "symbol": "KMB",
+      "category": "stock",
+      "price": 108.17,
+      "usdTrend": true,
+      "usdGapPct": 5.17,
+      "spyTrend": true,
+      "spyGapPct": 9.63
+    },
+    {
+      "symbol": "KIM",
+      "category": "stock",
+      "price": 25.585,
+      "usdTrend": true,
+      "usdGapPct": 9.29,
+      "spyTrend": true,
+      "spyGapPct": 13.89
+    },
+    {
+      "symbol": "KMI",
+      "category": "stock",
+      "price": 31.7,
+      "usdTrend": false,
+      "usdGapPct": -1.04,
+      "spyTrend": true,
+      "spyGapPct": 3.21
+    },
+    {
+      "symbol": "KKR",
+      "category": "stock",
+      "price": 94.45,
+      "usdTrend": false,
+      "usdGapPct": -0.41,
+      "spyTrend": true,
+      "spyGapPct": 3.82
+    },
+    {
+      "symbol": "KLAC",
+      "category": "stock",
+      "price": 144.42,
+      "usdTrend": false,
+      "usdGapPct": -16.1,
+      "spyTrend": false,
+      "spyGapPct": -12.43
+    },
+    {
+      "symbol": "KHC",
+      "category": "stock",
+      "price": 25.11,
+      "usdTrend": true,
+      "usdGapPct": 5.12,
+      "spyTrend": true,
+      "spyGapPct": 9.57
+    },
+    {
+      "symbol": "KR",
+      "category": "stock",
+      "price": 70.89,
+      "usdTrend": true,
+      "usdGapPct": 12.47,
+      "spyTrend": true,
+      "spyGapPct": 17.22
+    },
+    {
+      "symbol": "LHX",
+      "category": "stock",
+      "price": 260.72,
+      "usdTrend": true,
+      "usdGapPct": 3.74,
+      "spyTrend": true,
+      "spyGapPct": 8.13
+    },
+    {
+      "symbol": "LH",
+      "category": "stock",
+      "price": 368.53,
+      "usdTrend": true,
+      "usdGapPct": 11.48,
+      "spyTrend": true,
+      "spyGapPct": 16.17
+    },
+    {
+      "symbol": "LRCX",
+      "category": "stock",
+      "price": 210.665,
+      "usdTrend": false,
+      "usdGapPct": -23.59,
+      "spyTrend": false,
+      "spyGapPct": -20.21
+    },
+    {
+      "symbol": "LVS",
+      "category": "stock",
+      "price": 39.32,
+      "usdTrend": true,
+      "usdGapPct": 1.41,
+      "spyTrend": true,
+      "spyGapPct": 5.71
+    },
+    {
+      "symbol": "LDOS",
+      "category": "stock",
+      "price": 128.17,
+      "usdTrend": false,
+      "usdGapPct": -0.4,
+      "spyTrend": true,
+      "spyGapPct": 3.81
+    },
+    {
+      "symbol": "LEN",
+      "category": "stock",
+      "price": 82.375,
+      "usdTrend": true,
+      "usdGapPct": 0.96,
+      "spyTrend": true,
+      "spyGapPct": 5.22
+    },
+    {
+      "symbol": "LII",
+      "category": "stock",
+      "price": 332.18,
+      "usdTrend": false,
+      "usdGapPct": -7.58,
+      "spyTrend": false,
+      "spyGapPct": -3.61
+    },
+    {
+      "symbol": "LLY",
+      "category": "stock",
+      "price": 1415.695,
+      "usdTrend": true,
+      "usdGapPct": 13.51,
+      "spyTrend": true,
+      "spyGapPct": 18.28
+    },
+    {
+      "symbol": "LIN",
+      "category": "stock",
+      "price": 514.955,
+      "usdTrend": true,
+      "usdGapPct": 4.85,
+      "spyTrend": true,
+      "spyGapPct": 9.3
+    },
+    {
+      "symbol": "LYV",
+      "category": "stock",
+      "price": 176.23,
+      "usdTrend": true,
+      "usdGapPct": 1.94,
+      "spyTrend": true,
+      "spyGapPct": 6.28
+    },
+    {
+      "symbol": "LMT",
+      "category": "stock",
+      "price": 590.09,
+      "usdTrend": true,
+      "usdGapPct": 6.35,
+      "spyTrend": true,
+      "spyGapPct": 10.84
+    },
+    {
+      "symbol": "L",
+      "category": "stock",
+      "price": 110.195,
+      "usdTrend": true,
+      "usdGapPct": 1.2,
+      "spyTrend": true,
+      "spyGapPct": 5.51
+    },
+    {
+      "symbol": "LOW",
+      "category": "stock",
+      "price": 220.53,
+      "usdTrend": true,
+      "usdGapPct": 10.11,
+      "spyTrend": true,
+      "spyGapPct": 14.73
+    },
+    {
+      "symbol": "LULU",
+      "category": "stock",
+      "price": 104.11,
+      "usdTrend": true,
+      "usdGapPct": 3.01,
+      "spyTrend": true,
+      "spyGapPct": 7.36
+    },
+    {
+      "symbol": "LITE",
+      "category": "stock",
+      "price": 559.93,
+      "usdTrend": false,
+      "usdGapPct": -34.93,
+      "spyTrend": false,
+      "spyGapPct": -32.01
+    },
+    {
+      "symbol": "LYB",
+      "category": "stock",
+      "price": 60.7,
+      "usdTrend": false,
+      "usdGapPct": -2.68,
+      "spyTrend": true,
+      "spyGapPct": 1.46
+    },
+    {
+      "symbol": "MTB",
+      "category": "stock",
+      "price": 215.755,
+      "usdTrend": false,
+      "usdGapPct": -3.02,
+      "spyTrend": true,
+      "spyGapPct": 1.12
+    },
+    {
+      "symbol": "MPC",
+      "category": "stock",
+      "price": 395.59,
+      "usdTrend": false,
+      "usdGapPct": -6.76,
+      "spyTrend": false,
+      "spyGapPct": -2.73
+    },
+    {
+      "symbol": "MAR",
+      "category": "stock",
+      "price": 422.725,
+      "usdTrend": true,
+      "usdGapPct": 12.24,
+      "spyTrend": true,
+      "spyGapPct": 16.97
+    },
+    {
+      "symbol": "MRSH",
+      "category": "stock",
+      "price": 206.09,
+      "usdTrend": true,
+      "usdGapPct": 10.82,
+      "spyTrend": true,
+      "spyGapPct": 15.48
+    },
+    {
+      "symbol": "MLM",
+      "category": "stock",
+      "price": 504.07,
+      "usdTrend": true,
+      "usdGapPct": 0.13,
+      "spyTrend": true,
+      "spyGapPct": 4.38
+    },
+    {
+      "symbol": "MRVL",
+      "category": "stock",
+      "price": 148.81,
+      "usdTrend": false,
+      "usdGapPct": -34.63,
+      "spyTrend": false,
+      "spyGapPct": -31.69
+    },
+    {
+      "symbol": "MAS",
+      "category": "stock",
+      "price": 83.235,
+      "usdTrend": true,
+      "usdGapPct": 12.69,
+      "spyTrend": true,
+      "spyGapPct": 17.42
+    },
+    {
+      "symbol": "MA",
+      "category": "stock",
+      "price": 645.49,
+      "usdTrend": true,
+      "usdGapPct": 7.27,
+      "spyTrend": true,
+      "spyGapPct": 11.81
+    },
+    {
+      "symbol": "MKC",
+      "category": "stock",
+      "price": 44.68,
+      "usdTrend": false,
+      "usdGapPct": -6.28,
+      "spyTrend": false,
+      "spyGapPct": -2.3
+    },
+    {
+      "symbol": "MCD",
+      "category": "stock",
+      "price": 275.69,
+      "usdTrend": true,
+      "usdGapPct": 9.99,
+      "spyTrend": true,
+      "spyGapPct": 14.62
+    },
+    {
+      "symbol": "MCK",
+      "category": "stock",
+      "price": 1091.57,
+      "usdTrend": true,
+      "usdGapPct": 13.79,
+      "spyTrend": true,
+      "spyGapPct": 18.59
+    },
+    {
+      "symbol": "MDT",
+      "category": "stock",
+      "price": 102.34,
+      "usdTrend": true,
+      "usdGapPct": 8.99,
+      "spyTrend": true,
+      "spyGapPct": 13.58
+    },
+    {
+      "symbol": "MRK",
+      "category": "stock",
+      "price": 143.38,
+      "usdTrend": false,
+      "usdGapPct": -1.81,
+      "spyTrend": true,
+      "spyGapPct": 2.38
+    },
+    {
+      "symbol": "META",
+      "category": "stock",
+      "price": 618.93,
+      "usdTrend": false,
+      "usdGapPct": -8.98,
+      "spyTrend": false,
+      "spyGapPct": -5.03
+    },
+    {
+      "symbol": "MET",
+      "category": "stock",
+      "price": 101.525,
+      "usdTrend": true,
+      "usdGapPct": 2.74,
+      "spyTrend": true,
+      "spyGapPct": 7.12
+    },
+    {
+      "symbol": "MTD",
+      "category": "stock",
+      "price": 1712.475,
+      "usdTrend": true,
+      "usdGapPct": 9.18,
+      "spyTrend": true,
+      "spyGapPct": 13.82
+    },
+    {
+      "symbol": "MGM",
+      "category": "stock",
+      "price": 33.34,
+      "usdTrend": true,
+      "usdGapPct": 2.07,
+      "spyTrend": true,
+      "spyGapPct": 6.39
+    },
+    {
+      "symbol": "MCHP",
+      "category": "stock",
+      "price": 59.47,
+      "usdTrend": false,
+      "usdGapPct": -19,
+      "spyTrend": false,
+      "spyGapPct": -15.47
+    },
+    {
+      "symbol": "MU",
+      "category": "stock",
+      "price": 712.975,
+      "usdTrend": false,
+      "usdGapPct": -23.98,
+      "spyTrend": false,
+      "spyGapPct": -20.63
+    },
+    {
+      "symbol": "MSFT",
+      "category": "stock",
+      "price": 506.07,
+      "usdTrend": false,
+      "usdGapPct": -2.57,
+      "spyTrend": true,
+      "spyGapPct": 1.6
+    },
+    {
+      "symbol": "MAA",
+      "category": "stock",
+      "price": 116.315,
+      "usdTrend": false,
+      "usdGapPct": -2.19,
+      "spyTrend": true,
+      "spyGapPct": 1.98
+    },
+    {
+      "symbol": "MRNA",
+      "category": "stock",
+      "price": 206.83,
+      "usdTrend": true,
+      "usdGapPct": 1.88,
+      "spyTrend": true,
+      "spyGapPct": 6.19
+    },
+    {
+      "symbol": "MDLZ",
+      "category": "stock",
+      "price": 66.73,
+      "usdTrend": true,
+      "usdGapPct": 6.46,
+      "spyTrend": true,
+      "spyGapPct": 10.97
+    },
+    {
+      "symbol": "MPWR",
+      "category": "stock",
+      "price": 1318.1,
+      "usdTrend": true,
+      "usdGapPct": 2.43,
+      "spyTrend": true,
+      "spyGapPct": 6.85
+    },
+    {
+      "symbol": "MNST",
+      "category": "stock",
+      "price": 44.44,
+      "usdTrend": false,
+      "usdGapPct": -0.79,
+      "spyTrend": true,
+      "spyGapPct": 3.43
+    },
+    {
+      "symbol": "MCO",
+      "category": "stock",
+      "price": 484.3,
+      "usdTrend": true,
+      "usdGapPct": 1.19,
+      "spyTrend": true,
+      "spyGapPct": 5.48
+    },
+    {
+      "symbol": "MS",
+      "category": "stock",
+      "price": 183.46,
+      "usdTrend": false,
+      "usdGapPct": -4.49,
+      "spyTrend": false,
+      "spyGapPct": -0.4
+    },
+    {
+      "symbol": "MOS",
+      "category": "stock",
+      "price": 20.74,
+      "usdTrend": false,
+      "usdGapPct": -3.08,
+      "spyTrend": true,
+      "spyGapPct": 1.02
+    },
+    {
       "symbol": "MSI",
       "category": "stock",
-      "price": 534.32,
+      "price": 525.955,
       "usdTrend": true,
-      "usdGapPct": 13.02,
+      "usdGapPct": 10.94,
       "spyTrend": true,
-      "spyGapPct": 16.68
+      "spyGapPct": 15.62
     },
     {
       "symbol": "MSCI",
       "category": "stock",
-      "price": 664.54,
+      "price": 635.97,
       "usdTrend": true,
-      "usdGapPct": 13.77,
+      "usdGapPct": 8.53,
       "spyTrend": true,
-      "spyGapPct": 17.44
+      "spyGapPct": 13.1
     },
     {
       "symbol": "NDAQ",
       "category": "stock",
-      "price": 108.53,
+      "price": 105.13,
       "usdTrend": true,
-      "usdGapPct": 11.07,
+      "usdGapPct": 7.33,
       "spyTrend": true,
-      "spyGapPct": 14.66
+      "spyGapPct": 11.86
     },
     {
       "symbol": "NTAP",
       "category": "stock",
-      "price": 177.875,
+      "price": 173.04,
       "usdTrend": false,
-      "usdGapPct": -12.74,
+      "usdGapPct": -15.04,
       "spyTrend": false,
-      "spyGapPct": -9.79
+      "spyGapPct": -11.32
     },
     {
       "symbol": "NFLX",
       "category": "stock",
-      "price": 60.745,
+      "price": 59.68,
       "usdTrend": false,
-      "usdGapPct": -12.2,
+      "usdGapPct": -13.3,
       "spyTrend": false,
-      "spyGapPct": -9.3
+      "spyGapPct": -9.57
     },
     {
       "symbol": "NEM",
       "category": "stock",
-      "price": 110.36,
+      "price": 111.25,
       "usdTrend": false,
-      "usdGapPct": -6.49,
+      "usdGapPct": -5.46,
       "spyTrend": false,
-      "spyGapPct": -3.43
+      "spyGapPct": -1.42
     },
     {
       "symbol": "NWSA",
       "category": "stock",
-      "price": 26.66,
+      "price": 26.36,
       "usdTrend": false,
-      "usdGapPct": -8.54,
+      "usdGapPct": -9.34,
       "spyTrend": false,
-      "spyGapPct": -5.52
+      "spyGapPct": -5.44
     },
     {
       "symbol": "NWS",
       "category": "stock",
-      "price": 29.56,
+      "price": 29.13,
       "usdTrend": false,
-      "usdGapPct": -8.03,
+      "usdGapPct": -9.12,
       "spyTrend": false,
-      "spyGapPct": -4.99
+      "spyGapPct": -5.21
     },
     {
       "symbol": "NEE",
       "category": "stock",
-      "price": 85.365,
+      "price": 84.5,
       "usdTrend": true,
-      "usdGapPct": 5.63,
+      "usdGapPct": 4.51,
       "spyTrend": true,
-      "spyGapPct": 9.06
+      "spyGapPct": 8.93
     },
     {
       "symbol": "NKE",
       "category": "stock",
-      "price": 38.29,
-      "usdTrend": true,
-      "usdGapPct": 3.79,
+      "price": 35.86,
+      "usdTrend": false,
+      "usdGapPct": -2.79,
       "spyTrend": true,
-      "spyGapPct": 7.16
+      "spyGapPct": 1.33
     },
     {
       "symbol": "NI",
       "category": "stock",
-      "price": 45.48,
+      "price": 44.38,
       "usdTrend": true,
-      "usdGapPct": 8.17,
+      "usdGapPct": 5.35,
       "spyTrend": true,
-      "spyGapPct": 11.68
+      "spyGapPct": 9.81
     },
     {
       "symbol": "NDSN",
       "category": "stock",
-      "price": 322.07,
+      "price": 319.6,
       "usdTrend": false,
-      "usdGapPct": -0.31,
-      "spyTrend": true,
-      "spyGapPct": 2.98
-    },
-    {
-      "symbol": "NSC",
-      "category": "stock",
-      "price": 329.35,
-      "usdTrend": true,
-      "usdGapPct": 1.62,
-      "spyTrend": true,
-      "spyGapPct": 4.94
-    },
-    {
-      "symbol": "NTRS",
-      "category": "stock",
-      "price": 175.5,
-      "usdTrend": true,
-      "usdGapPct": 1.16,
-      "spyTrend": true,
-      "spyGapPct": 4.47
-    },
-    {
-      "symbol": "NOC",
-      "category": "stock",
-      "price": 545.72,
-      "usdTrend": true,
-      "usdGapPct": 4.82,
-      "spyTrend": true,
-      "spyGapPct": 8.23
-    },
-    {
-      "symbol": "NCLH",
-      "category": "stock",
-      "price": 17.93,
-      "usdTrend": true,
-      "usdGapPct": 14.05,
-      "spyTrend": true,
-      "spyGapPct": 17.73
-    },
-    {
-      "symbol": "NRG",
-      "category": "stock",
-      "price": 93.99,
-      "usdTrend": false,
-      "usdGapPct": -6.67,
-      "spyTrend": false,
-      "spyGapPct": -3.57
-    },
-    {
-      "symbol": "NUE",
-      "category": "stock",
-      "price": 252.645,
-      "usdTrend": false,
-      "usdGapPct": -1,
-      "spyTrend": true,
-      "spyGapPct": 2.24
-    },
-    {
-      "symbol": "NVDA",
-      "category": "stock",
-      "price": 156.145,
-      "usdTrend": false,
-      "usdGapPct": -27.26,
-      "spyTrend": false,
-      "spyGapPct": -24.81
-    },
-    {
-      "symbol": "NVR",
-      "category": "stock",
-      "price": 5798.01,
-      "usdTrend": false,
-      "usdGapPct": -4.52,
-      "spyTrend": false,
-      "spyGapPct": -1.41
-    },
-    {
-      "symbol": "NXPI",
-      "category": "stock",
-      "price": 254.37,
-      "usdTrend": true,
-      "usdGapPct": 5.97,
-      "spyTrend": true,
-      "spyGapPct": 9.42
-    },
-    {
-      "symbol": "ORLY",
-      "category": "stock",
-      "price": 92.72,
-      "usdTrend": true,
-      "usdGapPct": 5.84,
-      "spyTrend": true,
-      "spyGapPct": 9.29
-    },
-    {
-      "symbol": "OXY",
-      "category": "stock",
-      "price": 57.365,
-      "usdTrend": false,
-      "usdGapPct": -4.01,
-      "spyTrend": false,
-      "spyGapPct": -0.85
-    },
-    {
-      "symbol": "OKTA",
-      "category": "stock",
-      "price": 178.23,
-      "usdTrend": false,
-      "usdGapPct": -10.02,
-      "spyTrend": false,
-      "spyGapPct": -6.99
-    },
-    {
-      "symbol": "ODFL",
-      "category": "stock",
-      "price": 174.32,
-      "usdTrend": false,
-      "usdGapPct": -2.48,
-      "spyTrend": true,
-      "spyGapPct": 0.74
-    },
-    {
-      "symbol": "OMC",
-      "category": "stock",
-      "price": 87.95,
-      "usdTrend": true,
-      "usdGapPct": 10.15,
-      "spyTrend": true,
-      "spyGapPct": 13.71
-    },
-    {
-      "symbol": "ON",
-      "category": "stock",
-      "price": 67.69,
-      "usdTrend": false,
-      "usdGapPct": -8.6,
-      "spyTrend": false,
-      "spyGapPct": -5.55
-    },
-    {
-      "symbol": "OKE",
-      "category": "stock",
-      "price": 88.12,
-      "usdTrend": false,
-      "usdGapPct": -3.8,
-      "spyTrend": false,
-      "spyGapPct": -0.64
-    },
-    {
-      "symbol": "ORCL",
-      "category": "stock",
-      "price": 119.11,
-      "usdTrend": false,
-      "usdGapPct": -12.84,
-      "spyTrend": false,
-      "spyGapPct": -9.93
-    },
-    {
-      "symbol": "OTIS",
-      "category": "stock",
-      "price": 77.72,
-      "usdTrend": true,
-      "usdGapPct": 9.44,
-      "spyTrend": true,
-      "spyGapPct": 12.97
-    },
-    {
-      "symbol": "PCAR",
-      "category": "stock",
-      "price": 105.58,
-      "usdTrend": false,
-      "usdGapPct": -4.48,
-      "spyTrend": false,
-      "spyGapPct": -1.33
-    },
-    {
-      "symbol": "PKG",
-      "category": "stock",
-      "price": 250.55,
-      "usdTrend": true,
-      "usdGapPct": 4.43,
-      "spyTrend": true,
-      "spyGapPct": 7.83
-    },
-    {
-      "symbol": "PLTR",
-      "category": "stock",
-      "price": 160.49,
-      "usdTrend": false,
-      "usdGapPct": -13.15,
-      "spyTrend": false,
-      "spyGapPct": -10.24
-    },
-    {
-      "symbol": "PANW",
-      "category": "stock",
-      "price": 316.145,
-      "usdTrend": false,
-      "usdGapPct": -13.97,
-      "spyTrend": false,
-      "spyGapPct": -11.08
-    },
-    {
-      "symbol": "PH",
-      "category": "stock",
-      "price": 934.735,
-      "usdTrend": false,
-      "usdGapPct": -1.15,
-      "spyTrend": true,
-      "spyGapPct": 2.11
-    },
-    {
-      "symbol": "PAYX",
-      "category": "stock",
-      "price": 117.775,
-      "usdTrend": true,
-      "usdGapPct": 6.15,
-      "spyTrend": true,
-      "spyGapPct": 9.59
-    },
-    {
-      "symbol": "PYPL",
-      "category": "stock",
-      "price": 58.83,
-      "usdTrend": true,
-      "usdGapPct": 5.8,
-      "spyTrend": true,
-      "spyGapPct": 9.24
-    },
-    {
-      "symbol": "PNR",
-      "category": "stock",
-      "price": 68.43,
-      "usdTrend": true,
-      "usdGapPct": 17.37,
-      "spyTrend": true,
-      "spyGapPct": 21.11
-    },
-    {
-      "symbol": "PEP",
-      "category": "stock",
-      "price": 146.47,
-      "usdTrend": true,
-      "usdGapPct": 9.6,
-      "spyTrend": true,
-      "spyGapPct": 13.15
-    },
-    {
-      "symbol": "PFE",
-      "category": "stock",
-      "price": 28.88,
-      "usdTrend": true,
-      "usdGapPct": 0.27,
-      "spyTrend": true,
-      "spyGapPct": 3.54
-    },
-    {
-      "symbol": "PCG",
-      "category": "stock",
-      "price": 13.695,
-      "usdTrend": true,
-      "usdGapPct": 4.89,
-      "spyTrend": true,
-      "spyGapPct": 8.32
-    },
-    {
-      "symbol": "PM",
-      "category": "stock",
-      "price": 196.075,
-      "usdTrend": false,
-      "usdGapPct": -0.12,
+      "usdGapPct": -1.09,
       "spyTrend": true,
       "spyGapPct": 3.15
     },
     {
-      "symbol": "PSX",
+      "symbol": "NSC",
       "category": "stock",
-      "price": 260.71,
+      "price": 320.26,
       "usdTrend": false,
-      "usdGapPct": -3.04,
-      "spyTrend": true,
-      "spyGapPct": 0.17
-    },
-    {
-      "symbol": "PNW",
-      "category": "stock",
-      "price": 105.345,
-      "usdTrend": true,
-      "usdGapPct": 5.39,
-      "spyTrend": true,
-      "spyGapPct": 8.82
-    },
-    {
-      "symbol": "PNC",
-      "category": "stock",
-      "price": 229.635,
-      "usdTrend": true,
-      "usdGapPct": 0.87,
-      "spyTrend": true,
-      "spyGapPct": 4.17
-    },
-    {
-      "symbol": "PPG",
-      "category": "stock",
-      "price": 121.99,
-      "usdTrend": true,
-      "usdGapPct": 9.89,
-      "spyTrend": true,
-      "spyGapPct": 13.44
-    },
-    {
-      "symbol": "PPL",
-      "category": "stock",
-      "price": 35.81,
-      "usdTrend": true,
-      "usdGapPct": 4.37,
-      "spyTrend": true,
-      "spyGapPct": 7.77
-    },
-    {
-      "symbol": "PFG",
-      "category": "stock",
-      "price": 112.27,
-      "usdTrend": false,
-      "usdGapPct": -0.24,
+      "usdGapPct": -1.19,
       "spyTrend": true,
       "spyGapPct": 3.02
     },
     {
+      "symbol": "NTRS",
+      "category": "stock",
+      "price": 172.265,
+      "usdTrend": false,
+      "usdGapPct": -0.58,
+      "spyTrend": true,
+      "spyGapPct": 3.66
+    },
+    {
+      "symbol": "NOC",
+      "category": "stock",
+      "price": 553.255,
+      "usdTrend": true,
+      "usdGapPct": 6.14,
+      "spyTrend": true,
+      "spyGapPct": 10.64
+    },
+    {
+      "symbol": "NCLH",
+      "category": "stock",
+      "price": 17.62,
+      "usdTrend": true,
+      "usdGapPct": 11.75,
+      "spyTrend": true,
+      "spyGapPct": 16.44
+    },
+    {
+      "symbol": "NRG",
+      "category": "stock",
+      "price": 91.77,
+      "usdTrend": false,
+      "usdGapPct": -8.43,
+      "spyTrend": false,
+      "spyGapPct": -4.47
+    },
+    {
+      "symbol": "NUE",
+      "category": "stock",
+      "price": 252.1,
+      "usdTrend": false,
+      "usdGapPct": -1.15,
+      "spyTrend": true,
+      "spyGapPct": 3.07
+    },
+    {
+      "symbol": "NVDA",
+      "category": "stock",
+      "price": 155.49,
+      "usdTrend": false,
+      "usdGapPct": -27.06,
+      "spyTrend": false,
+      "spyGapPct": -23.87
+    },
+    {
+      "symbol": "NVR",
+      "category": "stock",
+      "price": 5640.095,
+      "usdTrend": false,
+      "usdGapPct": -6.97,
+      "spyTrend": false,
+      "spyGapPct": -3.01
+    },
+    {
+      "symbol": "NXPI",
+      "category": "stock",
+      "price": 252.86,
+      "usdTrend": true,
+      "usdGapPct": 5.11,
+      "spyTrend": true,
+      "spyGapPct": 9.57
+    },
+    {
+      "symbol": "ORLY",
+      "category": "stock",
+      "price": 92.68,
+      "usdTrend": true,
+      "usdGapPct": 5.68,
+      "spyTrend": true,
+      "spyGapPct": 10.17
+    },
+    {
+      "symbol": "OXY",
+      "category": "stock",
+      "price": 56.53,
+      "usdTrend": false,
+      "usdGapPct": -5.32,
+      "spyTrend": false,
+      "spyGapPct": -1.26
+    },
+    {
+      "symbol": "OKTA",
+      "category": "stock",
+      "price": 174.55,
+      "usdTrend": false,
+      "usdGapPct": -11.94,
+      "spyTrend": false,
+      "spyGapPct": -8.1
+    },
+    {
+      "symbol": "ODFL",
+      "category": "stock",
+      "price": 171.82,
+      "usdTrend": false,
+      "usdGapPct": -3.75,
+      "spyTrend": true,
+      "spyGapPct": 0.38
+    },
+    {
+      "symbol": "OMC",
+      "category": "stock",
+      "price": 87.59,
+      "usdTrend": true,
+      "usdGapPct": 9.55,
+      "spyTrend": true,
+      "spyGapPct": 14.17
+    },
+    {
+      "symbol": "ON",
+      "category": "stock",
+      "price": 67.94,
+      "usdTrend": false,
+      "usdGapPct": -8.1,
+      "spyTrend": false,
+      "spyGapPct": -4.11
+    },
+    {
+      "symbol": "OKE",
+      "category": "stock",
+      "price": 88.535,
+      "usdTrend": false,
+      "usdGapPct": -3.19,
+      "spyTrend": true,
+      "spyGapPct": 0.95
+    },
+    {
+      "symbol": "ORCL",
+      "category": "stock",
+      "price": 115.05,
+      "usdTrend": false,
+      "usdGapPct": -15.32,
+      "spyTrend": false,
+      "spyGapPct": -11.65
+    },
+    {
+      "symbol": "OTIS",
+      "category": "stock",
+      "price": 77.035,
+      "usdTrend": true,
+      "usdGapPct": 8.28,
+      "spyTrend": true,
+      "spyGapPct": 12.84
+    },
+    {
+      "symbol": "PCAR",
+      "category": "stock",
+      "price": 104.59,
+      "usdTrend": false,
+      "usdGapPct": -5.04,
+      "spyTrend": false,
+      "spyGapPct": -0.98
+    },
+    {
+      "symbol": "PKG",
+      "category": "stock",
+      "price": 244.25,
+      "usdTrend": true,
+      "usdGapPct": 1.7,
+      "spyTrend": true,
+      "spyGapPct": 6.01
+    },
+    {
+      "symbol": "PLTR",
+      "category": "stock",
+      "price": 156.59,
+      "usdTrend": false,
+      "usdGapPct": -15.13,
+      "spyTrend": false,
+      "spyGapPct": -11.44
+    },
+    {
+      "symbol": "PANW",
+      "category": "stock",
+      "price": 309.17,
+      "usdTrend": false,
+      "usdGapPct": -15.79,
+      "spyTrend": false,
+      "spyGapPct": -12.12
+    },
+    {
+      "symbol": "PH",
+      "category": "stock",
+      "price": 919.255,
+      "usdTrend": false,
+      "usdGapPct": -2.73,
+      "spyTrend": true,
+      "spyGapPct": 1.44
+    },
+    {
+      "symbol": "PAYX",
+      "category": "stock",
+      "price": 114.05,
+      "usdTrend": true,
+      "usdGapPct": 2.86,
+      "spyTrend": true,
+      "spyGapPct": 7.21
+    },
+    {
+      "symbol": "PYPL",
+      "category": "stock",
+      "price": 58.09,
+      "usdTrend": true,
+      "usdGapPct": 4.32,
+      "spyTrend": true,
+      "spyGapPct": 8.75
+    },
+    {
+      "symbol": "PNR",
+      "category": "stock",
+      "price": 66.88,
+      "usdTrend": true,
+      "usdGapPct": 14.39,
+      "spyTrend": true,
+      "spyGapPct": 19.15
+    },
+    {
+      "symbol": "PEP",
+      "category": "stock",
+      "price": 142.05,
+      "usdTrend": true,
+      "usdGapPct": 6.15,
+      "spyTrend": true,
+      "spyGapPct": 10.63
+    },
+    {
+      "symbol": "PFE",
+      "category": "stock",
+      "price": 28.46,
+      "usdTrend": false,
+      "usdGapPct": -1.22,
+      "spyTrend": true,
+      "spyGapPct": 2.99
+    },
+    {
+      "symbol": "PCG",
+      "category": "stock",
+      "price": 13.53,
+      "usdTrend": true,
+      "usdGapPct": 3.72,
+      "spyTrend": true,
+      "spyGapPct": 8.14
+    },
+    {
+      "symbol": "PM",
+      "category": "stock",
+      "price": 194.085,
+      "usdTrend": false,
+      "usdGapPct": -1.27,
+      "spyTrend": true,
+      "spyGapPct": 2.94
+    },
+    {
+      "symbol": "PSX",
+      "category": "stock",
+      "price": 256.955,
+      "usdTrend": false,
+      "usdGapPct": -4.48,
+      "spyTrend": false,
+      "spyGapPct": -0.36
+    },
+    {
+      "symbol": "PNW",
+      "category": "stock",
+      "price": 102.82,
+      "usdTrend": true,
+      "usdGapPct": 2.7,
+      "spyTrend": true,
+      "spyGapPct": 7.06
+    },
+    {
+      "symbol": "PNC",
+      "category": "stock",
+      "price": 224.295,
+      "usdTrend": false,
+      "usdGapPct": -1.33,
+      "spyTrend": true,
+      "spyGapPct": 2.87
+    },
+    {
+      "symbol": "PPG",
+      "category": "stock",
+      "price": 120.775,
+      "usdTrend": true,
+      "usdGapPct": 8.61,
+      "spyTrend": true,
+      "spyGapPct": 13.19
+    },
+    {
+      "symbol": "PPL",
+      "category": "stock",
+      "price": 35.2,
+      "usdTrend": true,
+      "usdGapPct": 2.55,
+      "spyTrend": true,
+      "spyGapPct": 6.9
+    },
+    {
+      "symbol": "PFG",
+      "category": "stock",
+      "price": 111.335,
+      "usdTrend": false,
+      "usdGapPct": -1,
+      "spyTrend": true,
+      "spyGapPct": 3.22
+    },
+    {
       "symbol": "PG",
       "category": "stock",
-      "price": 173.15,
+      "price": 171.78,
       "usdTrend": true,
-      "usdGapPct": 12.24,
+      "usdGapPct": 10.97,
       "spyTrend": true,
-      "spyGapPct": 15.88
+      "spyGapPct": 15.66
     },
     {
       "symbol": "PGR",
       "category": "stock",
-      "price": 237.275,
+      "price": 234.6,
       "usdTrend": true,
-      "usdGapPct": 7.86,
+      "usdGapPct": 6.47,
       "spyTrend": true,
-      "spyGapPct": 11.37
+      "spyGapPct": 10.98
     },
     {
       "symbol": "PLD",
       "category": "stock",
-      "price": 127.645,
+      "price": 125.535,
       "usdTrend": false,
-      "usdGapPct": -2.31,
+      "usdGapPct": -3.78,
       "spyTrend": true,
-      "spyGapPct": 0.9
+      "spyGapPct": 0.33
     },
     {
       "symbol": "PRU",
       "category": "stock",
-      "price": 122.92,
+      "price": 122.36,
       "usdTrend": true,
-      "usdGapPct": 4.77,
+      "usdGapPct": 4.28,
       "spyTrend": true,
-      "spyGapPct": 8.19
+      "spyGapPct": 8.71
     },
     {
       "symbol": "PTC",
       "category": "stock",
-      "price": 196.41,
+      "price": 195.645,
       "usdTrend": true,
-      "usdGapPct": 14.66,
+      "usdGapPct": 13.48,
       "spyTrend": true,
-      "spyGapPct": 18.42
+      "spyGapPct": 18.31
     },
     {
       "symbol": "PEG",
       "category": "stock",
-      "price": 76.06,
+      "price": 74.61,
       "usdTrend": true,
-      "usdGapPct": 6.6,
+      "usdGapPct": 4.49,
       "spyTrend": true,
-      "spyGapPct": 10.08
+      "spyGapPct": 8.94
     },
     {
       "symbol": "PSA",
       "category": "stock",
-      "price": 333.74,
+      "price": 330.26,
       "usdTrend": true,
-      "usdGapPct": 9.96,
+      "usdGapPct": 8.59,
       "spyTrend": true,
-      "spyGapPct": 13.51
+      "spyGapPct": 13.16
     },
     {
       "symbol": "PHM",
       "category": "stock",
-      "price": 126.99,
+      "price": 124.42,
       "usdTrend": true,
-      "usdGapPct": 5.77,
+      "usdGapPct": 3.59,
       "spyTrend": true,
-      "spyGapPct": 9.19
+      "spyGapPct": 7.96
     },
     {
       "symbol": "Q",
       "category": "stock",
-      "price": 114.86,
+      "price": 114.505,
       "usdTrend": false,
-      "usdGapPct": -5.48,
+      "usdGapPct": -5.69,
       "spyTrend": false,
-      "spyGapPct": -2.35
+      "spyGapPct": -1.62
     },
     {
       "symbol": "QCOM",
       "category": "stock",
-      "price": 168.59,
+      "price": 166.65,
       "usdTrend": false,
-      "usdGapPct": -5.69,
+      "usdGapPct": -6.77,
       "spyTrend": false,
-      "spyGapPct": -2.56
+      "spyGapPct": -2.75
     },
     {
       "symbol": "PWR",
       "category": "stock",
-      "price": 586.05,
+      "price": 598.455,
       "usdTrend": false,
-      "usdGapPct": -6.66,
+      "usdGapPct": -4.57,
       "spyTrend": false,
-      "spyGapPct": -3.54
+      "spyGapPct": -0.43
     },
     {
       "symbol": "DGX",
       "category": "stock",
-      "price": 262.11,
+      "price": 256.42,
       "usdTrend": true,
-      "usdGapPct": 8.63,
+      "usdGapPct": 6.05,
       "spyTrend": true,
-      "spyGapPct": 12.16
+      "spyGapPct": 10.54
     },
     {
       "symbol": "RL",
       "category": "stock",
-      "price": 389.635,
+      "price": 378.24,
       "usdTrend": true,
-      "usdGapPct": 5.6,
+      "usdGapPct": 2.3,
       "spyTrend": true,
-      "spyGapPct": 9.06
+      "spyGapPct": 6.66
     },
     {
       "symbol": "RJF",
       "category": "stock",
-      "price": 166.9,
+      "price": 163.93,
       "usdTrend": true,
-      "usdGapPct": 2.75,
+      "usdGapPct": 1.06,
       "spyTrend": true,
-      "spyGapPct": 6.11
+      "spyGapPct": 5.36
     },
     {
       "symbol": "RDDT",
       "category": "stock",
-      "price": 92.91,
+      "price": 94.475,
       "usdTrend": false,
-      "usdGapPct": -33.28,
+      "usdGapPct": -31.55,
       "spyTrend": false,
-      "spyGapPct": -30.99
+      "spyGapPct": -28.5
     },
     {
       "symbol": "O",
       "category": "stock",
-      "price": 58.565,
+      "price": 58.035,
       "usdTrend": true,
-      "usdGapPct": 2.96,
+      "usdGapPct": 2.12,
       "spyTrend": true,
-      "spyGapPct": 6.31
+      "spyGapPct": 6.45
     },
     {
       "symbol": "REG",
       "category": "stock",
-      "price": 76.55,
+      "price": 75.44,
       "usdTrend": true,
-      "usdGapPct": 3.84,
+      "usdGapPct": 2.3,
       "spyTrend": true,
-      "spyGapPct": 7.23
+      "spyGapPct": 6.65
     },
     {
       "symbol": "REGN",
       "category": "stock",
-      "price": 952.665,
+      "price": 957.745,
       "usdTrend": true,
-      "usdGapPct": 16.72,
+      "usdGapPct": 16.99,
       "spyTrend": true,
-      "spyGapPct": 20.47
+      "spyGapPct": 21.88
     },
     {
       "symbol": "RF",
       "category": "stock",
-      "price": 28.63,
-      "usdTrend": true,
-      "usdGapPct": 1.49,
+      "price": 28.16,
+      "usdTrend": false,
+      "usdGapPct": -0.05,
       "spyTrend": true,
-      "spyGapPct": 4.8
+      "spyGapPct": 4.2
     },
     {
       "symbol": "RSG",
       "category": "stock",
-      "price": 255.66,
+      "price": 252.9,
       "usdTrend": true,
-      "usdGapPct": 12.3,
+      "usdGapPct": 10.77,
       "spyTrend": true,
-      "spyGapPct": 15.93
+      "spyGapPct": 15.44
     },
     {
       "symbol": "RMD",
       "category": "stock",
-      "price": 238.175,
+      "price": 237.94,
       "usdTrend": true,
-      "usdGapPct": 2.58,
+      "usdGapPct": 2.39,
       "spyTrend": true,
-      "spyGapPct": 5.94
+      "spyGapPct": 6.76
     },
     {
       "symbol": "RVTY",
       "category": "stock",
-      "price": 148.84,
+      "price": 147.78,
       "usdTrend": false,
-      "usdGapPct": -1.05,
+      "usdGapPct": -1.99,
       "spyTrend": true,
       "spyGapPct": 2.2
     },
     {
       "symbol": "HOOD",
       "category": "stock",
-      "price": 72.075,
+      "price": 69.18,
       "usdTrend": false,
-      "usdGapPct": -30.2,
+      "usdGapPct": -32.35,
       "spyTrend": false,
-      "spyGapPct": -27.84
+      "spyGapPct": -29.37
     },
     {
       "symbol": "ROK",
       "category": "stock",
-      "price": 384.65,
+      "price": 391.885,
       "usdTrend": false,
-      "usdGapPct": -9.89,
+      "usdGapPct": -7.98,
       "spyTrend": false,
-      "spyGapPct": -6.9
+      "spyGapPct": -4.01
     },
     {
       "symbol": "ROL",
       "category": "stock",
-      "price": 39.105,
+      "price": 38.105,
       "usdTrend": true,
-      "usdGapPct": 15.4,
+      "usdGapPct": 12.24,
       "spyTrend": true,
-      "spyGapPct": 19.11
+      "spyGapPct": 16.94
     },
     {
       "symbol": "ROP",
       "category": "stock",
-      "price": 483.86,
+      "price": 471.93,
       "usdTrend": true,
-      "usdGapPct": 19.6,
+      "usdGapPct": 16.21,
       "spyTrend": true,
-      "spyGapPct": 23.41
+      "spyGapPct": 21.05
     },
     {
       "symbol": "ROST",
       "category": "stock",
-      "price": 223.06,
+      "price": 220.41,
       "usdTrend": false,
-      "usdGapPct": -3.71,
+      "usdGapPct": -4.79,
       "spyTrend": false,
-      "spyGapPct": -0.56
+      "spyGapPct": -0.73
     },
     {
       "symbol": "RCL",
       "category": "stock",
-      "price": 317.88,
+      "price": 307.405,
       "usdTrend": true,
-      "usdGapPct": 12.97,
-      "spyTrend": true,
-      "spyGapPct": 16.61
-    },
-    {
-      "symbol": "RTX",
-      "category": "stock",
-      "price": 194.87,
-      "usdTrend": true,
-      "usdGapPct": 1.07,
-      "spyTrend": true,
-      "spyGapPct": 4.37
-    },
-    {
-      "symbol": "SPGI",
-      "category": "stock",
-      "price": 471.565,
-      "usdTrend": true,
-      "usdGapPct": 10.03,
-      "spyTrend": true,
-      "spyGapPct": 13.58
-    },
-    {
-      "symbol": "CRM",
-      "category": "stock",
-      "price": 214.87,
-      "usdTrend": false,
-      "usdGapPct": -8.67,
-      "spyTrend": false,
-      "spyGapPct": -5.66
-    },
-    {
-      "symbol": "SNDK",
-      "category": "stock",
-      "price": 101.12,
-      "usdTrend": false,
-      "usdGapPct": -43.87,
-      "spyTrend": false,
-      "spyGapPct": -41.93
-    },
-    {
-      "symbol": "SBAC",
-      "category": "stock",
-      "price": 186.69,
-      "usdTrend": true,
-      "usdGapPct": 3.85,
-      "spyTrend": true,
-      "spyGapPct": 7.22
-    },
-    {
-      "symbol": "SLB",
-      "category": "stock",
-      "price": 50.1,
-      "usdTrend": false,
-      "usdGapPct": -2.68,
-      "spyTrend": true,
-      "spyGapPct": 0.51
-    },
-    {
-      "symbol": "STX",
-      "category": "stock",
-      "price": 499.07,
-      "usdTrend": false,
-      "usdGapPct": -32.61,
-      "spyTrend": false,
-      "spyGapPct": -30.3
-    },
-    {
-      "symbol": "SRE",
-      "category": "stock",
-      "price": 78.515,
-      "usdTrend": false,
-      "usdGapPct": -3.73,
-      "spyTrend": false,
-      "spyGapPct": -0.57
-    },
-    {
-      "symbol": "NOW",
-      "category": "stock",
-      "price": 99.37,
-      "usdTrend": false,
-      "usdGapPct": -24.77,
-      "spyTrend": false,
-      "spyGapPct": -22.22
-    },
-    {
-      "symbol": "SHW",
-      "category": "stock",
-      "price": 350.655,
-      "usdTrend": true,
-      "usdGapPct": 5.79,
-      "spyTrend": true,
-      "spyGapPct": 9.23
-    },
-    {
-      "symbol": "SPG",
-      "category": "stock",
-      "price": 232.66,
-      "usdTrend": true,
-      "usdGapPct": 10.71,
-      "spyTrend": true,
-      "spyGapPct": 14.3
-    },
-    {
-      "symbol": "SKYD",
-      "category": "stock",
-      "price": 7.05,
-      "usdTrend": false,
-      "usdGapPct": -21.5,
-      "spyTrend": false,
-      "spyGapPct": -18.91
-    },
-    {
-      "symbol": "SWKS",
-      "category": "stock",
-      "price": 86.49,
-      "usdTrend": true,
-      "usdGapPct": 3.04,
-      "spyTrend": true,
-      "spyGapPct": 6.41
-    },
-    {
-      "symbol": "SJM",
-      "category": "stock",
-      "price": 135.65,
-      "usdTrend": true,
-      "usdGapPct": 8.7,
-      "spyTrend": true,
-      "spyGapPct": 12.23
-    },
-    {
-      "symbol": "SW",
-      "category": "stock",
-      "price": 41.92,
-      "usdTrend": false,
-      "usdGapPct": -3.02,
-      "spyTrend": true,
-      "spyGapPct": 0.14
-    },
-    {
-      "symbol": "SNA",
-      "category": "stock",
-      "price": 365.17,
-      "usdTrend": false,
-      "usdGapPct": -0.6,
-      "spyTrend": true,
-      "spyGapPct": 2.65
-    },
-    {
-      "symbol": "SOLV",
-      "category": "stock",
-      "price": 88.6,
-      "usdTrend": true,
-      "usdGapPct": 1.23,
-      "spyTrend": true,
-      "spyGapPct": 4.55
-    },
-    {
-      "symbol": "SO",
-      "category": "stock",
-      "price": 94.7,
-      "usdTrend": true,
-      "usdGapPct": 6.78,
-      "spyTrend": true,
-      "spyGapPct": 10.25
-    },
-    {
-      "symbol": "LUV",
-      "category": "stock",
-      "price": 46.445,
-      "usdTrend": true,
-      "usdGapPct": 10.91,
-      "spyTrend": true,
-      "spyGapPct": 14.52
-    },
-    {
-      "symbol": "SWK",
-      "category": "stock",
-      "price": 112.91,
-      "usdTrend": true,
-      "usdGapPct": 16.89,
-      "spyTrend": true,
-      "spyGapPct": 20.63
-    },
-    {
-      "symbol": "SBUX",
-      "category": "stock",
-      "price": 108.72,
-      "usdTrend": true,
-      "usdGapPct": 9.43,
-      "spyTrend": true,
-      "spyGapPct": 12.97
-    },
-    {
-      "symbol": "STT",
-      "category": "stock",
-      "price": 170.05,
-      "usdTrend": false,
-      "usdGapPct": -3.4,
-      "spyTrend": false,
-      "spyGapPct": -0.22
-    },
-    {
-      "symbol": "STLD",
-      "category": "stock",
-      "price": 225.47,
-      "usdTrend": false,
-      "usdGapPct": -5.21,
-      "spyTrend": false,
-      "spyGapPct": -2.08
-    },
-    {
-      "symbol": "STE",
-      "category": "stock",
-      "price": 261.81,
-      "usdTrend": true,
-      "usdGapPct": 17.26,
-      "spyTrend": true,
-      "spyGapPct": 21.04
-    },
-    {
-      "symbol": "SYK",
-      "category": "stock",
-      "price": 310.67,
-      "usdTrend": true,
-      "usdGapPct": 6.3,
-      "spyTrend": true,
-      "spyGapPct": 9.74
-    },
-    {
-      "symbol": "SMCI",
-      "category": "stock",
-      "price": 25.03,
-      "usdTrend": false,
-      "usdGapPct": -31.5,
-      "spyTrend": false,
-      "spyGapPct": -29.16
-    },
-    {
-      "symbol": "SYF",
-      "category": "stock",
-      "price": 71.8,
-      "usdTrend": false,
-      "usdGapPct": -2.89,
-      "spyTrend": true,
-      "spyGapPct": 0.3
-    },
-    {
-      "symbol": "SNPS",
-      "category": "stock",
-      "price": 441.4,
-      "usdTrend": false,
-      "usdGapPct": -0.84,
-      "spyTrend": true,
-      "spyGapPct": 2.44
-    },
-    {
-      "symbol": "SYY",
-      "category": "stock",
-      "price": 78.24,
-      "usdTrend": false,
-      "usdGapPct": -1.54,
-      "spyTrend": true,
-      "spyGapPct": 1.69
-    },
-    {
-      "symbol": "TMUS",
-      "category": "stock",
-      "price": 170.11,
-      "usdTrend": true,
-      "usdGapPct": 3.99,
-      "spyTrend": true,
-      "spyGapPct": 7.38
-    },
-    {
-      "symbol": "TROW",
-      "category": "stock",
-      "price": 107.98,
-      "usdTrend": true,
-      "usdGapPct": 2.63,
-      "spyTrend": true,
-      "spyGapPct": 5.98
-    },
-    {
-      "symbol": "TTWO",
-      "category": "stock",
-      "price": 213.415,
-      "usdTrend": true,
-      "usdGapPct": 2.68,
-      "spyTrend": true,
-      "spyGapPct": 6.03
-    },
-    {
-      "symbol": "TPR",
-      "category": "stock",
-      "price": 132.975,
-      "usdTrend": true,
-      "usdGapPct": 12.2,
-      "spyTrend": true,
-      "spyGapPct": 15.82
-    },
-    {
-      "symbol": "TRGP",
-      "category": "stock",
-      "price": 292.12,
-      "usdTrend": true,
-      "usdGapPct": 1.13,
-      "spyTrend": true,
-      "spyGapPct": 4.45
-    },
-    {
-      "symbol": "TGT",
-      "category": "stock",
-      "price": 160.245,
-      "usdTrend": true,
-      "usdGapPct": 2.48,
-      "spyTrend": true,
-      "spyGapPct": 5.83
-    },
-    {
-      "symbol": "TEL",
-      "category": "stock",
-      "price": 213.34,
-      "usdTrend": false,
-      "usdGapPct": -0.03,
-      "spyTrend": true,
-      "spyGapPct": 3.26
-    },
-    {
-      "symbol": "TDY",
-      "category": "stock",
-      "price": 627.46,
-      "usdTrend": true,
-      "usdGapPct": 0.87,
-      "spyTrend": true,
-      "spyGapPct": 4.18
-    },
-    {
-      "symbol": "TER",
-      "category": "stock",
-      "price": 231.88,
-      "usdTrend": false,
-      "usdGapPct": -32.32,
-      "spyTrend": false,
-      "spyGapPct": -29.98
-    },
-    {
-      "symbol": "TSLA",
-      "category": "stock",
-      "price": 379.9,
-      "usdTrend": true,
-      "usdGapPct": 1.38,
-      "spyTrend": true,
-      "spyGapPct": 4.71
-    },
-    {
-      "symbol": "TXN",
-      "category": "stock",
-      "price": 294.18,
-      "usdTrend": true,
-      "usdGapPct": 3.64,
-      "spyTrend": true,
-      "spyGapPct": 7.04
-    },
-    {
-      "symbol": "TPL",
-      "category": "stock",
-      "price": 292.36,
-      "usdTrend": false,
-      "usdGapPct": -13.28,
-      "spyTrend": false,
-      "spyGapPct": -10.38
-    },
-    {
-      "symbol": "TXT",
-      "category": "stock",
-      "price": 82.73,
-      "usdTrend": true,
-      "usdGapPct": 4.15,
-      "spyTrend": true,
-      "spyGapPct": 7.52
-    },
-    {
-      "symbol": "TMO",
-      "category": "stock",
-      "price": 691.33,
-      "usdTrend": true,
-      "usdGapPct": 3.07,
-      "spyTrend": true,
-      "spyGapPct": 6.44
-    },
-    {
-      "symbol": "TJX",
-      "category": "stock",
-      "price": 131.08,
-      "usdTrend": false,
-      "usdGapPct": -3.7,
-      "spyTrend": false,
-      "spyGapPct": -0.53
-    },
-    {
-      "symbol": "TKO",
-      "category": "stock",
-      "price": 190.3,
-      "usdTrend": true,
-      "usdGapPct": 3.53,
-      "spyTrend": true,
-      "spyGapPct": 6.89
-    },
-    {
-      "symbol": "TSCO",
-      "category": "stock",
-      "price": 37.95,
-      "usdTrend": true,
-      "usdGapPct": 12.99,
-      "spyTrend": true,
-      "spyGapPct": 16.65
-    },
-    {
-      "symbol": "TT",
-      "category": "stock",
-      "price": 407.98,
-      "usdTrend": false,
-      "usdGapPct": -8,
-      "spyTrend": false,
-      "spyGapPct": -4.94
-    },
-    {
-      "symbol": "TDG",
-      "category": "stock",
-      "price": 1203.835,
-      "usdTrend": true,
-      "usdGapPct": 5.98,
-      "spyTrend": true,
-      "spyGapPct": 9.43
-    },
-    {
-      "symbol": "TRV",
-      "category": "stock",
-      "price": 402.84,
-      "usdTrend": true,
-      "usdGapPct": 5.75,
-      "spyTrend": true,
-      "spyGapPct": 9.19
-    },
-    {
-      "symbol": "TRMB",
-      "category": "stock",
-      "price": 54.695,
-      "usdTrend": false,
-      "usdGapPct": -7.66,
-      "spyTrend": false,
-      "spyGapPct": -4.61
-    },
-    {
-      "symbol": "TFC",
-      "category": "stock",
-      "price": 49.59,
-      "usdTrend": true,
-      "usdGapPct": 2.65,
-      "spyTrend": true,
-      "spyGapPct": 5.99
-    },
-    {
-      "symbol": "TWLO",
-      "category": "stock",
-      "price": 199.39,
-      "usdTrend": false,
-      "usdGapPct": -21.02,
-      "spyTrend": false,
-      "spyGapPct": -18.34
-    },
-    {
-      "symbol": "TYL",
-      "category": "stock",
-      "price": 425.925,
-      "usdTrend": true,
-      "usdGapPct": 17.48,
-      "spyTrend": true,
-      "spyGapPct": 21.24
-    },
-    {
-      "symbol": "TSN",
-      "category": "stock",
-      "price": 63.93,
-      "usdTrend": true,
-      "usdGapPct": 17.55,
-      "spyTrend": true,
-      "spyGapPct": 21.36
-    },
-    {
-      "symbol": "USB",
-      "category": "stock",
-      "price": 60.45,
-      "usdTrend": true,
-      "usdGapPct": 1.61,
-      "spyTrend": true,
-      "spyGapPct": 4.92
-    },
-    {
-      "symbol": "UBER",
-      "category": "stock",
-      "price": 69.995,
-      "usdTrend": true,
-      "usdGapPct": 0.69,
-      "spyTrend": true,
-      "spyGapPct": 3.99
-    },
-    {
-      "symbol": "UDR",
-      "category": "stock",
-      "price": 36.38,
-      "usdTrend": true,
-      "usdGapPct": 4.24,
-      "spyTrend": true,
-      "spyGapPct": 7.63
-    },
-    {
-      "symbol": "ULTA",
-      "category": "stock",
-      "price": 652.13,
-      "usdTrend": true,
-      "usdGapPct": 10.98,
-      "spyTrend": true,
-      "spyGapPct": 14.57
-    },
-    {
-      "symbol": "UNP",
-      "category": "stock",
-      "price": 303.74,
-      "usdTrend": true,
-      "usdGapPct": 5.74,
-      "spyTrend": true,
-      "spyGapPct": 9.18
-    },
-    {
-      "symbol": "UAL",
-      "category": "stock",
-      "price": 110.77,
-      "usdTrend": true,
-      "usdGapPct": 2.45,
-      "spyTrend": true,
-      "spyGapPct": 5.8
-    },
-    {
-      "symbol": "UPS",
-      "category": "stock",
-      "price": 111.85,
-      "usdTrend": true,
-      "usdGapPct": 11.18,
-      "spyTrend": true,
-      "spyGapPct": 14.77
-    },
-    {
-      "symbol": "URI",
-      "category": "stock",
-      "price": 1094.43,
-      "usdTrend": true,
-      "usdGapPct": 2.63,
-      "spyTrend": true,
-      "spyGapPct": 5.99
-    },
-    {
-      "symbol": "UNH",
-      "category": "stock",
-      "price": 412.07,
-      "usdTrend": true,
-      "usdGapPct": 5.28,
-      "spyTrend": true,
-      "spyGapPct": 8.72
-    },
-    {
-      "symbol": "UHS",
-      "category": "stock",
-      "price": 197.49,
-      "usdTrend": true,
-      "usdGapPct": 8.96,
-      "spyTrend": true,
-      "spyGapPct": 12.5
-    },
-    {
-      "symbol": "VLO",
-      "category": "stock",
-      "price": 369.815,
-      "usdTrend": false,
-      "usdGapPct": -7.54,
-      "spyTrend": false,
-      "spyGapPct": -4.46
-    },
-    {
-      "symbol": "VEEV",
-      "category": "stock",
-      "price": 299.39,
-      "usdTrend": true,
-      "usdGapPct": 2.73,
-      "spyTrend": true,
-      "spyGapPct": 6.08
-    },
-    {
-      "symbol": "VTR",
-      "category": "stock",
-      "price": 88.89,
-      "usdTrend": true,
-      "usdGapPct": 2.86,
-      "spyTrend": true,
-      "spyGapPct": 6.21
-    },
-    {
-      "symbol": "VLTO",
-      "category": "stock",
-      "price": 120.28,
-      "usdTrend": true,
-      "usdGapPct": 17.91,
-      "spyTrend": true,
-      "spyGapPct": 21.7
-    },
-    {
-      "symbol": "VRSN",
-      "category": "stock",
-      "price": 308.43,
-      "usdTrend": true,
-      "usdGapPct": 2.75,
-      "spyTrend": true,
-      "spyGapPct": 6.1
-    },
-    {
-      "symbol": "VRSK",
-      "category": "stock",
-      "price": 212.77,
-      "usdTrend": true,
-      "usdGapPct": 15.48,
-      "spyTrend": true,
-      "spyGapPct": 19.19
-    },
-    {
-      "symbol": "VZ",
-      "category": "stock",
-      "price": 46.36,
-      "usdTrend": true,
-      "usdGapPct": 0.27,
-      "spyTrend": true,
-      "spyGapPct": 3.54
-    },
-    {
-      "symbol": "VRTX",
-      "category": "stock",
-      "price": 537.745,
-      "usdTrend": true,
-      "usdGapPct": 2.93,
-      "spyTrend": true,
-      "spyGapPct": 6.28
-    },
-    {
-      "symbol": "VRT",
-      "category": "stock",
-      "price": 188.71,
-      "usdTrend": false,
-      "usdGapPct": -18.41,
-      "spyTrend": false,
-      "spyGapPct": -15.68
-    },
-    {
-      "symbol": "VTRS",
-      "category": "stock",
-      "price": 20.735,
-      "usdTrend": true,
-      "usdGapPct": 14.48,
-      "spyTrend": true,
-      "spyGapPct": 18.19
-    },
-    {
-      "symbol": "VICI",
-      "category": "stock",
-      "price": 24.87,
-      "usdTrend": true,
-      "usdGapPct": 3.83,
-      "spyTrend": true,
-      "spyGapPct": 7.2
-    },
-    {
-      "symbol": "V",
-      "category": "stock",
-      "price": 426.535,
-      "usdTrend": true,
-      "usdGapPct": 9.26,
-      "spyTrend": true,
-      "spyGapPct": 12.8
-    },
-    {
-      "symbol": "VST",
-      "category": "stock",
-      "price": 130.165,
-      "usdTrend": false,
-      "usdGapPct": -9.11,
-      "spyTrend": false,
-      "spyGapPct": -6.07
-    },
-    {
-      "symbol": "VMRK",
-      "category": "stock",
-      "price": 64.77,
-      "usdTrend": true,
-      "usdGapPct": 3.52,
-      "spyTrend": true,
-      "spyGapPct": 6.89
-    },
-    {
-      "symbol": "VMC",
-      "category": "stock",
-      "price": 277.18,
-      "usdTrend": true,
-      "usdGapPct": 7.07,
-      "spyTrend": true,
-      "spyGapPct": 10.53
-    },
-    {
-      "symbol": "VYLR",
-      "category": "stock",
-      "price": 69.855,
-      "usdTrend": false,
-      "usdGapPct": -2.96,
-      "spyTrend": true,
-      "spyGapPct": 0.27
-    },
-    {
-      "symbol": "WRB",
-      "category": "stock",
-      "price": 78.54,
-      "usdTrend": true,
-      "usdGapPct": 9.02,
-      "spyTrend": true,
-      "spyGapPct": 12.57
-    },
-    {
-      "symbol": "GWW",
-      "category": "stock",
-      "price": 1496.9,
-      "usdTrend": true,
-      "usdGapPct": 12.58,
-      "spyTrend": true,
-      "spyGapPct": 16.23
-    },
-    {
-      "symbol": "WAB",
-      "category": "stock",
-      "price": 291.79,
-      "usdTrend": true,
-      "usdGapPct": 1.95,
-      "spyTrend": true,
-      "spyGapPct": 5.29
-    },
-    {
-      "symbol": "WMT",
-      "category": "stock",
-      "price": 128.44,
-      "usdTrend": true,
-      "usdGapPct": 12.14,
-      "spyTrend": true,
-      "spyGapPct": 15.76
-    },
-    {
-      "symbol": "DIS",
-      "category": "stock",
-      "price": 118.72,
-      "usdTrend": true,
-      "usdGapPct": 8.71,
-      "spyTrend": true,
-      "spyGapPct": 12.24
-    },
-    {
-      "symbol": "WM",
-      "category": "stock",
-      "price": 244.35,
-      "usdTrend": true,
-      "usdGapPct": 10.34,
-      "spyTrend": true,
-      "spyGapPct": 13.91
-    },
-    {
-      "symbol": "WAT",
-      "category": "stock",
-      "price": 453.515,
-      "usdTrend": true,
-      "usdGapPct": 3.01,
-      "spyTrend": true,
-      "spyGapPct": 6.37
-    },
-    {
-      "symbol": "WEC",
-      "category": "stock",
-      "price": 117.55,
-      "usdTrend": true,
-      "usdGapPct": 8.89,
-      "spyTrend": true,
-      "spyGapPct": 12.41
-    },
-    {
-      "symbol": "WFC",
-      "category": "stock",
-      "price": 84.86,
-      "usdTrend": true,
-      "usdGapPct": 0.76,
-      "spyTrend": true,
-      "spyGapPct": 4.05
-    },
-    {
-      "symbol": "WELL",
-      "category": "stock",
-      "price": 244.725,
-      "usdTrend": true,
-      "usdGapPct": 4.33,
-      "spyTrend": true,
-      "spyGapPct": 7.72
-    },
-    {
-      "symbol": "WST",
-      "category": "stock",
-      "price": 417.57,
-      "usdTrend": true,
-      "usdGapPct": 9.84,
+      "usdGapPct": 8.84,
       "spyTrend": true,
       "spyGapPct": 13.42
     },
     {
-      "symbol": "WDC",
+      "symbol": "RTX",
       "category": "stock",
-      "price": 281.13,
-      "usdTrend": false,
-      "usdGapPct": -28.22,
-      "spyTrend": false,
-      "spyGapPct": -25.79
-    },
-    {
-      "symbol": "WY",
-      "category": "stock",
-      "price": 20.71,
+      "price": 197.94,
       "usdTrend": true,
-      "usdGapPct": 1.93,
+      "usdGapPct": 2.73,
       "spyTrend": true,
-      "spyGapPct": 5.24
+      "spyGapPct": 7.09
     },
     {
-      "symbol": "WSM",
+      "symbol": "SPGI",
       "category": "stock",
-      "price": 252.29,
+      "price": 452.395,
       "usdTrend": true,
-      "usdGapPct": 4.33,
+      "usdGapPct": 5.42,
+      "spyTrend": true,
+      "spyGapPct": 9.86
+    },
+    {
+      "symbol": "CRM",
+      "category": "stock",
+      "price": 194.6,
+      "usdTrend": false,
+      "usdGapPct": -16.98,
+      "spyTrend": false,
+      "spyGapPct": -13.41
+    },
+    {
+      "symbol": "SNDK",
+      "category": "stock",
+      "price": 99.7,
+      "usdTrend": false,
+      "usdGapPct": -43.94,
+      "spyTrend": false,
+      "spyGapPct": -41.42
+    },
+    {
+      "symbol": "SBAC",
+      "category": "stock",
+      "price": 174.37,
+      "usdTrend": false,
+      "usdGapPct": -2.98,
+      "spyTrend": true,
+      "spyGapPct": 1.13
+    },
+    {
+      "symbol": "SLB",
+      "category": "stock",
+      "price": 48.97,
+      "usdTrend": false,
+      "usdGapPct": -4.6,
+      "spyTrend": false,
+      "spyGapPct": -0.53
+    },
+    {
+      "symbol": "STX",
+      "category": "stock",
+      "price": 504.33,
+      "usdTrend": false,
+      "usdGapPct": -31.25,
+      "spyTrend": false,
+      "spyGapPct": -28.2
+    },
+    {
+      "symbol": "SRE",
+      "category": "stock",
+      "price": 77.5,
+      "usdTrend": false,
+      "usdGapPct": -4.84,
+      "spyTrend": false,
+      "spyGapPct": -0.77
+    },
+    {
+      "symbol": "NOW",
+      "category": "stock",
+      "price": 92.87,
+      "usdTrend": false,
+      "usdGapPct": -29.24,
+      "spyTrend": false,
+      "spyGapPct": -26.13
+    },
+    {
+      "symbol": "SHW",
+      "category": "stock",
+      "price": 343.61,
+      "usdTrend": true,
+      "usdGapPct": 3.55,
+      "spyTrend": true,
+      "spyGapPct": 7.95
+    },
+    {
+      "symbol": "SPG",
+      "category": "stock",
+      "price": 230.17,
+      "usdTrend": true,
+      "usdGapPct": 9.29,
+      "spyTrend": true,
+      "spyGapPct": 13.9
+    },
+    {
+      "symbol": "SKYD",
+      "category": "stock",
+      "price": 6.93,
+      "usdTrend": false,
+      "usdGapPct": -22.17,
+      "spyTrend": false,
+      "spyGapPct": -18.82
+    },
+    {
+      "symbol": "SWKS",
+      "category": "stock",
+      "price": 85.98,
+      "usdTrend": true,
+      "usdGapPct": 2.13,
+      "spyTrend": true,
+      "spyGapPct": 6.48
+    },
+    {
+      "symbol": "SJM",
+      "category": "stock",
+      "price": 133.585,
+      "usdTrend": true,
+      "usdGapPct": 6.89,
+      "spyTrend": true,
+      "spyGapPct": 11.41
+    },
+    {
+      "symbol": "SW",
+      "category": "stock",
+      "price": 40.135,
+      "usdTrend": false,
+      "usdGapPct": -6.99,
+      "spyTrend": false,
+      "spyGapPct": -3.02
+    },
+    {
+      "symbol": "SNA",
+      "category": "stock",
+      "price": 360.78,
+      "usdTrend": false,
+      "usdGapPct": -1.71,
+      "spyTrend": true,
+      "spyGapPct": 2.49
+    },
+    {
+      "symbol": "SOLV",
+      "category": "stock",
+      "price": 86.15,
+      "usdTrend": false,
+      "usdGapPct": -1.5,
+      "spyTrend": true,
+      "spyGapPct": 2.7
+    },
+    {
+      "symbol": "SO",
+      "category": "stock",
+      "price": 93.61,
+      "usdTrend": true,
+      "usdGapPct": 5.39,
+      "spyTrend": true,
+      "spyGapPct": 9.86
+    },
+    {
+      "symbol": "LUV",
+      "category": "stock",
+      "price": 45.59,
+      "usdTrend": true,
+      "usdGapPct": 8.52,
+      "spyTrend": true,
+      "spyGapPct": 13.12
+    },
+    {
+      "symbol": "SWK",
+      "category": "stock",
+      "price": 108.78,
+      "usdTrend": true,
+      "usdGapPct": 12.25,
+      "spyTrend": true,
+      "spyGapPct": 16.94
+    },
+    {
+      "symbol": "SBUX",
+      "category": "stock",
+      "price": 107.49,
+      "usdTrend": true,
+      "usdGapPct": 8.1,
+      "spyTrend": true,
+      "spyGapPct": 12.66
+    },
+    {
+      "symbol": "STT",
+      "category": "stock",
+      "price": 167.275,
+      "usdTrend": false,
+      "usdGapPct": -4.71,
+      "spyTrend": false,
+      "spyGapPct": -0.63
+    },
+    {
+      "symbol": "STLD",
+      "category": "stock",
+      "price": 224.32,
+      "usdTrend": false,
+      "usdGapPct": -5.56,
+      "spyTrend": false,
+      "spyGapPct": -1.51
+    },
+    {
+      "symbol": "STE",
+      "category": "stock",
+      "price": 257.49,
+      "usdTrend": true,
+      "usdGapPct": 14.94,
+      "spyTrend": true,
+      "spyGapPct": 19.77
+    },
+    {
+      "symbol": "SYK",
+      "category": "stock",
+      "price": 317.55,
+      "usdTrend": true,
+      "usdGapPct": 8.6,
+      "spyTrend": true,
+      "spyGapPct": 13.18
+    },
+    {
+      "symbol": "SMCI",
+      "category": "stock",
+      "price": 24.15,
+      "usdTrend": false,
+      "usdGapPct": -33.38,
+      "spyTrend": false,
+      "spyGapPct": -30.43
+    },
+    {
+      "symbol": "SYF",
+      "category": "stock",
+      "price": 70.52,
+      "usdTrend": false,
+      "usdGapPct": -4.41,
+      "spyTrend": false,
+      "spyGapPct": -0.33
+    },
+    {
+      "symbol": "SNPS",
+      "category": "stock",
+      "price": 435.64,
+      "usdTrend": false,
+      "usdGapPct": -2.35,
+      "spyTrend": true,
+      "spyGapPct": 1.86
+    },
+    {
+      "symbol": "SYY",
+      "category": "stock",
+      "price": 77.98,
+      "usdTrend": false,
+      "usdGapPct": -1.82,
+      "spyTrend": true,
+      "spyGapPct": 2.38
+    },
+    {
+      "symbol": "TMUS",
+      "category": "stock",
+      "price": 167.91,
+      "usdTrend": true,
+      "usdGapPct": 2.79,
+      "spyTrend": true,
+      "spyGapPct": 7.16
+    },
+    {
+      "symbol": "TROW",
+      "category": "stock",
+      "price": 107.35,
+      "usdTrend": true,
+      "usdGapPct": 2.06,
+      "spyTrend": true,
+      "spyGapPct": 6.4
+    },
+    {
+      "symbol": "TTWO",
+      "category": "stock",
+      "price": 203.91,
+      "usdTrend": false,
+      "usdGapPct": -1.89,
+      "spyTrend": true,
+      "spyGapPct": 2.29
+    },
+    {
+      "symbol": "TPR",
+      "category": "stock",
+      "price": 127.06,
+      "usdTrend": true,
+      "usdGapPct": 7.01,
+      "spyTrend": true,
+      "spyGapPct": 11.52
+    },
+    {
+      "symbol": "TRGP",
+      "category": "stock",
+      "price": 291.19,
+      "usdTrend": true,
+      "usdGapPct": 0.79,
+      "spyTrend": true,
+      "spyGapPct": 5.11
+    },
+    {
+      "symbol": "TGT",
+      "category": "stock",
+      "price": 159.45,
+      "usdTrend": true,
+      "usdGapPct": 2.02,
+      "spyTrend": true,
+      "spyGapPct": 6.37
+    },
+    {
+      "symbol": "TEL",
+      "category": "stock",
+      "price": 211.34,
+      "usdTrend": false,
+      "usdGapPct": -1.01,
+      "spyTrend": true,
+      "spyGapPct": 3.23
+    },
+    {
+      "symbol": "TDY",
+      "category": "stock",
+      "price": 619.37,
+      "usdTrend": false,
+      "usdGapPct": -0.48,
+      "spyTrend": true,
+      "spyGapPct": 3.76
+    },
+    {
+      "symbol": "TER",
+      "category": "stock",
+      "price": 234.3,
+      "usdTrend": false,
+      "usdGapPct": -31.11,
+      "spyTrend": false,
+      "spyGapPct": -28.03
+    },
+    {
+      "symbol": "TSLA",
+      "category": "stock",
+      "price": 380.145,
+      "usdTrend": true,
+      "usdGapPct": 1.3,
+      "spyTrend": true,
+      "spyGapPct": 5.64
+    },
+    {
+      "symbol": "TXN",
+      "category": "stock",
+      "price": 295.84,
+      "usdTrend": true,
+      "usdGapPct": 3.96,
+      "spyTrend": true,
+      "spyGapPct": 8.4
+    },
+    {
+      "symbol": "TPL",
+      "category": "stock",
+      "price": 288.12,
+      "usdTrend": false,
+      "usdGapPct": -14.18,
+      "spyTrend": false,
+      "spyGapPct": -10.45
+    },
+    {
+      "symbol": "TXT",
+      "category": "stock",
+      "price": 81.74,
+      "usdTrend": true,
+      "usdGapPct": 2.81,
+      "spyTrend": true,
+      "spyGapPct": 7.15
+    },
+    {
+      "symbol": "TMO",
+      "category": "stock",
+      "price": 686.96,
+      "usdTrend": true,
+      "usdGapPct": 2.19,
+      "spyTrend": true,
+      "spyGapPct": 6.54
+    },
+    {
+      "symbol": "TJX",
+      "category": "stock",
+      "price": 129.86,
+      "usdTrend": false,
+      "usdGapPct": -4.58,
+      "spyTrend": false,
+      "spyGapPct": -0.5
+    },
+    {
+      "symbol": "TKO",
+      "category": "stock",
+      "price": 187.86,
+      "usdTrend": true,
+      "usdGapPct": 2.16,
+      "spyTrend": true,
+      "spyGapPct": 6.48
+    },
+    {
+      "symbol": "TSCO",
+      "category": "stock",
+      "price": 38.47,
+      "usdTrend": true,
+      "usdGapPct": 14.33,
+      "spyTrend": true,
+      "spyGapPct": 19.16
+    },
+    {
+      "symbol": "TT",
+      "category": "stock",
+      "price": 405.61,
+      "usdTrend": false,
+      "usdGapPct": -8.37,
+      "spyTrend": false,
+      "spyGapPct": -4.4
+    },
+    {
+      "symbol": "TDG",
+      "category": "stock",
+      "price": 1187.135,
+      "usdTrend": true,
+      "usdGapPct": 4.44,
+      "spyTrend": true,
+      "spyGapPct": 8.86
+    },
+    {
+      "symbol": "TRV",
+      "category": "stock",
+      "price": 397.53,
+      "usdTrend": true,
+      "usdGapPct": 4.17,
+      "spyTrend": true,
+      "spyGapPct": 8.59
+    },
+    {
+      "symbol": "TRMB",
+      "category": "stock",
+      "price": 53.64,
+      "usdTrend": false,
+      "usdGapPct": -9.3,
+      "spyTrend": false,
+      "spyGapPct": -5.4
+    },
+    {
+      "symbol": "TFC",
+      "category": "stock",
+      "price": 48.45,
+      "usdTrend": true,
+      "usdGapPct": 0.37,
+      "spyTrend": true,
+      "spyGapPct": 4.63
+    },
+    {
+      "symbol": "TWLO",
+      "category": "stock",
+      "price": 193.975,
+      "usdTrend": false,
+      "usdGapPct": -22.96,
+      "spyTrend": false,
+      "spyGapPct": -19.57
+    },
+    {
+      "symbol": "TYL",
+      "category": "stock",
+      "price": 409.36,
+      "usdTrend": true,
+      "usdGapPct": 12.53,
+      "spyTrend": true,
+      "spyGapPct": 17.23
+    },
+    {
+      "symbol": "TSN",
+      "category": "stock",
+      "price": 63.675,
+      "usdTrend": true,
+      "usdGapPct": 16.54,
+      "spyTrend": true,
+      "spyGapPct": 21.46
+    },
+    {
+      "symbol": "USB",
+      "category": "stock",
+      "price": 59.19,
+      "usdTrend": false,
+      "usdGapPct": -0.41,
+      "spyTrend": true,
+      "spyGapPct": 3.82
+    },
+    {
+      "symbol": "UBER",
+      "category": "stock",
+      "price": 68.82,
+      "usdTrend": false,
+      "usdGapPct": -0.84,
+      "spyTrend": true,
+      "spyGapPct": 3.4
+    },
+    {
+      "symbol": "UDR",
+      "category": "stock",
+      "price": 36.07,
+      "usdTrend": true,
+      "usdGapPct": 3.35,
       "spyTrend": true,
       "spyGapPct": 7.73
     },
     {
+      "symbol": "ULTA",
+      "category": "stock",
+      "price": 640.28,
+      "usdTrend": true,
+      "usdGapPct": 8.64,
+      "spyTrend": true,
+      "spyGapPct": 13.22
+    },
+    {
+      "symbol": "UNP",
+      "category": "stock",
+      "price": 297.02,
+      "usdTrend": true,
+      "usdGapPct": 3.3,
+      "spyTrend": true,
+      "spyGapPct": 7.68
+    },
+    {
+      "symbol": "UAL",
+      "category": "stock",
+      "price": 106.36,
+      "usdTrend": false,
+      "usdGapPct": -1.62,
+      "spyTrend": true,
+      "spyGapPct": 2.57
+    },
+    {
+      "symbol": "UPS",
+      "category": "stock",
+      "price": 110.31,
+      "usdTrend": true,
+      "usdGapPct": 9.44,
+      "spyTrend": true,
+      "spyGapPct": 14.05
+    },
+    {
+      "symbol": "URI",
+      "category": "stock",
+      "price": 1082.1,
+      "usdTrend": true,
+      "usdGapPct": 1.32,
+      "spyTrend": true,
+      "spyGapPct": 5.64
+    },
+    {
+      "symbol": "UNH",
+      "category": "stock",
+      "price": 389.695,
+      "usdTrend": false,
+      "usdGapPct": -0.51,
+      "spyTrend": true,
+      "spyGapPct": 3.72
+    },
+    {
+      "symbol": "UHS",
+      "category": "stock",
+      "price": 192.19,
+      "usdTrend": true,
+      "usdGapPct": 5.71,
+      "spyTrend": true,
+      "spyGapPct": 10.19
+    },
+    {
+      "symbol": "VLO",
+      "category": "stock",
+      "price": 363.7,
+      "usdTrend": false,
+      "usdGapPct": -9.07,
+      "spyTrend": false,
+      "spyGapPct": -5.12
+    },
+    {
+      "symbol": "VEEV",
+      "category": "stock",
+      "price": 288.49,
+      "usdTrend": false,
+      "usdGapPct": -1.18,
+      "spyTrend": true,
+      "spyGapPct": 3.03
+    },
+    {
+      "symbol": "VTR",
+      "category": "stock",
+      "price": 88.04,
+      "usdTrend": true,
+      "usdGapPct": 1.91,
+      "spyTrend": true,
+      "spyGapPct": 6.24
+    },
+    {
+      "symbol": "VLTO",
+      "category": "stock",
+      "price": 118.29,
+      "usdTrend": true,
+      "usdGapPct": 15.42,
+      "spyTrend": true,
+      "spyGapPct": 20.26
+    },
+    {
+      "symbol": "VRSN",
+      "category": "stock",
+      "price": 305.505,
+      "usdTrend": true,
+      "usdGapPct": 1.66,
+      "spyTrend": true,
+      "spyGapPct": 5.99
+    },
+    {
+      "symbol": "VRSK",
+      "category": "stock",
+      "price": 205.28,
+      "usdTrend": true,
+      "usdGapPct": 11.08,
+      "spyTrend": true,
+      "spyGapPct": 15.75
+    },
+    {
+      "symbol": "VZ",
+      "category": "stock",
+      "price": 45.93,
+      "usdTrend": false,
+      "usdGapPct": -0.5,
+      "spyTrend": true,
+      "spyGapPct": 3.73
+    },
+    {
+      "symbol": "VRTX",
+      "category": "stock",
+      "price": 534.055,
+      "usdTrend": true,
+      "usdGapPct": 2.26,
+      "spyTrend": true,
+      "spyGapPct": 6.6
+    },
+    {
+      "symbol": "VRT",
+      "category": "stock",
+      "price": 190.19,
+      "usdTrend": false,
+      "usdGapPct": -17.12,
+      "spyTrend": false,
+      "spyGapPct": -13.51
+    },
+    {
+      "symbol": "VTRS",
+      "category": "stock",
+      "price": 20.445,
+      "usdTrend": true,
+      "usdGapPct": 12.4,
+      "spyTrend": true,
+      "spyGapPct": 17.15
+    },
+    {
+      "symbol": "VICI",
+      "category": "stock",
+      "price": 24.52,
+      "usdTrend": true,
+      "usdGapPct": 2.41,
+      "spyTrend": true,
+      "spyGapPct": 6.75
+    },
+    {
+      "symbol": "V",
+      "category": "stock",
+      "price": 416.74,
+      "usdTrend": true,
+      "usdGapPct": 6.47,
+      "spyTrend": true,
+      "spyGapPct": 10.97
+    },
+    {
+      "symbol": "VST",
+      "category": "stock",
+      "price": 127.11,
+      "usdTrend": false,
+      "usdGapPct": -11.01,
+      "spyTrend": false,
+      "spyGapPct": -7.14
+    },
+    {
+      "symbol": "VMRK",
+      "category": "stock",
+      "price": 64.04,
+      "usdTrend": true,
+      "usdGapPct": 2.37,
+      "spyTrend": true,
+      "spyGapPct": 6.72
+    },
+    {
+      "symbol": "VMC",
+      "category": "stock",
+      "price": 275,
+      "usdTrend": true,
+      "usdGapPct": 6.1,
+      "spyTrend": true,
+      "spyGapPct": 10.58
+    },
+    {
+      "symbol": "VYLR",
+      "category": "stock",
+      "price": 68.81,
+      "usdTrend": false,
+      "usdGapPct": -4.29,
+      "spyTrend": false,
+      "spyGapPct": -0.16
+    },
+    {
+      "symbol": "WRB",
+      "category": "stock",
+      "price": 77.56,
+      "usdTrend": true,
+      "usdGapPct": 7.38,
+      "spyTrend": true,
+      "spyGapPct": 11.94
+    },
+    {
+      "symbol": "GWW",
+      "category": "stock",
+      "price": 1467.03,
+      "usdTrend": true,
+      "usdGapPct": 10.04,
+      "spyTrend": true,
+      "spyGapPct": 14.69
+    },
+    {
+      "symbol": "WAB",
+      "category": "stock",
+      "price": 290.46,
+      "usdTrend": true,
+      "usdGapPct": 1.42,
+      "spyTrend": true,
+      "spyGapPct": 5.75
+    },
+    {
+      "symbol": "WMT",
+      "category": "stock",
+      "price": 127.5,
+      "usdTrend": true,
+      "usdGapPct": 10.9,
+      "spyTrend": true,
+      "spyGapPct": 15.58
+    },
+    {
+      "symbol": "DIS",
+      "category": "stock",
+      "price": 116.96,
+      "usdTrend": true,
+      "usdGapPct": 6.84,
+      "spyTrend": true,
+      "spyGapPct": 11.36
+    },
+    {
+      "symbol": "WM",
+      "category": "stock",
+      "price": 242.65,
+      "usdTrend": true,
+      "usdGapPct": 9.32,
+      "spyTrend": true,
+      "spyGapPct": 13.94
+    },
+    {
+      "symbol": "WAT",
+      "category": "stock",
+      "price": 449.79,
+      "usdTrend": true,
+      "usdGapPct": 1.96,
+      "spyTrend": true,
+      "spyGapPct": 6.3
+    },
+    {
+      "symbol": "WEC",
+      "category": "stock",
+      "price": 116.265,
+      "usdTrend": true,
+      "usdGapPct": 7.46,
+      "spyTrend": true,
+      "spyGapPct": 12
+    },
+    {
+      "symbol": "WFC",
+      "category": "stock",
+      "price": 82.72,
+      "usdTrend": false,
+      "usdGapPct": -1.66,
+      "spyTrend": true,
+      "spyGapPct": 2.53
+    },
+    {
+      "symbol": "WELL",
+      "category": "stock",
+      "price": 245.75,
+      "usdTrend": true,
+      "usdGapPct": 4.69,
+      "spyTrend": true,
+      "spyGapPct": 9.13
+    },
+    {
+      "symbol": "WST",
+      "category": "stock",
+      "price": 414.03,
+      "usdTrend": true,
+      "usdGapPct": 8.47,
+      "spyTrend": true,
+      "spyGapPct": 13.07
+    },
+    {
+      "symbol": "WDC",
+      "category": "stock",
+      "price": 283.2,
+      "usdTrend": false,
+      "usdGapPct": -27,
+      "spyTrend": false,
+      "spyGapPct": -23.79
+    },
+    {
+      "symbol": "WY",
+      "category": "stock",
+      "price": 20.1,
+      "usdTrend": false,
+      "usdGapPct": -0.84,
+      "spyTrend": true,
+      "spyGapPct": 3.35
+    },
+    {
+      "symbol": "WSM",
+      "category": "stock",
+      "price": 250.08,
+      "usdTrend": true,
+      "usdGapPct": 3.2,
+      "spyTrend": true,
+      "spyGapPct": 7.59
+    },
+    {
       "symbol": "WMB",
       "category": "stock",
-      "price": 67.62,
+      "price": 67.46,
       "usdTrend": false,
-      "usdGapPct": -4.94,
+      "usdGapPct": -4.99,
       "spyTrend": false,
-      "spyGapPct": -1.8
+      "spyGapPct": -0.9
     },
     {
       "symbol": "WTW",
       "category": "stock",
-      "price": 338.13,
+      "price": 330.915,
       "usdTrend": true,
-      "usdGapPct": 8.05,
+      "usdGapPct": 5.72,
       "spyTrend": true,
-      "spyGapPct": 11.55
+      "spyGapPct": 10.19
     },
     {
       "symbol": "WDAY",
       "category": "stock",
-      "price": 194.1,
-      "usdTrend": true,
-      "usdGapPct": 0.41,
-      "spyTrend": true,
-      "spyGapPct": 3.69
+      "price": 182.72,
+      "usdTrend": false,
+      "usdGapPct": -5.46,
+      "spyTrend": false,
+      "spyGapPct": -1.43
     },
     {
       "symbol": "WYNN",
       "category": "stock",
-      "price": 82.19,
+      "price": 81.705,
       "usdTrend": true,
-      "usdGapPct": 2.71,
+      "usdGapPct": 2.34,
       "spyTrend": true,
-      "spyGapPct": 6.04
+      "spyGapPct": 6.68
     },
     {
       "symbol": "XEL",
       "category": "stock",
-      "price": 81.215,
+      "price": 80.74,
       "usdTrend": true,
-      "usdGapPct": 7.67,
+      "usdGapPct": 6.88,
       "spyTrend": true,
-      "spyGapPct": 11.16
+      "spyGapPct": 11.41
     },
     {
       "symbol": "XYL",
       "category": "stock",
-      "price": 95.93,
+      "price": 94.69,
       "usdTrend": false,
-      "usdGapPct": -6.21,
+      "usdGapPct": -7.25,
       "spyTrend": false,
-      "spyGapPct": -3.12
+      "spyGapPct": -3.27
     },
     {
       "symbol": "YUM",
       "category": "stock",
-      "price": 162.29,
+      "price": 161.32,
       "usdTrend": true,
-      "usdGapPct": 9.91,
+      "usdGapPct": 9.08,
       "spyTrend": true,
-      "spyGapPct": 13.47
+      "spyGapPct": 13.69
     },
     {
       "symbol": "ZBRA",
       "category": "stock",
-      "price": 319.85,
+      "price": 312.29,
       "usdTrend": false,
-      "usdGapPct": -11.57,
+      "usdGapPct": -13.45,
       "spyTrend": false,
-      "spyGapPct": -8.61
+      "spyGapPct": -9.69
     },
     {
       "symbol": "ZBH",
       "category": "stock",
-      "price": 101.415,
+      "price": 102.11,
       "usdTrend": true,
-      "usdGapPct": 5.89,
+      "usdGapPct": 6.54,
       "spyTrend": true,
-      "spyGapPct": 9.31
+      "spyGapPct": 11.03
     },
     {
       "symbol": "ZTS",
       "category": "stock",
-      "price": 84.425,
+      "price": 83.475,
       "usdTrend": true,
-      "usdGapPct": 10.66,
+      "usdGapPct": 9.17,
       "spyTrend": true,
-      "spyGapPct": 14.25
+      "spyGapPct": 13.78
     }
   ]
 }
